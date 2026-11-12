@@ -218,6 +218,49 @@
     main.querySelectorAll('details.scene[data-sid]').forEach(d => { if (openSet.has(d.dataset.sid)) d.open = true; });
   }
 
+  // ---------- Đồng bộ nhóm (Supabase của SNAKE OPS) ----------
+  const SS = window.SharedStore;
+  const SH = { session: null, orgs: [], orgId: '', busy: false, msg: '' };
+  const hasShared = () => !!(window.SharedClient && window.SharedClient.configured());
+
+  function viewSharing() {
+    if (!hasShared()) {
+      return `<section class="card"><h2>Đồng bộ nhóm</h2><p class="muted">Chưa bật. Dự án chỉ lưu trên trình duyệt này. Khi project Supabase DEV của SNAKE OPS được xác nhận, điền <code>config.js</code> (xem README, mục “Đồng bộ nhóm”).</p></section>`;
+    }
+    const orgOpts = SH.orgs.map(o => `<option value="${esc(o.id)}" ${o.id === SH.orgId ? 'selected' : ''}>${esc(o.name)} (${esc(o.role)})</option>`).join('');
+    const controls = SH.session
+      ? `<div class="row gap wrap">
+          <label class="field inline"><span>Tổ chức</span><select data-chg="sharedOrg"><option value="">— chọn —</option>${orgOpts}</select></label>
+          <button data-act="sharedOrgs">Làm mới danh sách</button>
+          <button class="primary" data-act="sharedPullAll" ${SH.orgId ? '' : 'disabled'}>Tải tất cả dự án từ nhóm</button>
+          <button data-act="sharedPushCurrent" ${SH.orgId && cur() ? '' : 'disabled'}>Lưu dự án đang mở lên nhóm</button>
+          <button data-act="sharedSignOut">Đăng xuất</button>
+        </div>`
+      : `<div class="row gap wrap">
+          <label class="field inline"><span>Email</span><input type="email" id="shEmail" placeholder="ten@cong-ty.com"></label>
+          <button class="primary" data-act="sharedSignIn">Gửi liên kết đăng nhập</button>
+        </div>`;
+    return `<section class="card"><h2>Đồng bộ nhóm (Supabase SNAKE OPS)</h2>
+      ${controls}
+      ${SH.busy ? '<p class="muted small">Đang xử lý…</p>' : ''}
+      ${SH.msg ? `<p class="small">${esc(SH.msg)}</p>` : ''}
+      <p class="muted small">Nếu người khác đã lưu sau bạn, máy chủ từ chối (xung đột). Khi tải bản nhóm, bản trên máy bạn được lưu thành checkpoint trước, nên không mất công việc.</p>
+    </section>`;
+  }
+
+  async function sharedRun(fn, onError) {
+    SH.busy = true; render();
+    try { await fn(); }
+    catch (err) { if (onError) onError(err); else SH.msg = (err && err.message) || 'Lỗi đồng bộ.'; }
+    SH.busy = false; render();
+  }
+
+  function keepCheckpoint(id, name, snapshot, revision) {
+    const list = S.checkpoints[id] || [];
+    list.unshift({ id: C.uid('cp'), name, at: now(), revision, snapshot });
+    S.checkpoints[id] = list.slice(0, 10);
+  }
+
   // ---------- Tổng quan ----------
   function viewDashboard() {
     const sums = S.order.filter(id => S.projects[id]).map(id => C.projectSummary(S.projects[id]));
@@ -271,6 +314,7 @@
         <button data-act="go" data-screen="templates">Quản lý mẫu</button>
       </div>
       <section class="cards">${cards || '<div class="empty"><p>Chưa có dự án. Bấm “+ Dự án mới” để bắt đầu.</p></div>'}</section>
+      ${viewSharing()}
       ${verify}`;
   }
 
@@ -907,6 +951,64 @@
   }
 
   const ACTIONS = {
+    sharedSignIn() {
+      const email = ((document.getElementById('shEmail') || {}).value || '').trim();
+      if (!email.includes('@')) { toast('Nhập email hợp lệ.', 'warn'); return; }
+      sharedRun(async () => {
+        await window.SharedClient.signIn(email);
+        SH.msg = 'Đã gửi liên kết đăng nhập tới email. Mở email rồi quay lại trang này.';
+      });
+    },
+    sharedSignOut() {
+      sharedRun(async () => { await window.SharedClient.signOut(); SH.session = null; SH.orgs = []; SH.orgId = ''; SH.msg = 'Đã đăng xuất.'; });
+    },
+    sharedOrgs() {
+      sharedRun(async () => {
+        SH.session = await window.SharedClient.session();
+        if (!SH.session) { SH.msg = 'Chưa đăng nhập.'; return; }
+        SH.orgs = await window.SharedClient.myOrgs();
+        if (!SH.orgs.some(o => o.id === SH.orgId)) SH.orgId = SH.orgs[0] ? SH.orgs[0].id : '';
+        SH.msg = `Có ${SH.orgs.length} tổ chức.`;
+      });
+    },
+    sharedPushCurrent() {
+      const p = cur();
+      if (!p || !SH.orgId) return;
+      sharedRun(async () => {
+        const rev = await window.SharedClient.push(SH.orgId, p);
+        p.remoteRevision = rev;
+        p.remoteOrgId = SH.orgId;
+        save();
+        SH.msg = `Đã lưu “${p.title}” lên nhóm (revision ${rev}).`;
+      }, err => {
+        const e = SS.parseRpcError(err);
+        SH.msg = e.message + (e.code === 'REVISION_CONFLICT' ? ' Bấm “Tải tất cả dự án từ nhóm” để nhận bản mới.' : '');
+      });
+    },
+    sharedPullAll() {
+      if (!SH.orgId) return;
+      sharedRun(async () => {
+        const rows = await window.SharedClient.pull(SH.orgId);
+        let added = 0, updated = 0;
+        rows.forEach(row => {
+          const remote = SS.fromRemote(row);
+          remote.remoteOrgId = SH.orgId;
+          const local = S.projects[row.id];
+          if (local && local.remoteRevision === remote.remoteRevision) return;
+          if (local) {
+            keepCheckpoint(row.id, `Bản local trước khi tải bản nhóm (${fmt(now())})`, JSON.stringify(SS.toPayload(local)), local.revision || 0);
+            updated++;
+          } else {
+            added++;
+            S.order.unshift(row.id);
+          }
+          S.projects[row.id] = remote;
+        });
+        if (!S.currentId || !S.projects[S.currentId]) S.currentId = S.order.find(id => S.projects[id]) || '';
+        save();
+        SH.msg = `Tải xong: ${added} dự án mới, ${updated} dự án được cập nhật (bản cũ đã lưu làm checkpoint).`;
+      });
+    },
     nav(t) { go(t.dataset.screen); },
     go(t) { go(t.dataset.screen); },
     open(t) { S.currentId = t.dataset.id; S.screen = 'script'; save(); render(); },
@@ -1289,7 +1391,8 @@
       reader.readAsText(file, 'utf-8');
       t.value = '';
     },
-    switchProj(t) { S.currentId = t.value; UI.page = 0; save(); render(); }
+    switchProj(t) { S.currentId = t.value; UI.page = 0; save(); render(); },
+    sharedOrg(t) { SH.orgId = t.value; SH.msg = ''; render(); }
   };
 
   // Các thay đổi cần bỏ qua những ô không thuộc logic (giữ tương thích)
@@ -1315,4 +1418,7 @@
   if (S.currentId && !S.projects[S.currentId]) S.currentId = S.order.find(id => S.projects[id]) || '';
   if (!S.currentId) S.currentId = S.order.find(id => S.projects[id]) || '';
   render();
+  if (hasShared()) {
+    window.SharedClient.session().then(sess => { SH.session = sess; if (sess) ACTIONS.sharedOrgs(); }).catch(() => {});
+  }
 })();

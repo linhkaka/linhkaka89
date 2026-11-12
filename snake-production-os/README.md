@@ -68,7 +68,7 @@ Các mục dưới đây có kiểm thử tự động (`tests/core.test.js`, 24
 | Seedance 2.0 (Runway) | Ghi nhận tài liệu Runway ngày 12/11/2026. Chưa kiểm tài khoản hoặc API. Không suy cho nhà cung cấp khác. |
 | Gửi job tự động | **Không có.** Hàng đợi chỉ ghi nhận thủ công. Không có worker, lease hay retry tự động. |
 | TTS và đo thời lượng | **Không có.** Thời lượng voice ước tính chỉ để tham khảo; phải nhập số đo thật. |
-| Cộng tác nhiều người theo thời gian thực | **Không có.** Không có máy chủ, đăng nhập hay phân quyền. Chia sẻ bằng xuất/nhập JSON. |
+| Cộng tác nhiều người theo thời gian thực | **Chưa bật trên project thật.** Có thiết kế và bản nháp trên Supabase của OPS (xem mục Đồng bộ nhóm). Hiện chỉ có xuất/nhập JSON. |
 | Kiểm hình ảnh bằng AI | **Không triển khai.** QC là người duyệt. |
 | Tỷ giá tiền tệ | Không quy đổi. Mỗi tiền tệ tính riêng. |
 | Hash nguồn | FNV-1a 32-bit: chỉ phát hiện thay đổi, không phải mã bảo mật. |
@@ -81,6 +81,53 @@ Các mục dưới đây có kiểm thử tự động (`tests/core.test.js`, 24
 - Khi nạp kịch bản bằng cách dán, một số trình duyệt đổi CRLF thành LF. Nên nạp file `.txt` để giữ nguyên byte trước khi khóa.
 - Nhân vật và bối cảnh chỉ ghi **tên ảnh tham chiếu đã map**; ứng dụng không tạo hay lưu mã tham chiếu của nhà cung cấp.
 
+## Đồng bộ nhóm (Supabase của SNAKE OPS)
+
+Dự án có thể lưu lên Supabase của SNAKE OPS để nhiều người cùng làm. Mặc định vẫn chỉ lưu trên trình duyệt.
+
+### Trạng thái
+
+| Phần | Trạng thái |
+|---|---|
+| `supabase/sql/004_pop_shared_projects.sql` | **Bản nháp đã review, CHƯA áp dụng vào project nào.** Theo `docs/SUPABASE_DEV_GATE.md` của OPS, chỉ áp dụng sau khi project DEV riêng của SNAKE OPS được xác nhận. |
+| Kiểm thử RLS/RPC trên PostgreSQL 16 cục bộ | **Đã chạy**: 27 khẳng định đạt, trên môi trường giả lập Supabase với file lõi OPS `001_ops_core.sql`. Một đột biến cố ý (nới quyền ghi trực tiếp) bị bộ test bắt được. |
+| Kiểm tra tĩnh bất biến bảo mật | Đã chạy (8 ca). |
+| Logic revision/xung đột (`shared-store.js`) | Đã chạy (7 ca Node). |
+| Kết nối trình duyệt (`shared.js`) | Viết xong, **chưa chạy với Supabase thật** (chưa có project, chưa có email đăng nhập). |
+| Live RLS và E2E trên project DEV | **Chưa chạy.** Cần project DEV đã xác nhận. |
+
+### Thiết kế
+
+- Quyền lấy từ `organization_members` của OPS (không dùng `user_metadata`). Bảng `pop_projects` lưu toàn bộ dự án dạng jsonb kèm `revision`.
+- Bảng và hàm không có quyền ghi trực tiếp; mọi thay đổi qua RPC `pop_create_project`, `pop_save_project`, `pop_delete_project` có kiểm quyền và kiểm revision.
+- Vai trò: đọc là mọi thành viên; ghi là mọi vai trò trừ `VIEWER`; xóa và mở khóa nguồn là quản lý (`EXECUTIVE`, `OPS_MANAGER`, `TEAM_LEAD`); chuyển cảnh sang "Đã duyệt" là người duyệt (`QA` trở lên) và cảnh phải có QC đủ 5 mục đạt, có take đã chọn và take đạt.
+- Mọi thay đổi ghi vào `pop_project_events` (chỉ thêm, có trigger chặn sửa và xóa).
+- Xung đột: `REVISION_CONFLICT` khi base khác revision hiện tại. Khi tải bản nhóm, bản local được lưu thành checkpoint trước.
+
+### Giới hạn đã biết
+
+- Ghi là thủ công (nút "Lưu dự án đang mở lên nhóm"), không tự đồng bộ.
+- Mỗi lần lưu ghi cả dự án; không gộp thay đổi từng trường. Hai người sửa cùng dự án sẽ có một người phải tải bản nhóm.
+- Checkpoint vẫn chỉ nằm trên trình duyệt, chưa lên máy chủ.
+- Kiểm tra server chỉ bao quát các luật diễn đạt được bằng SQL (quyền, revision, QC tối thiểu của cảnh đã duyệt). Luật nghiệp vụ đầy đủ vẫn nằm ở `core.js`.
+- Theo quy tắc của OPS, mọi migration phải tạo bằng `supabase migration new <tên>` và qua Supabase advisors trước khi dùng.
+
+### Cách bật (khi project DEV đã xác nhận)
+
+1. Đặt `SUPABASE_PROJECT_ID`, cài Supabase CLI hiện hành.
+2. `supabase migration new pop_shared_projects`, copy `004_pop_shared_projects.sql` vào migration vừa tạo (không tự đặt timestamp).
+3. Áp dụng vào DEV; chạy security và performance advisors.
+4. Điền `config.js` bằng URL và khóa **anon/publishable** của project DEV. Không đặt khóa service_role.
+5. Tạo người dùng thử và membership trong `organization_members`; đăng nhập qua email rồi thử luồng lưu/tải/xung đột.
+6. Chạy lại `supabase/tests/run-local-db.sh` và viết kiểm thử RLS chạy trên DEV trước khi dùng thật.
+
+Chạy kiểm thử cục bộ:
+
+```bash
+OPS_REPO=/duong/dan/snake-control-center PGHOST=127.0.0.1 PGPORT=5432 ./supabase/tests/run-local-db.sh
+node --test tests/shared-store.test.js supabase/tests/pop-static.test.mjs
+```
+
 ## Cấu trúc
 
 ```
@@ -89,13 +136,19 @@ snake-production-os/
 ├── styles.css        # giao diện, có chế độ tối và bố cục điện thoại
 ├── core.js           # logic thuần: phân cảnh, prompt, continuity, cổng, xuất file
 ├── app.js            # giao diện tiếng Việt, trạng thái, sự kiện
+├── shared-store.js   # logic revision/xung đột cho đồng bộ nhóm (thuần)
+├── shared.js         # kết nối Supabase (chỉ tải khi có config.js)
+├── config.js         # cấu hình Supabase (mặc định trống)
+├── supabase/sql/004_pop_shared_projects.sql   # bản nháp, chưa áp dụng
+├── supabase/tests/   # kiểm thử RLS/RPC cục bộ và kiểm tra tĩnh
 ├── tests/core.test.js
+├── tests/shared-store.test.js
 └── README.md
 ```
 
 ## Hướng phát triển đề xuất
 
-1. Backend có đăng nhập và phân quyền theo dự án (theo `docs/04_ARCHITECTURE_AND_CONTRACTS.md` trong gói bàn giao).
+1. Áp dụng đồng bộ nhóm vào project DEV của SNAKE OPS khi được xác nhận (xem mục Đồng bộ nhóm).
 2. Adapter model: chỉ thêm khi đã kiểm tài khoản, API và giới hạn thật của từng model.
 3. Đo thời lượng TTS thật theo chunk, và chỉ khóa voice sau khi nghe duyệt phát âm.
 4. Tích hợp dần các module đã có (Batch Video Director, ArcReel) qua hợp đồng dữ liệu một chiều trước.
