@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>SNAKE Production OS</title>
+  <meta name="description" content="Quản lý, tái sử dụng và điều phối quy trình sản xuất video/phim dài cho SNAKE MEDIA.">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a class="skip" href="#main">Bỏ qua điều hướng</a>
+  <div class="app">
+    <aside class="side" aria-label="Điều hướng">
+      <div class="brand">
+        <b>SNAKE</b> Production OS
+        <small>Bản thử nghiệm · dữ liệu lưu trên trình duyệt này</small>
+      </div>
+      <nav id="nav" class="nav"></nav>
+    </aside>
+    <div class="content">
+      <header class="top">
+        <label class="pick"><span>Dự án đang mở</span>
+          <select id="projSel" aria-label="Chọn dự án"></select>
+        </label>
+        <div id="gate"></div>
+      </header>
+      <main id="main" class="main"></main>
+    </div>
+  </div>
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  <input type="file" id="fileTxt" accept=".txt,.md" hidden>
+  <input type="file" id="fileJson" accept=".json,application/json" hidden>
+  <script src="core.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
