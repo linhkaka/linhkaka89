@@ -1,0 +1,6 @@
+scripts/
+tests/
+.github/
+node_modules/
+.git/
+package.json
