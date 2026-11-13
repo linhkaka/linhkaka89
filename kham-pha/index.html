@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Khám phá · Bản đồ kiến thức Toán</title>
+<meta name="description" content="Bản đồ kiến thức Toán lớp 1–12 theo GDPT 2018: xem kiến thức tiền đề và kiến thức tiếp nối.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%23b3261e'/%3E%3Ctext x='16' y='22' font-size='16' text-anchor='middle' fill='white' font-family='sans-serif'%3E%E2%88%91%3C/text%3E%3C/svg%3E">
+<link rel="stylesheet" href="../assets/site.css">
+</head>
+<body class="wide">
+<header class="site-header">
+  <a class="brand" href="../"><span class="logo">∑</span><span>Bản đồ kiến thức Toán<small>GDPT 2018 · Lớp 1–12</small></span></a>
+  <nav aria-label="Điều hướng chính">
+    <a href="../">Trang chủ</a>
+    <a class="on" href="./" aria-current="page">Khám phá</a>
+    <a href="../chan-doan/">Chẩn đoán</a>
+  </nav>
+</header>
+<main>
+  <h1>Khám phá bản đồ kiến thức</h1>
+  <div class="card row">
+    <div style="flex:2 1 260px;position:relative">
+      <input id="q" type="search" placeholder="Tìm kiến thức…" aria-label="Tìm kiến thức" autocomplete="off">
+      <div id="hits" class="results" hidden style="position:absolute;left:0;right:0;z-index:5;background:var(--card)"></div>
+    </div>
+    <label style="flex:1 1 140px"><span class="small muted">Xem cả lớp</span>
+      <select id="grade" aria-label="Xem cả lớp"><option value="">— chọn lớp —</option></select></label>
+    <label style="flex:1 1 120px"><span class="small muted">Lùi về tiền đề</span>
+      <select id="up" aria-label="Số tầng tiền đề"><option>1</option><option selected>2</option><option>3</option><option>4</option><option value="99">Tất cả</option></select></label>
+    <label style="flex:1 1 120px"><span class="small muted">Tiến tới kiến thức sau</span>
+      <select id="down" aria-label="Số tầng kiến thức sau"><option>0</option><option selected>1</option><option>2</option><option>3</option></select></label>
+  </div>
+  <div class="split">
+    <div id="cy" role="img" aria-label="Sơ đồ quan hệ tiền đề giữa các kiến thức"></div>
+    <aside id="panel" class="card" style="margin:0"><p class="muted">Đang tải…</p></aside>
+  </div>
+  <p class="small muted">Mũi tên đi từ kiến thức nền đến kiến thức cần nó. Nét liền: tiền đề bắt buộc (hard); nét đứt: nên biết trước (soft). Màu nút theo cấp học.</p>
+</main>
+<footer>Dữ liệu cần giáo viên rà soát trước khi dùng để đánh giá chính thức · <a href="https://github.com/linhkaka/linhkaka89">Mã nguồn</a></footer>
+<script src="../assets/vendor/cytoscape.min.js"></script>
+<script src="../assets/vendor/dagre.min.js"></script>
+<script src="../assets/vendor/cytoscape-dagre.js"></script>
+<script src="../assets/engine.js"></script>
+<script src="../assets/common.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

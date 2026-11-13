@@ -1,0 +1,2282 @@
+[
+ {
+  "topicId": "vnm_01_02",
+  "prerequisiteId": "vnm_01_01",
+  "strength": "hard",
+  "reason": "Học «So sánh các số trong phạm vi 10» cần nắm vững trước «Các số từ 0 đến 10»."
+ },
+ {
+  "topicId": "vnm_01_04",
+  "prerequisiteId": "vnm_01_01",
+  "strength": "hard",
+  "reason": "Học «Phép cộng trong phạm vi 10» cần nắm vững trước «Các số từ 0 đến 10»."
+ },
+ {
+  "topicId": "vnm_01_05",
+  "prerequisiteId": "vnm_01_04",
+  "strength": "hard",
+  "reason": "Học «Phép trừ trong phạm vi 10» cần nắm vững trước «Phép cộng trong phạm vi 10»."
+ },
+ {
+  "topicId": "vnm_01_06",
+  "prerequisiteId": "vnm_01_01",
+  "strength": "hard",
+  "reason": "Học «Các số đến 100: chục và đơn vị» cần nắm vững trước «Các số từ 0 đến 10»."
+ },
+ {
+  "topicId": "vnm_01_07",
+  "prerequisiteId": "vnm_01_06",
+  "strength": "hard",
+  "reason": "Học «So sánh số có hai chữ số» cần nắm vững trước «Các số đến 100: chục và đơn vị»."
+ },
+ {
+  "topicId": "vnm_01_07",
+  "prerequisiteId": "vnm_01_02",
+  "strength": "hard",
+  "reason": "Học «So sánh số có hai chữ số» cần nắm vững trước «So sánh các số trong phạm vi 10»."
+ },
+ {
+  "topicId": "vnm_01_08",
+  "prerequisiteId": "vnm_01_06",
+  "strength": "hard",
+  "reason": "Học «Độ dài và đo độ dài bằng xăng-ti-mét» cần nắm vững trước «Các số đến 100: chục và đơn vị»."
+ },
+ {
+  "topicId": "vnm_01_09",
+  "prerequisiteId": "vnm_01_06",
+  "strength": "hard",
+  "reason": "Học «Cộng, trừ (không nhớ) trong phạm vi 100» cần nắm vững trước «Các số đến 100: chục và đơn vị»."
+ },
+ {
+  "topicId": "vnm_01_09",
+  "prerequisiteId": "vnm_01_04",
+  "strength": "hard",
+  "reason": "Học «Cộng, trừ (không nhớ) trong phạm vi 100» cần nắm vững trước «Phép cộng trong phạm vi 10»."
+ },
+ {
+  "topicId": "vnm_01_09",
+  "prerequisiteId": "vnm_01_05",
+  "strength": "hard",
+  "reason": "Học «Cộng, trừ (không nhớ) trong phạm vi 100» cần nắm vững trước «Phép trừ trong phạm vi 10»."
+ },
+ {
+  "topicId": "vnm_01_10",
+  "prerequisiteId": "vnm_01_01",
+  "strength": "hard",
+  "reason": "Học «Xem giờ đúng; các ngày trong tuần» cần nắm vững trước «Các số từ 0 đến 10»."
+ },
+ {
+  "topicId": "vnm_02_01",
+  "prerequisiteId": "vnm_01_07",
+  "strength": "hard",
+  "reason": "Học «Số hạng – tổng; số bị trừ – số trừ – hiệu; tia số» cần nắm vững trước «So sánh số có hai chữ số»."
+ },
+ {
+  "topicId": "vnm_02_01",
+  "prerequisiteId": "vnm_01_09",
+  "strength": "hard",
+  "reason": "Học «Số hạng – tổng; số bị trừ – số trừ – hiệu; tia số» cần nắm vững trước «Cộng, trừ (không nhớ) trong phạm vi 100»."
+ },
+ {
+  "topicId": "vnm_02_02",
+  "prerequisiteId": "vnm_01_04",
+  "strength": "hard",
+  "reason": "Học «Phép cộng (qua 10) trong phạm vi 20» cần nắm vững trước «Phép cộng trong phạm vi 10»."
+ },
+ {
+  "topicId": "vnm_02_03",
+  "prerequisiteId": "vnm_02_02",
+  "strength": "hard",
+  "reason": "Học «Phép trừ (qua 10) trong phạm vi 20» cần nắm vững trước «Phép cộng (qua 10) trong phạm vi 20»."
+ },
+ {
+  "topicId": "vnm_02_03",
+  "prerequisiteId": "vnm_01_05",
+  "strength": "hard",
+  "reason": "Học «Phép trừ (qua 10) trong phạm vi 20» cần nắm vững trước «Phép trừ trong phạm vi 10»."
+ },
+ {
+  "topicId": "vnm_02_04",
+  "prerequisiteId": "vnm_01_09",
+  "strength": "hard",
+  "reason": "Học «Ki-lô-gam, lít» cần nắm vững trước «Cộng, trừ (không nhớ) trong phạm vi 100»."
+ },
+ {
+  "topicId": "vnm_02_05",
+  "prerequisiteId": "vnm_02_02",
+  "strength": "hard",
+  "reason": "Học «Phép cộng có nhớ trong phạm vi 100» cần nắm vững trước «Phép cộng (qua 10) trong phạm vi 20»."
+ },
+ {
+  "topicId": "vnm_02_05",
+  "prerequisiteId": "vnm_01_09",
+  "strength": "hard",
+  "reason": "Học «Phép cộng có nhớ trong phạm vi 100» cần nắm vững trước «Cộng, trừ (không nhớ) trong phạm vi 100»."
+ },
+ {
+  "topicId": "vnm_02_06",
+  "prerequisiteId": "vnm_02_03",
+  "strength": "hard",
+  "reason": "Học «Phép trừ có nhớ trong phạm vi 100» cần nắm vững trước «Phép trừ (qua 10) trong phạm vi 20»."
+ },
+ {
+  "topicId": "vnm_02_06",
+  "prerequisiteId": "vnm_02_05",
+  "strength": "hard",
+  "reason": "Học «Phép trừ có nhớ trong phạm vi 100» cần nắm vững trước «Phép cộng có nhớ trong phạm vi 100»."
+ },
+ {
+  "topicId": "vnm_02_07",
+  "prerequisiteId": "vnm_01_08",
+  "strength": "hard",
+  "reason": "Học «Điểm, đoạn thẳng, đường gấp khúc» cần nắm vững trước «Độ dài và đo độ dài bằng xăng-ti-mét»."
+ },
+ {
+  "topicId": "vnm_02_07",
+  "prerequisiteId": "vnm_02_05",
+  "strength": "hard",
+  "reason": "Học «Điểm, đoạn thẳng, đường gấp khúc» cần nắm vững trước «Phép cộng có nhớ trong phạm vi 100»."
+ },
+ {
+  "topicId": "vnm_02_08",
+  "prerequisiteId": "vnm_01_10",
+  "strength": "hard",
+  "reason": "Học «Ngày – giờ, giờ – phút; ngày – tháng» cần nắm vững trước «Xem giờ đúng; các ngày trong tuần»."
+ },
+ {
+  "topicId": "vnm_02_09",
+  "prerequisiteId": "vnm_02_05",
+  "strength": "hard",
+  "reason": "Học «Phép nhân; bảng nhân 2, bảng nhân 5» cần nắm vững trước «Phép cộng có nhớ trong phạm vi 100»."
+ },
+ {
+  "topicId": "vnm_02_10",
+  "prerequisiteId": "vnm_02_09",
+  "strength": "hard",
+  "reason": "Học «Phép chia; bảng chia 2, bảng chia 5» cần nắm vững trước «Phép nhân; bảng nhân 2, bảng nhân 5»."
+ },
+ {
+  "topicId": "vnm_02_11",
+  "prerequisiteId": "vnm_01_07",
+  "strength": "hard",
+  "reason": "Học «Các số trong phạm vi 1000» cần nắm vững trước «So sánh số có hai chữ số»."
+ },
+ {
+  "topicId": "vnm_02_12",
+  "prerequisiteId": "vnm_01_08",
+  "strength": "hard",
+  "reason": "Học «Đơn vị đo độ dài: mét, đề-xi-mét, ki-lô-mét, mi-li-mét» cần nắm vững trước «Độ dài và đo độ dài bằng xăng-ti-mét»."
+ },
+ {
+  "topicId": "vnm_02_12",
+  "prerequisiteId": "vnm_02_11",
+  "strength": "hard",
+  "reason": "Học «Đơn vị đo độ dài: mét, đề-xi-mét, ki-lô-mét, mi-li-mét» cần nắm vững trước «Các số trong phạm vi 1000»."
+ },
+ {
+  "topicId": "vnm_02_13",
+  "prerequisiteId": "vnm_02_11",
+  "strength": "hard",
+  "reason": "Học «Phép cộng, phép trừ trong phạm vi 1000» cần nắm vững trước «Các số trong phạm vi 1000»."
+ },
+ {
+  "topicId": "vnm_02_13",
+  "prerequisiteId": "vnm_02_06",
+  "strength": "hard",
+  "reason": "Học «Phép cộng, phép trừ trong phạm vi 1000» cần nắm vững trước «Phép trừ có nhớ trong phạm vi 100»."
+ },
+ {
+  "topicId": "vnm_02_14",
+  "prerequisiteId": "vnm_01_06",
+  "strength": "hard",
+  "reason": "Học «Thu thập, kiểm đếm số liệu; biểu đồ tranh; có thể – chắc chắn – không thể» cần nắm vững trước «Các số đến 100: chục và đơn vị»."
+ },
+ {
+  "topicId": "vnm_03_01",
+  "prerequisiteId": "vnm_02_09",
+  "strength": "hard",
+  "reason": "Học «Bảng nhân 3, 4, 6, 7, 8, 9» cần nắm vững trước «Phép nhân; bảng nhân 2, bảng nhân 5»."
+ },
+ {
+  "topicId": "vnm_03_02",
+  "prerequisiteId": "vnm_03_01",
+  "strength": "hard",
+  "reason": "Học «Bảng chia 3, 4, 6, 7, 8, 9» cần nắm vững trước «Bảng nhân 3, 4, 6, 7, 8, 9»."
+ },
+ {
+  "topicId": "vnm_03_02",
+  "prerequisiteId": "vnm_02_10",
+  "strength": "hard",
+  "reason": "Học «Bảng chia 3, 4, 6, 7, 8, 9» cần nắm vững trước «Phép chia; bảng chia 2, bảng chia 5»."
+ },
+ {
+  "topicId": "vnm_03_03",
+  "prerequisiteId": "vnm_03_02",
+  "strength": "hard",
+  "reason": "Học «Tìm thành phần chưa biết của phép tính» cần nắm vững trước «Bảng chia 3, 4, 6, 7, 8, 9»."
+ },
+ {
+  "topicId": "vnm_03_04",
+  "prerequisiteId": "vnm_03_01",
+  "strength": "hard",
+  "reason": "Học «Gấp một số lên nhiều lần, giảm một số đi một số lần» cần nắm vững trước «Bảng nhân 3, 4, 6, 7, 8, 9»."
+ },
+ {
+  "topicId": "vnm_03_04",
+  "prerequisiteId": "vnm_03_02",
+  "strength": "hard",
+  "reason": "Học «Gấp một số lên nhiều lần, giảm một số đi một số lần» cần nắm vững trước «Bảng chia 3, 4, 6, 7, 8, 9»."
+ },
+ {
+  "topicId": "vnm_03_05",
+  "prerequisiteId": "vnm_01_03",
+  "strength": "hard",
+  "reason": "Học «Góc vuông, góc không vuông; hình tròn: tâm, bán kính, đường kính» cần nắm vững trước «Nhận biết hình vuông, hình tròn, hình tam giác, hình chữ nhật»."
+ },
+ {
+  "topicId": "vnm_03_05",
+  "prerequisiteId": "vnm_02_07",
+  "strength": "hard",
+  "reason": "Học «Góc vuông, góc không vuông; hình tròn: tâm, bán kính, đường kính» cần nắm vững trước «Điểm, đoạn thẳng, đường gấp khúc»."
+ },
+ {
+  "topicId": "vnm_03_06",
+  "prerequisiteId": "vnm_03_01",
+  "strength": "hard",
+  "reason": "Học «Nhân số có hai, ba chữ số với số có một chữ số» cần nắm vững trước «Bảng nhân 3, 4, 6, 7, 8, 9»."
+ },
+ {
+  "topicId": "vnm_03_06",
+  "prerequisiteId": "vnm_02_13",
+  "strength": "hard",
+  "reason": "Học «Nhân số có hai, ba chữ số với số có một chữ số» cần nắm vững trước «Phép cộng, phép trừ trong phạm vi 1000»."
+ },
+ {
+  "topicId": "vnm_03_07",
+  "prerequisiteId": "vnm_03_02",
+  "strength": "hard",
+  "reason": "Học «Chia cho số có một chữ số; phép chia có dư» cần nắm vững trước «Bảng chia 3, 4, 6, 7, 8, 9»."
+ },
+ {
+  "topicId": "vnm_03_07",
+  "prerequisiteId": "vnm_03_06",
+  "strength": "hard",
+  "reason": "Học «Chia cho số có một chữ số; phép chia có dư» cần nắm vững trước «Nhân số có hai, ba chữ số với số có một chữ số»."
+ },
+ {
+  "topicId": "vnm_03_08",
+  "prerequisiteId": "vnm_03_06",
+  "strength": "hard",
+  "reason": "Học «Biểu thức số; tính giá trị biểu thức» cần nắm vững trước «Nhân số có hai, ba chữ số với số có một chữ số»."
+ },
+ {
+  "topicId": "vnm_03_08",
+  "prerequisiteId": "vnm_03_07",
+  "strength": "hard",
+  "reason": "Học «Biểu thức số; tính giá trị biểu thức» cần nắm vững trước «Chia cho số có một chữ số; phép chia có dư»."
+ },
+ {
+  "topicId": "vnm_03_09",
+  "prerequisiteId": "vnm_02_12",
+  "strength": "hard",
+  "reason": "Học «Mi-li-mét, gam, mi-li-lít, nhiệt độ» cần nắm vững trước «Đơn vị đo độ dài: mét, đề-xi-mét, ki-lô-mét, mi-li-mét»."
+ },
+ {
+  "topicId": "vnm_03_09",
+  "prerequisiteId": "vnm_02_04",
+  "strength": "hard",
+  "reason": "Học «Mi-li-mét, gam, mi-li-lít, nhiệt độ» cần nắm vững trước «Ki-lô-gam, lít»."
+ },
+ {
+  "topicId": "vnm_03_10",
+  "prerequisiteId": "vnm_02_11",
+  "strength": "hard",
+  "reason": "Học «Các số đến 10 000 và 100 000; làm tròn số» cần nắm vững trước «Các số trong phạm vi 1000»."
+ },
+ {
+  "topicId": "vnm_03_11",
+  "prerequisiteId": "vnm_02_07",
+  "strength": "hard",
+  "reason": "Học «Chu vi hình tam giác, tứ giác, hình chữ nhật, hình vuông» cần nắm vững trước «Điểm, đoạn thẳng, đường gấp khúc»."
+ },
+ {
+  "topicId": "vnm_03_11",
+  "prerequisiteId": "vnm_03_06",
+  "strength": "hard",
+  "reason": "Học «Chu vi hình tam giác, tứ giác, hình chữ nhật, hình vuông» cần nắm vững trước «Nhân số có hai, ba chữ số với số có một chữ số»."
+ },
+ {
+  "topicId": "vnm_03_12",
+  "prerequisiteId": "vnm_03_11",
+  "strength": "hard",
+  "reason": "Học «Diện tích; xăng-ti-mét vuông; diện tích hình chữ nhật, hình vuông» cần nắm vững trước «Chu vi hình tam giác, tứ giác, hình chữ nhật, hình vuông»."
+ },
+ {
+  "topicId": "vnm_03_12",
+  "prerequisiteId": "vnm_03_01",
+  "strength": "hard",
+  "reason": "Học «Diện tích; xăng-ti-mét vuông; diện tích hình chữ nhật, hình vuông» cần nắm vững trước «Bảng nhân 3, 4, 6, 7, 8, 9»."
+ },
+ {
+  "topicId": "vnm_03_13",
+  "prerequisiteId": "vnm_03_10",
+  "strength": "hard",
+  "reason": "Học «Cộng, trừ, nhân, chia trong phạm vi 100 000» cần nắm vững trước «Các số đến 10 000 và 100 000; làm tròn số»."
+ },
+ {
+  "topicId": "vnm_03_13",
+  "prerequisiteId": "vnm_03_07",
+  "strength": "hard",
+  "reason": "Học «Cộng, trừ, nhân, chia trong phạm vi 100 000» cần nắm vững trước «Chia cho số có một chữ số; phép chia có dư»."
+ },
+ {
+  "topicId": "vnm_03_14",
+  "prerequisiteId": "vnm_03_10",
+  "strength": "hard",
+  "reason": "Học «Tiền Việt Nam» cần nắm vững trước «Các số đến 10 000 và 100 000; làm tròn số»."
+ },
+ {
+  "topicId": "vnm_03_15",
+  "prerequisiteId": "vnm_02_14",
+  "strength": "hard",
+  "reason": "Học «Bảng số liệu thống kê; khả năng xảy ra của một sự kiện» cần nắm vững trước «Thu thập, kiểm đếm số liệu; biểu đồ tranh; có thể – chắc chắn – không thể»."
+ },
+ {
+  "topicId": "vnm_03_16",
+  "prerequisiteId": "vnm_02_08",
+  "strength": "hard",
+  "reason": "Học «Tháng – năm; xem đồng hồ chính xác đến phút» cần nắm vững trước «Ngày – giờ, giờ – phút; ngày – tháng»."
+ },
+ {
+  "topicId": "vnm_04_01",
+  "prerequisiteId": "vnm_03_10",
+  "strength": "hard",
+  "reason": "Học «Số có nhiều chữ số; hàng và lớp; lớp triệu» cần nắm vững trước «Các số đến 10 000 và 100 000; làm tròn số»."
+ },
+ {
+  "topicId": "vnm_04_02",
+  "prerequisiteId": "vnm_04_01",
+  "strength": "hard",
+  "reason": "Học «So sánh và làm tròn số có nhiều chữ số» cần nắm vững trước «Số có nhiều chữ số; hàng và lớp; lớp triệu»."
+ },
+ {
+  "topicId": "vnm_04_03",
+  "prerequisiteId": "vnm_03_05",
+  "strength": "hard",
+  "reason": "Học «Góc nhọn, góc tù, góc bẹt; đo góc, đơn vị độ» cần nắm vững trước «Góc vuông, góc không vuông; hình tròn: tâm, bán kính, đường kính»."
+ },
+ {
+  "topicId": "vnm_04_04",
+  "prerequisiteId": "vnm_04_03",
+  "strength": "hard",
+  "reason": "Học «Hai đường thẳng vuông góc; hai đường thẳng song song» cần nắm vững trước «Góc nhọn, góc tù, góc bẹt; đo góc, đơn vị độ»."
+ },
+ {
+  "topicId": "vnm_04_05",
+  "prerequisiteId": "vnm_04_01",
+  "strength": "hard",
+  "reason": "Học «Cộng, trừ số có nhiều chữ số; tính chất giao hoán, kết hợp» cần nắm vững trước «Số có nhiều chữ số; hàng và lớp; lớp triệu»."
+ },
+ {
+  "topicId": "vnm_04_05",
+  "prerequisiteId": "vnm_03_13",
+  "strength": "hard",
+  "reason": "Học «Cộng, trừ số có nhiều chữ số; tính chất giao hoán, kết hợp» cần nắm vững trước «Cộng, trừ, nhân, chia trong phạm vi 100 000»."
+ },
+ {
+  "topicId": "vnm_04_06",
+  "prerequisiteId": "vnm_04_05",
+  "strength": "hard",
+  "reason": "Học «Nhân với số có hai chữ số; tính chất phân phối» cần nắm vững trước «Cộng, trừ số có nhiều chữ số; tính chất giao hoán, kết hợp»."
+ },
+ {
+  "topicId": "vnm_04_06",
+  "prerequisiteId": "vnm_03_06",
+  "strength": "hard",
+  "reason": "Học «Nhân với số có hai chữ số; tính chất phân phối» cần nắm vững trước «Nhân số có hai, ba chữ số với số có một chữ số»."
+ },
+ {
+  "topicId": "vnm_04_07",
+  "prerequisiteId": "vnm_04_06",
+  "strength": "hard",
+  "reason": "Học «Chia cho số có hai chữ số» cần nắm vững trước «Nhân với số có hai chữ số; tính chất phân phối»."
+ },
+ {
+  "topicId": "vnm_04_07",
+  "prerequisiteId": "vnm_03_07",
+  "strength": "hard",
+  "reason": "Học «Chia cho số có hai chữ số» cần nắm vững trước «Chia cho số có một chữ số; phép chia có dư»."
+ },
+ {
+  "topicId": "vnm_04_08",
+  "prerequisiteId": "vnm_04_05",
+  "strength": "hard",
+  "reason": "Học «Số trung bình cộng» cần nắm vững trước «Cộng, trừ số có nhiều chữ số; tính chất giao hoán, kết hợp»."
+ },
+ {
+  "topicId": "vnm_04_08",
+  "prerequisiteId": "vnm_04_07",
+  "strength": "hard",
+  "reason": "Học «Số trung bình cộng» cần nắm vững trước «Chia cho số có hai chữ số»."
+ },
+ {
+  "topicId": "vnm_04_09",
+  "prerequisiteId": "vnm_04_05",
+  "strength": "hard",
+  "reason": "Học «Tìm hai số khi biết tổng và hiệu» cần nắm vững trước «Cộng, trừ số có nhiều chữ số; tính chất giao hoán, kết hợp»."
+ },
+ {
+  "topicId": "vnm_04_09",
+  "prerequisiteId": "vnm_03_07",
+  "strength": "hard",
+  "reason": "Học «Tìm hai số khi biết tổng và hiệu» cần nắm vững trước «Chia cho số có một chữ số; phép chia có dư»."
+ },
+ {
+  "topicId": "vnm_04_10",
+  "prerequisiteId": "vnm_03_09",
+  "strength": "hard",
+  "reason": "Học «Yến, tạ, tấn; giây, thế kỉ» cần nắm vững trước «Mi-li-mét, gam, mi-li-lít, nhiệt độ»."
+ },
+ {
+  "topicId": "vnm_04_11",
+  "prerequisiteId": "vnm_03_12",
+  "strength": "hard",
+  "reason": "Học «Đề-xi-mét vuông, mét vuông, mi-li-mét vuông» cần nắm vững trước «Diện tích; xăng-ti-mét vuông; diện tích hình chữ nhật, hình vuông»."
+ },
+ {
+  "topicId": "vnm_04_12",
+  "prerequisiteId": "vnm_04_04",
+  "strength": "hard",
+  "reason": "Học «Hình bình hành, hình thoi» cần nắm vững trước «Hai đường thẳng vuông góc; hai đường thẳng song song»."
+ },
+ {
+  "topicId": "vnm_04_13",
+  "prerequisiteId": "vnm_03_02",
+  "strength": "hard",
+  "reason": "Học «Khái niệm phân số; phân số và phép chia số tự nhiên» cần nắm vững trước «Bảng chia 3, 4, 6, 7, 8, 9»."
+ },
+ {
+  "topicId": "vnm_04_14",
+  "prerequisiteId": "vnm_04_13",
+  "strength": "hard",
+  "reason": "Học «Tính chất cơ bản của phân số; rút gọn, quy đồng mẫu số» cần nắm vững trước «Khái niệm phân số; phân số và phép chia số tự nhiên»."
+ },
+ {
+  "topicId": "vnm_04_14",
+  "prerequisiteId": "vnm_04_07",
+  "strength": "hard",
+  "reason": "Học «Tính chất cơ bản của phân số; rút gọn, quy đồng mẫu số» cần nắm vững trước «Chia cho số có hai chữ số»."
+ },
+ {
+  "topicId": "vnm_04_15",
+  "prerequisiteId": "vnm_04_14",
+  "strength": "hard",
+  "reason": "Học «So sánh phân số» cần nắm vững trước «Tính chất cơ bản của phân số; rút gọn, quy đồng mẫu số»."
+ },
+ {
+  "topicId": "vnm_04_16",
+  "prerequisiteId": "vnm_04_14",
+  "strength": "hard",
+  "reason": "Học «Cộng, trừ phân số» cần nắm vững trước «Tính chất cơ bản của phân số; rút gọn, quy đồng mẫu số»."
+ },
+ {
+  "topicId": "vnm_04_17",
+  "prerequisiteId": "vnm_04_13",
+  "strength": "hard",
+  "reason": "Học «Nhân, chia phân số» cần nắm vững trước «Khái niệm phân số; phân số và phép chia số tự nhiên»."
+ },
+ {
+  "topicId": "vnm_04_17",
+  "prerequisiteId": "vnm_04_16",
+  "strength": "soft",
+  "reason": "Học «Nhân, chia phân số» cần nên biết trước «Cộng, trừ phân số»."
+ },
+ {
+  "topicId": "vnm_04_17",
+  "prerequisiteId": "vnm_04_06",
+  "strength": "hard",
+  "reason": "Học «Nhân, chia phân số» cần nắm vững trước «Nhân với số có hai chữ số; tính chất phân phối»."
+ },
+ {
+  "topicId": "vnm_04_18",
+  "prerequisiteId": "vnm_03_15",
+  "strength": "hard",
+  "reason": "Học «Dãy số liệu; biểu đồ cột; số lần lặp lại của một sự kiện» cần nắm vững trước «Bảng số liệu thống kê; khả năng xảy ra của một sự kiện»."
+ },
+ {
+  "topicId": "vnm_05_01",
+  "prerequisiteId": "vnm_04_13",
+  "strength": "hard",
+  "reason": "Học «Hỗn số» cần nắm vững trước «Khái niệm phân số; phân số và phép chia số tự nhiên»."
+ },
+ {
+  "topicId": "vnm_05_01",
+  "prerequisiteId": "vnm_04_16",
+  "strength": "hard",
+  "reason": "Học «Hỗn số» cần nắm vững trước «Cộng, trừ phân số»."
+ },
+ {
+  "topicId": "vnm_05_02",
+  "prerequisiteId": "vnm_04_13",
+  "strength": "hard",
+  "reason": "Học «Số thập phân: khái niệm, đọc, viết, các hàng» cần nắm vững trước «Khái niệm phân số; phân số và phép chia số tự nhiên»."
+ },
+ {
+  "topicId": "vnm_05_02",
+  "prerequisiteId": "vnm_04_01",
+  "strength": "hard",
+  "reason": "Học «Số thập phân: khái niệm, đọc, viết, các hàng» cần nắm vững trước «Số có nhiều chữ số; hàng và lớp; lớp triệu»."
+ },
+ {
+  "topicId": "vnm_05_03",
+  "prerequisiteId": "vnm_05_02",
+  "strength": "hard",
+  "reason": "Học «So sánh số thập phân; làm tròn số thập phân» cần nắm vững trước «Số thập phân: khái niệm, đọc, viết, các hàng»."
+ },
+ {
+  "topicId": "vnm_05_04",
+  "prerequisiteId": "vnm_05_02",
+  "strength": "hard",
+  "reason": "Học «Viết số đo đại lượng dưới dạng số thập phân» cần nắm vững trước «Số thập phân: khái niệm, đọc, viết, các hàng»."
+ },
+ {
+  "topicId": "vnm_05_04",
+  "prerequisiteId": "vnm_04_10",
+  "strength": "hard",
+  "reason": "Học «Viết số đo đại lượng dưới dạng số thập phân» cần nắm vững trước «Yến, tạ, tấn; giây, thế kỉ»."
+ },
+ {
+  "topicId": "vnm_05_04",
+  "prerequisiteId": "vnm_02_12",
+  "strength": "hard",
+  "reason": "Học «Viết số đo đại lượng dưới dạng số thập phân» cần nắm vững trước «Đơn vị đo độ dài: mét, đề-xi-mét, ki-lô-mét, mi-li-mét»."
+ },
+ {
+  "topicId": "vnm_05_05",
+  "prerequisiteId": "vnm_05_02",
+  "strength": "hard",
+  "reason": "Học «Cộng, trừ số thập phân» cần nắm vững trước «Số thập phân: khái niệm, đọc, viết, các hàng»."
+ },
+ {
+  "topicId": "vnm_05_06",
+  "prerequisiteId": "vnm_05_05",
+  "strength": "hard",
+  "reason": "Học «Nhân số thập phân» cần nắm vững trước «Cộng, trừ số thập phân»."
+ },
+ {
+  "topicId": "vnm_05_06",
+  "prerequisiteId": "vnm_04_06",
+  "strength": "hard",
+  "reason": "Học «Nhân số thập phân» cần nắm vững trước «Nhân với số có hai chữ số; tính chất phân phối»."
+ },
+ {
+  "topicId": "vnm_05_07",
+  "prerequisiteId": "vnm_05_06",
+  "strength": "hard",
+  "reason": "Học «Chia số thập phân» cần nắm vững trước «Nhân số thập phân»."
+ },
+ {
+  "topicId": "vnm_05_07",
+  "prerequisiteId": "vnm_04_07",
+  "strength": "hard",
+  "reason": "Học «Chia số thập phân» cần nắm vững trước «Chia cho số có hai chữ số»."
+ },
+ {
+  "topicId": "vnm_05_08",
+  "prerequisiteId": "vnm_04_13",
+  "strength": "hard",
+  "reason": "Học «Tỉ số; tìm hai số khi biết tổng (hiệu) và tỉ số» cần nắm vững trước «Khái niệm phân số; phân số và phép chia số tự nhiên»."
+ },
+ {
+  "topicId": "vnm_05_08",
+  "prerequisiteId": "vnm_04_09",
+  "strength": "hard",
+  "reason": "Học «Tỉ số; tìm hai số khi biết tổng (hiệu) và tỉ số» cần nắm vững trước «Tìm hai số khi biết tổng và hiệu»."
+ },
+ {
+  "topicId": "vnm_05_09",
+  "prerequisiteId": "vnm_05_07",
+  "strength": "hard",
+  "reason": "Học «Tỉ số phần trăm» cần nắm vững trước «Chia số thập phân»."
+ },
+ {
+  "topicId": "vnm_05_09",
+  "prerequisiteId": "vnm_05_08",
+  "strength": "hard",
+  "reason": "Học «Tỉ số phần trăm» cần nắm vững trước «Tỉ số; tìm hai số khi biết tổng (hiệu) và tỉ số»."
+ },
+ {
+  "topicId": "vnm_05_10",
+  "prerequisiteId": "vnm_05_08",
+  "strength": "hard",
+  "reason": "Học «Tỉ lệ bản đồ» cần nắm vững trước «Tỉ số; tìm hai số khi biết tổng (hiệu) và tỉ số»."
+ },
+ {
+  "topicId": "vnm_05_11",
+  "prerequisiteId": "vnm_04_11",
+  "strength": "hard",
+  "reason": "Học «Diện tích hình tam giác, hình thang» cần nắm vững trước «Đề-xi-mét vuông, mét vuông, mi-li-mét vuông»."
+ },
+ {
+  "topicId": "vnm_05_11",
+  "prerequisiteId": "vnm_04_12",
+  "strength": "hard",
+  "reason": "Học «Diện tích hình tam giác, hình thang» cần nắm vững trước «Hình bình hành, hình thoi»."
+ },
+ {
+  "topicId": "vnm_05_12",
+  "prerequisiteId": "vnm_05_06",
+  "strength": "hard",
+  "reason": "Học «Hình tròn: chu vi, diện tích» cần nắm vững trước «Nhân số thập phân»."
+ },
+ {
+  "topicId": "vnm_05_12",
+  "prerequisiteId": "vnm_03_05",
+  "strength": "hard",
+  "reason": "Học «Hình tròn: chu vi, diện tích» cần nắm vững trước «Góc vuông, góc không vuông; hình tròn: tâm, bán kính, đường kính»."
+ },
+ {
+  "topicId": "vnm_05_13",
+  "prerequisiteId": "vnm_04_11",
+  "strength": "hard",
+  "reason": "Học «Thể tích; xăng-ti-mét khối, đề-xi-mét khối, mét khối» cần nắm vững trước «Đề-xi-mét vuông, mét vuông, mi-li-mét vuông»."
+ },
+ {
+  "topicId": "vnm_05_14",
+  "prerequisiteId": "vnm_05_13",
+  "strength": "hard",
+  "reason": "Học «Hình hộp chữ nhật, hình lập phương: diện tích xung quanh, toàn phần, thể tích» cần nắm vững trước «Thể tích; xăng-ti-mét khối, đề-xi-mét khối, mét khối»."
+ },
+ {
+  "topicId": "vnm_05_14",
+  "prerequisiteId": "vnm_03_12",
+  "strength": "hard",
+  "reason": "Học «Hình hộp chữ nhật, hình lập phương: diện tích xung quanh, toàn phần, thể tích» cần nắm vững trước «Diện tích; xăng-ti-mét vuông; diện tích hình chữ nhật, hình vuông»."
+ },
+ {
+  "topicId": "vnm_05_14",
+  "prerequisiteId": "vnm_05_06",
+  "strength": "hard",
+  "reason": "Học «Hình hộp chữ nhật, hình lập phương: diện tích xung quanh, toàn phần, thể tích» cần nắm vững trước «Nhân số thập phân»."
+ },
+ {
+  "topicId": "vnm_05_15",
+  "prerequisiteId": "vnm_05_07",
+  "strength": "hard",
+  "reason": "Học «Vận tốc, quãng đường, thời gian» cần nắm vững trước «Chia số thập phân»."
+ },
+ {
+  "topicId": "vnm_05_15",
+  "prerequisiteId": "vnm_03_16",
+  "strength": "hard",
+  "reason": "Học «Vận tốc, quãng đường, thời gian» cần nắm vững trước «Tháng – năm; xem đồng hồ chính xác đến phút»."
+ },
+ {
+  "topicId": "vnm_05_16",
+  "prerequisiteId": "vnm_03_16",
+  "strength": "hard",
+  "reason": "Học «Số đo thời gian; cộng, trừ số đo thời gian» cần nắm vững trước «Tháng – năm; xem đồng hồ chính xác đến phút»."
+ },
+ {
+  "topicId": "vnm_05_16",
+  "prerequisiteId": "vnm_04_10",
+  "strength": "hard",
+  "reason": "Học «Số đo thời gian; cộng, trừ số đo thời gian» cần nắm vững trước «Yến, tạ, tấn; giây, thế kỉ»."
+ },
+ {
+  "topicId": "vnm_05_17",
+  "prerequisiteId": "vnm_05_09",
+  "strength": "hard",
+  "reason": "Học «Biểu đồ hình quạt tròn; tỉ số mô tả số lần lặp lại» cần nắm vững trước «Tỉ số phần trăm»."
+ },
+ {
+  "topicId": "vnm_05_17",
+  "prerequisiteId": "vnm_04_18",
+  "strength": "hard",
+  "reason": "Học «Biểu đồ hình quạt tròn; tỉ số mô tả số lần lặp lại» cần nắm vững trước «Dãy số liệu; biểu đồ cột; số lần lặp lại của một sự kiện»."
+ },
+ {
+  "topicId": "vnm_06_01",
+  "prerequisiteId": "vnm_04_01",
+  "strength": "hard",
+  "reason": "Học «Tập hợp; phần tử của tập hợp» cần nắm vững trước «Số có nhiều chữ số; hàng và lớp; lớp triệu»."
+ },
+ {
+  "topicId": "vnm_06_02",
+  "prerequisiteId": "vnm_06_01",
+  "strength": "hard",
+  "reason": "Học «Tập hợp số tự nhiên; ghi số tự nhiên; số La Mã» cần nắm vững trước «Tập hợp; phần tử của tập hợp»."
+ },
+ {
+  "topicId": "vnm_06_02",
+  "prerequisiteId": "vnm_04_01",
+  "strength": "hard",
+  "reason": "Học «Tập hợp số tự nhiên; ghi số tự nhiên; số La Mã» cần nắm vững trước «Số có nhiều chữ số; hàng và lớp; lớp triệu»."
+ },
+ {
+  "topicId": "vnm_06_03",
+  "prerequisiteId": "vnm_06_02",
+  "strength": "hard",
+  "reason": "Học «Các phép tính với số tự nhiên; luỹ thừa với số mũ tự nhiên» cần nắm vững trước «Tập hợp số tự nhiên; ghi số tự nhiên; số La Mã»."
+ },
+ {
+  "topicId": "vnm_06_03",
+  "prerequisiteId": "vnm_04_07",
+  "strength": "hard",
+  "reason": "Học «Các phép tính với số tự nhiên; luỹ thừa với số mũ tự nhiên» cần nắm vững trước «Chia cho số có hai chữ số»."
+ },
+ {
+  "topicId": "vnm_06_04",
+  "prerequisiteId": "vnm_06_03",
+  "strength": "hard",
+  "reason": "Học «Thứ tự thực hiện các phép tính» cần nắm vững trước «Các phép tính với số tự nhiên; luỹ thừa với số mũ tự nhiên»."
+ },
+ {
+  "topicId": "vnm_06_04",
+  "prerequisiteId": "vnm_03_08",
+  "strength": "hard",
+  "reason": "Học «Thứ tự thực hiện các phép tính» cần nắm vững trước «Biểu thức số; tính giá trị biểu thức»."
+ },
+ {
+  "topicId": "vnm_06_05",
+  "prerequisiteId": "vnm_06_03",
+  "strength": "hard",
+  "reason": "Học «Quan hệ chia hết; dấu hiệu chia hết cho 2, 3, 5, 9» cần nắm vững trước «Các phép tính với số tự nhiên; luỹ thừa với số mũ tự nhiên»."
+ },
+ {
+  "topicId": "vnm_06_06",
+  "prerequisiteId": "vnm_06_05",
+  "strength": "hard",
+  "reason": "Học «Số nguyên tố; phân tích một số ra thừa số nguyên tố» cần nắm vững trước «Quan hệ chia hết; dấu hiệu chia hết cho 2, 3, 5, 9»."
+ },
+ {
+  "topicId": "vnm_06_07",
+  "prerequisiteId": "vnm_06_06",
+  "strength": "hard",
+  "reason": "Học «Ước chung lớn nhất, bội chung nhỏ nhất» cần nắm vững trước «Số nguyên tố; phân tích một số ra thừa số nguyên tố»."
+ },
+ {
+  "topicId": "vnm_06_08",
+  "prerequisiteId": "vnm_06_02",
+  "strength": "hard",
+  "reason": "Học «Tập hợp các số nguyên; so sánh số nguyên» cần nắm vững trước «Tập hợp số tự nhiên; ghi số tự nhiên; số La Mã»."
+ },
+ {
+  "topicId": "vnm_06_09",
+  "prerequisiteId": "vnm_06_08",
+  "strength": "hard",
+  "reason": "Học «Phép cộng, phép trừ số nguyên» cần nắm vững trước «Tập hợp các số nguyên; so sánh số nguyên»."
+ },
+ {
+  "topicId": "vnm_06_09",
+  "prerequisiteId": "vnm_06_03",
+  "strength": "hard",
+  "reason": "Học «Phép cộng, phép trừ số nguyên» cần nắm vững trước «Các phép tính với số tự nhiên; luỹ thừa với số mũ tự nhiên»."
+ },
+ {
+  "topicId": "vnm_06_10",
+  "prerequisiteId": "vnm_06_09",
+  "strength": "hard",
+  "reason": "Học «Quy tắc dấu ngoặc» cần nắm vững trước «Phép cộng, phép trừ số nguyên»."
+ },
+ {
+  "topicId": "vnm_06_11",
+  "prerequisiteId": "vnm_06_09",
+  "strength": "hard",
+  "reason": "Học «Phép nhân, phép chia hết số nguyên» cần nắm vững trước «Phép cộng, phép trừ số nguyên»."
+ },
+ {
+  "topicId": "vnm_06_12",
+  "prerequisiteId": "vnm_04_04",
+  "strength": "hard",
+  "reason": "Học «Tam giác đều, hình vuông, lục giác đều» cần nắm vững trước «Hai đường thẳng vuông góc; hai đường thẳng song song»."
+ },
+ {
+  "topicId": "vnm_06_13",
+  "prerequisiteId": "vnm_06_12",
+  "strength": "hard",
+  "reason": "Học «Hình chữ nhật, hình thoi, hình bình hành, hình thang cân: chu vi và diện tích» cần nắm vững trước «Tam giác đều, hình vuông, lục giác đều»."
+ },
+ {
+  "topicId": "vnm_06_13",
+  "prerequisiteId": "vnm_05_11",
+  "strength": "hard",
+  "reason": "Học «Hình chữ nhật, hình thoi, hình bình hành, hình thang cân: chu vi và diện tích» cần nắm vững trước «Diện tích hình tam giác, hình thang»."
+ },
+ {
+  "topicId": "vnm_06_14",
+  "prerequisiteId": "vnm_06_13",
+  "strength": "hard",
+  "reason": "Học «Hình có trục đối xứng, hình có tâm đối xứng» cần nắm vững trước «Hình chữ nhật, hình thoi, hình bình hành, hình thang cân: chu vi và diện tích»."
+ },
+ {
+  "topicId": "vnm_06_15",
+  "prerequisiteId": "vnm_04_14",
+  "strength": "hard",
+  "reason": "Học «Mở rộng phân số; phân số bằng nhau» cần nắm vững trước «Tính chất cơ bản của phân số; rút gọn, quy đồng mẫu số»."
+ },
+ {
+  "topicId": "vnm_06_15",
+  "prerequisiteId": "vnm_06_11",
+  "strength": "hard",
+  "reason": "Học «Mở rộng phân số; phân số bằng nhau» cần nắm vững trước «Phép nhân, phép chia hết số nguyên»."
+ },
+ {
+  "topicId": "vnm_06_16",
+  "prerequisiteId": "vnm_06_15",
+  "strength": "hard",
+  "reason": "Học «So sánh phân số; hỗn số dương» cần nắm vững trước «Mở rộng phân số; phân số bằng nhau»."
+ },
+ {
+  "topicId": "vnm_06_16",
+  "prerequisiteId": "vnm_06_07",
+  "strength": "hard",
+  "reason": "Học «So sánh phân số; hỗn số dương» cần nắm vững trước «Ước chung lớn nhất, bội chung nhỏ nhất»."
+ },
+ {
+  "topicId": "vnm_06_17",
+  "prerequisiteId": "vnm_06_15",
+  "strength": "hard",
+  "reason": "Học «Phép cộng, phép trừ phân số» cần nắm vững trước «Mở rộng phân số; phân số bằng nhau»."
+ },
+ {
+  "topicId": "vnm_06_17",
+  "prerequisiteId": "vnm_06_09",
+  "strength": "hard",
+  "reason": "Học «Phép cộng, phép trừ phân số» cần nắm vững trước «Phép cộng, phép trừ số nguyên»."
+ },
+ {
+  "topicId": "vnm_06_18",
+  "prerequisiteId": "vnm_06_17",
+  "strength": "hard",
+  "reason": "Học «Phép nhân, phép chia phân số» cần nắm vững trước «Phép cộng, phép trừ phân số»."
+ },
+ {
+  "topicId": "vnm_06_18",
+  "prerequisiteId": "vnm_06_11",
+  "strength": "hard",
+  "reason": "Học «Phép nhân, phép chia phân số» cần nắm vững trước «Phép nhân, phép chia hết số nguyên»."
+ },
+ {
+  "topicId": "vnm_06_19",
+  "prerequisiteId": "vnm_06_18",
+  "strength": "hard",
+  "reason": "Học «Hai bài toán về phân số» cần nắm vững trước «Phép nhân, phép chia phân số»."
+ },
+ {
+  "topicId": "vnm_06_20",
+  "prerequisiteId": "vnm_05_07",
+  "strength": "hard",
+  "reason": "Học «Số thập phân (kể cả âm) và các phép tính» cần nắm vững trước «Chia số thập phân»."
+ },
+ {
+  "topicId": "vnm_06_20",
+  "prerequisiteId": "vnm_06_09",
+  "strength": "hard",
+  "reason": "Học «Số thập phân (kể cả âm) và các phép tính» cần nắm vững trước «Phép cộng, phép trừ số nguyên»."
+ },
+ {
+  "topicId": "vnm_06_21",
+  "prerequisiteId": "vnm_06_20",
+  "strength": "hard",
+  "reason": "Học «Làm tròn và ước lượng» cần nắm vững trước «Số thập phân (kể cả âm) và các phép tính»."
+ },
+ {
+  "topicId": "vnm_06_21",
+  "prerequisiteId": "vnm_05_03",
+  "strength": "hard",
+  "reason": "Học «Làm tròn và ước lượng» cần nắm vững trước «So sánh số thập phân; làm tròn số thập phân»."
+ },
+ {
+  "topicId": "vnm_06_22",
+  "prerequisiteId": "vnm_06_20",
+  "strength": "hard",
+  "reason": "Học «Tỉ số và tỉ số phần trăm» cần nắm vững trước «Số thập phân (kể cả âm) và các phép tính»."
+ },
+ {
+  "topicId": "vnm_06_22",
+  "prerequisiteId": "vnm_05_09",
+  "strength": "hard",
+  "reason": "Học «Tỉ số và tỉ số phần trăm» cần nắm vững trước «Tỉ số phần trăm»."
+ },
+ {
+  "topicId": "vnm_06_23",
+  "prerequisiteId": "vnm_02_07",
+  "strength": "hard",
+  "reason": "Học «Điểm, đường thẳng; ba điểm thẳng hàng» cần nắm vững trước «Điểm, đoạn thẳng, đường gấp khúc»."
+ },
+ {
+  "topicId": "vnm_06_24",
+  "prerequisiteId": "vnm_06_23",
+  "strength": "hard",
+  "reason": "Học «Đoạn thẳng; độ dài đoạn thẳng; trung điểm» cần nắm vững trước «Điểm, đường thẳng; ba điểm thẳng hàng»."
+ },
+ {
+  "topicId": "vnm_06_25",
+  "prerequisiteId": "vnm_06_23",
+  "strength": "hard",
+  "reason": "Học «Tia» cần nắm vững trước «Điểm, đường thẳng; ba điểm thẳng hàng»."
+ },
+ {
+  "topicId": "vnm_06_26",
+  "prerequisiteId": "vnm_06_25",
+  "strength": "hard",
+  "reason": "Học «Góc; số đo góc; các góc đặc biệt» cần nắm vững trước «Tia»."
+ },
+ {
+  "topicId": "vnm_06_26",
+  "prerequisiteId": "vnm_04_03",
+  "strength": "hard",
+  "reason": "Học «Góc; số đo góc; các góc đặc biệt» cần nắm vững trước «Góc nhọn, góc tù, góc bẹt; đo góc, đơn vị độ»."
+ },
+ {
+  "topicId": "vnm_06_27",
+  "prerequisiteId": "vnm_05_17",
+  "strength": "hard",
+  "reason": "Học «Thu thập, phân loại, biểu diễn dữ liệu; biểu đồ tranh, biểu đồ cột, cột kép» cần nắm vững trước «Biểu đồ hình quạt tròn; tỉ số mô tả số lần lặp lại»."
+ },
+ {
+  "topicId": "vnm_06_28",
+  "prerequisiteId": "vnm_06_27",
+  "strength": "hard",
+  "reason": "Học «Kết quả có thể và sự kiện; xác suất thực nghiệm» cần nắm vững trước «Thu thập, phân loại, biểu diễn dữ liệu; biểu đồ tranh, biểu đồ cột, cột kép»."
+ },
+ {
+  "topicId": "vnm_06_28",
+  "prerequisiteId": "vnm_06_22",
+  "strength": "hard",
+  "reason": "Học «Kết quả có thể và sự kiện; xác suất thực nghiệm» cần nắm vững trước «Tỉ số và tỉ số phần trăm»."
+ },
+ {
+  "topicId": "vnm_07_01",
+  "prerequisiteId": "vnm_06_16",
+  "strength": "hard",
+  "reason": "Học «Tập hợp các số hữu tỉ; thứ tự trong tập ℚ» cần nắm vững trước «So sánh phân số; hỗn số dương»."
+ },
+ {
+  "topicId": "vnm_07_01",
+  "prerequisiteId": "vnm_06_20",
+  "strength": "hard",
+  "reason": "Học «Tập hợp các số hữu tỉ; thứ tự trong tập ℚ» cần nắm vững trước «Số thập phân (kể cả âm) và các phép tính»."
+ },
+ {
+  "topicId": "vnm_07_02",
+  "prerequisiteId": "vnm_07_01",
+  "strength": "hard",
+  "reason": "Học «Cộng, trừ, nhân, chia số hữu tỉ» cần nắm vững trước «Tập hợp các số hữu tỉ; thứ tự trong tập ℚ»."
+ },
+ {
+  "topicId": "vnm_07_02",
+  "prerequisiteId": "vnm_06_18",
+  "strength": "hard",
+  "reason": "Học «Cộng, trừ, nhân, chia số hữu tỉ» cần nắm vững trước «Phép nhân, phép chia phân số»."
+ },
+ {
+  "topicId": "vnm_07_03",
+  "prerequisiteId": "vnm_07_02",
+  "strength": "hard",
+  "reason": "Học «Luỹ thừa với số mũ tự nhiên của một số hữu tỉ» cần nắm vững trước «Cộng, trừ, nhân, chia số hữu tỉ»."
+ },
+ {
+  "topicId": "vnm_07_03",
+  "prerequisiteId": "vnm_06_03",
+  "strength": "hard",
+  "reason": "Học «Luỹ thừa với số mũ tự nhiên của một số hữu tỉ» cần nắm vững trước «Các phép tính với số tự nhiên; luỹ thừa với số mũ tự nhiên»."
+ },
+ {
+  "topicId": "vnm_07_04",
+  "prerequisiteId": "vnm_07_02",
+  "strength": "hard",
+  "reason": "Học «Thứ tự thực hiện phép tính; quy tắc chuyển vế» cần nắm vững trước «Cộng, trừ, nhân, chia số hữu tỉ»."
+ },
+ {
+  "topicId": "vnm_07_04",
+  "prerequisiteId": "vnm_06_10",
+  "strength": "hard",
+  "reason": "Học «Thứ tự thực hiện phép tính; quy tắc chuyển vế» cần nắm vững trước «Quy tắc dấu ngoặc»."
+ },
+ {
+  "topicId": "vnm_07_05",
+  "prerequisiteId": "vnm_07_01",
+  "strength": "hard",
+  "reason": "Học «Số thập phân vô hạn tuần hoàn; căn bậc hai số học» cần nắm vững trước «Tập hợp các số hữu tỉ; thứ tự trong tập ℚ»."
+ },
+ {
+  "topicId": "vnm_07_05",
+  "prerequisiteId": "vnm_06_03",
+  "strength": "hard",
+  "reason": "Học «Số thập phân vô hạn tuần hoàn; căn bậc hai số học» cần nắm vững trước «Các phép tính với số tự nhiên; luỹ thừa với số mũ tự nhiên»."
+ },
+ {
+  "topicId": "vnm_07_06",
+  "prerequisiteId": "vnm_07_05",
+  "strength": "hard",
+  "reason": "Học «Số vô tỉ; số thực; giá trị tuyệt đối» cần nắm vững trước «Số thập phân vô hạn tuần hoàn; căn bậc hai số học»."
+ },
+ {
+  "topicId": "vnm_07_07",
+  "prerequisiteId": "vnm_06_26",
+  "strength": "hard",
+  "reason": "Học «Góc ở vị trí đặc biệt; tia phân giác của một góc» cần nắm vững trước «Góc; số đo góc; các góc đặc biệt»."
+ },
+ {
+  "topicId": "vnm_07_08",
+  "prerequisiteId": "vnm_07_07",
+  "strength": "hard",
+  "reason": "Học «Hai đường thẳng song song; tiên đề Euclid» cần nắm vững trước «Góc ở vị trí đặc biệt; tia phân giác của một góc»."
+ },
+ {
+  "topicId": "vnm_07_08",
+  "prerequisiteId": "vnm_04_04",
+  "strength": "hard",
+  "reason": "Học «Hai đường thẳng song song; tiên đề Euclid» cần nắm vững trước «Hai đường thẳng vuông góc; hai đường thẳng song song»."
+ },
+ {
+  "topicId": "vnm_07_09",
+  "prerequisiteId": "vnm_07_08",
+  "strength": "soft",
+  "reason": "Học «Định lí và chứng minh định lí» cần nên biết trước «Hai đường thẳng song song; tiên đề Euclid»."
+ },
+ {
+  "topicId": "vnm_07_10",
+  "prerequisiteId": "vnm_07_08",
+  "strength": "hard",
+  "reason": "Học «Tổng các góc trong một tam giác» cần nắm vững trước «Hai đường thẳng song song; tiên đề Euclid»."
+ },
+ {
+  "topicId": "vnm_07_11",
+  "prerequisiteId": "vnm_07_10",
+  "strength": "hard",
+  "reason": "Học «Các trường hợp bằng nhau của tam giác» cần nắm vững trước «Tổng các góc trong một tam giác»."
+ },
+ {
+  "topicId": "vnm_07_11",
+  "prerequisiteId": "vnm_06_24",
+  "strength": "hard",
+  "reason": "Học «Các trường hợp bằng nhau của tam giác» cần nắm vững trước «Đoạn thẳng; độ dài đoạn thẳng; trung điểm»."
+ },
+ {
+  "topicId": "vnm_07_12",
+  "prerequisiteId": "vnm_07_11",
+  "strength": "hard",
+  "reason": "Học «Tam giác cân; đường trung trực của đoạn thẳng» cần nắm vững trước «Các trường hợp bằng nhau của tam giác»."
+ },
+ {
+  "topicId": "vnm_07_13",
+  "prerequisiteId": "vnm_06_27",
+  "strength": "hard",
+  "reason": "Học «Biểu đồ hình quạt tròn; biểu đồ đoạn thẳng» cần nắm vững trước «Thu thập, phân loại, biểu diễn dữ liệu; biểu đồ tranh, biểu đồ cột, cột kép»."
+ },
+ {
+  "topicId": "vnm_07_13",
+  "prerequisiteId": "vnm_06_22",
+  "strength": "hard",
+  "reason": "Học «Biểu đồ hình quạt tròn; biểu đồ đoạn thẳng» cần nắm vững trước «Tỉ số và tỉ số phần trăm»."
+ },
+ {
+  "topicId": "vnm_07_14",
+  "prerequisiteId": "vnm_07_02",
+  "strength": "hard",
+  "reason": "Học «Tỉ lệ thức; dãy tỉ số bằng nhau» cần nắm vững trước «Cộng, trừ, nhân, chia số hữu tỉ»."
+ },
+ {
+  "topicId": "vnm_07_15",
+  "prerequisiteId": "vnm_07_14",
+  "strength": "hard",
+  "reason": "Học «Đại lượng tỉ lệ thuận» cần nắm vững trước «Tỉ lệ thức; dãy tỉ số bằng nhau»."
+ },
+ {
+  "topicId": "vnm_07_16",
+  "prerequisiteId": "vnm_07_14",
+  "strength": "hard",
+  "reason": "Học «Đại lượng tỉ lệ nghịch» cần nắm vững trước «Tỉ lệ thức; dãy tỉ số bằng nhau»."
+ },
+ {
+  "topicId": "vnm_07_17",
+  "prerequisiteId": "vnm_07_04",
+  "strength": "hard",
+  "reason": "Học «Biểu thức đại số; giá trị của biểu thức» cần nắm vững trước «Thứ tự thực hiện phép tính; quy tắc chuyển vế»."
+ },
+ {
+  "topicId": "vnm_07_17",
+  "prerequisiteId": "vnm_07_03",
+  "strength": "hard",
+  "reason": "Học «Biểu thức đại số; giá trị của biểu thức» cần nắm vững trước «Luỹ thừa với số mũ tự nhiên của một số hữu tỉ»."
+ },
+ {
+  "topicId": "vnm_07_18",
+  "prerequisiteId": "vnm_07_17",
+  "strength": "hard",
+  "reason": "Học «Đa thức một biến; nghiệm của đa thức» cần nắm vững trước «Biểu thức đại số; giá trị của biểu thức»."
+ },
+ {
+  "topicId": "vnm_07_19",
+  "prerequisiteId": "vnm_07_18",
+  "strength": "hard",
+  "reason": "Học «Cộng, trừ đa thức một biến» cần nắm vững trước «Đa thức một biến; nghiệm của đa thức»."
+ },
+ {
+  "topicId": "vnm_07_20",
+  "prerequisiteId": "vnm_07_19",
+  "strength": "hard",
+  "reason": "Học «Nhân, chia đa thức một biến» cần nắm vững trước «Cộng, trừ đa thức một biến»."
+ },
+ {
+  "topicId": "vnm_07_21",
+  "prerequisiteId": "vnm_06_28",
+  "strength": "hard",
+  "reason": "Học «Biến cố; xác suất của biến cố» cần nắm vững trước «Kết quả có thể và sự kiện; xác suất thực nghiệm»."
+ },
+ {
+  "topicId": "vnm_07_22",
+  "prerequisiteId": "vnm_07_11",
+  "strength": "hard",
+  "reason": "Học «Quan hệ giữa góc và cạnh đối diện; bất đẳng thức tam giác» cần nắm vững trước «Các trường hợp bằng nhau của tam giác»."
+ },
+ {
+  "topicId": "vnm_07_23",
+  "prerequisiteId": "vnm_07_22",
+  "strength": "hard",
+  "reason": "Học «Đường vuông góc và đường xiên; sự đồng quy của các đường đặc biệt trong tam giác» cần nắm vững trước «Quan hệ giữa góc và cạnh đối diện; bất đẳng thức tam giác»."
+ },
+ {
+  "topicId": "vnm_07_23",
+  "prerequisiteId": "vnm_07_12",
+  "strength": "hard",
+  "reason": "Học «Đường vuông góc và đường xiên; sự đồng quy của các đường đặc biệt trong tam giác» cần nắm vững trước «Tam giác cân; đường trung trực của đoạn thẳng»."
+ },
+ {
+  "topicId": "vnm_07_24",
+  "prerequisiteId": "vnm_05_14",
+  "strength": "hard",
+  "reason": "Học «Hình hộp chữ nhật, hình lập phương» cần nắm vững trước «Hình hộp chữ nhật, hình lập phương: diện tích xung quanh, toàn phần, thể tích»."
+ },
+ {
+  "topicId": "vnm_07_25",
+  "prerequisiteId": "vnm_07_24",
+  "strength": "hard",
+  "reason": "Học «Hình lăng trụ đứng tam giác, lăng trụ đứng tứ giác» cần nắm vững trước «Hình hộp chữ nhật, hình lập phương»."
+ },
+ {
+  "topicId": "vnm_07_25",
+  "prerequisiteId": "vnm_06_13",
+  "strength": "hard",
+  "reason": "Học «Hình lăng trụ đứng tam giác, lăng trụ đứng tứ giác» cần nắm vững trước «Hình chữ nhật, hình thoi, hình bình hành, hình thang cân: chu vi và diện tích»."
+ },
+ {
+  "topicId": "vnm_08_01",
+  "prerequisiteId": "vnm_07_17",
+  "strength": "hard",
+  "reason": "Học «Đơn thức; đa thức nhiều biến» cần nắm vững trước «Biểu thức đại số; giá trị của biểu thức»."
+ },
+ {
+  "topicId": "vnm_08_02",
+  "prerequisiteId": "vnm_08_01",
+  "strength": "hard",
+  "reason": "Học «Phép cộng, phép trừ đa thức» cần nắm vững trước «Đơn thức; đa thức nhiều biến»."
+ },
+ {
+  "topicId": "vnm_08_02",
+  "prerequisiteId": "vnm_07_19",
+  "strength": "hard",
+  "reason": "Học «Phép cộng, phép trừ đa thức» cần nắm vững trước «Cộng, trừ đa thức một biến»."
+ },
+ {
+  "topicId": "vnm_08_03",
+  "prerequisiteId": "vnm_08_02",
+  "strength": "hard",
+  "reason": "Học «Phép nhân đa thức; chia đa thức cho đơn thức» cần nắm vững trước «Phép cộng, phép trừ đa thức»."
+ },
+ {
+  "topicId": "vnm_08_03",
+  "prerequisiteId": "vnm_07_20",
+  "strength": "hard",
+  "reason": "Học «Phép nhân đa thức; chia đa thức cho đơn thức» cần nắm vững trước «Nhân, chia đa thức một biến»."
+ },
+ {
+  "topicId": "vnm_08_04",
+  "prerequisiteId": "vnm_08_03",
+  "strength": "hard",
+  "reason": "Học «Hiệu hai bình phương; bình phương của một tổng, một hiệu» cần nắm vững trước «Phép nhân đa thức; chia đa thức cho đơn thức»."
+ },
+ {
+  "topicId": "vnm_08_05",
+  "prerequisiteId": "vnm_08_04",
+  "strength": "hard",
+  "reason": "Học «Lập phương của một tổng, một hiệu; tổng và hiệu hai lập phương» cần nắm vững trước «Hiệu hai bình phương; bình phương của một tổng, một hiệu»."
+ },
+ {
+  "topicId": "vnm_08_06",
+  "prerequisiteId": "vnm_08_04",
+  "strength": "hard",
+  "reason": "Học «Phân tích đa thức thành nhân tử» cần nắm vững trước «Hiệu hai bình phương; bình phương của một tổng, một hiệu»."
+ },
+ {
+  "topicId": "vnm_08_06",
+  "prerequisiteId": "vnm_08_05",
+  "strength": "soft",
+  "reason": "Học «Phân tích đa thức thành nhân tử» cần nên biết trước «Lập phương của một tổng, một hiệu; tổng và hiệu hai lập phương»."
+ },
+ {
+  "topicId": "vnm_08_07",
+  "prerequisiteId": "vnm_07_10",
+  "strength": "hard",
+  "reason": "Học «Tứ giác; tổng các góc của tứ giác» cần nắm vững trước «Tổng các góc trong một tam giác»."
+ },
+ {
+  "topicId": "vnm_08_08",
+  "prerequisiteId": "vnm_08_07",
+  "strength": "hard",
+  "reason": "Học «Hình thang cân» cần nắm vững trước «Tứ giác; tổng các góc của tứ giác»."
+ },
+ {
+  "topicId": "vnm_08_08",
+  "prerequisiteId": "vnm_07_12",
+  "strength": "hard",
+  "reason": "Học «Hình thang cân» cần nắm vững trước «Tam giác cân; đường trung trực của đoạn thẳng»."
+ },
+ {
+  "topicId": "vnm_08_09",
+  "prerequisiteId": "vnm_08_07",
+  "strength": "hard",
+  "reason": "Học «Hình bình hành; hình thoi» cần nắm vững trước «Tứ giác; tổng các góc của tứ giác»."
+ },
+ {
+  "topicId": "vnm_08_09",
+  "prerequisiteId": "vnm_07_11",
+  "strength": "hard",
+  "reason": "Học «Hình bình hành; hình thoi» cần nắm vững trước «Các trường hợp bằng nhau của tam giác»."
+ },
+ {
+  "topicId": "vnm_08_10",
+  "prerequisiteId": "vnm_08_09",
+  "strength": "hard",
+  "reason": "Học «Hình chữ nhật; hình vuông» cần nắm vững trước «Hình bình hành; hình thoi»."
+ },
+ {
+  "topicId": "vnm_08_11",
+  "prerequisiteId": "vnm_07_08",
+  "strength": "hard",
+  "reason": "Học «Định lí Thalès trong tam giác» cần nắm vững trước «Hai đường thẳng song song; tiên đề Euclid»."
+ },
+ {
+  "topicId": "vnm_08_11",
+  "prerequisiteId": "vnm_07_14",
+  "strength": "hard",
+  "reason": "Học «Định lí Thalès trong tam giác» cần nắm vững trước «Tỉ lệ thức; dãy tỉ số bằng nhau»."
+ },
+ {
+  "topicId": "vnm_08_12",
+  "prerequisiteId": "vnm_08_11",
+  "strength": "hard",
+  "reason": "Học «Đường trung bình của tam giác» cần nắm vững trước «Định lí Thalès trong tam giác»."
+ },
+ {
+  "topicId": "vnm_08_13",
+  "prerequisiteId": "vnm_08_11",
+  "strength": "hard",
+  "reason": "Học «Tính chất đường phân giác của tam giác» cần nắm vững trước «Định lí Thalès trong tam giác»."
+ },
+ {
+  "topicId": "vnm_08_14",
+  "prerequisiteId": "vnm_07_13",
+  "strength": "hard",
+  "reason": "Học «Thu thập, phân loại, biểu diễn và phân tích dữ liệu» cần nắm vững trước «Biểu đồ hình quạt tròn; biểu đồ đoạn thẳng»."
+ },
+ {
+  "topicId": "vnm_08_15",
+  "prerequisiteId": "vnm_08_06",
+  "strength": "hard",
+  "reason": "Học «Phân thức đại số; tính chất cơ bản» cần nắm vững trước «Phân tích đa thức thành nhân tử»."
+ },
+ {
+  "topicId": "vnm_08_16",
+  "prerequisiteId": "vnm_08_15",
+  "strength": "hard",
+  "reason": "Học «Phép cộng, phép trừ phân thức đại số» cần nắm vững trước «Phân thức đại số; tính chất cơ bản»."
+ },
+ {
+  "topicId": "vnm_08_17",
+  "prerequisiteId": "vnm_08_15",
+  "strength": "hard",
+  "reason": "Học «Phép nhân, phép chia phân thức đại số» cần nắm vững trước «Phân thức đại số; tính chất cơ bản»."
+ },
+ {
+  "topicId": "vnm_08_18",
+  "prerequisiteId": "vnm_07_04",
+  "strength": "hard",
+  "reason": "Học «Phương trình bậc nhất một ẩn; giải bài toán bằng cách lập phương trình» cần nắm vững trước «Thứ tự thực hiện phép tính; quy tắc chuyển vế»."
+ },
+ {
+  "topicId": "vnm_08_18",
+  "prerequisiteId": "vnm_07_18",
+  "strength": "hard",
+  "reason": "Học «Phương trình bậc nhất một ẩn; giải bài toán bằng cách lập phương trình» cần nắm vững trước «Đa thức một biến; nghiệm của đa thức»."
+ },
+ {
+  "topicId": "vnm_08_19",
+  "prerequisiteId": "vnm_07_15",
+  "strength": "hard",
+  "reason": "Học «Khái niệm hàm số; mặt phẳng tọa độ; đồ thị hàm số» cần nắm vững trước «Đại lượng tỉ lệ thuận»."
+ },
+ {
+  "topicId": "vnm_08_19",
+  "prerequisiteId": "vnm_07_17",
+  "strength": "hard",
+  "reason": "Học «Khái niệm hàm số; mặt phẳng tọa độ; đồ thị hàm số» cần nắm vững trước «Biểu thức đại số; giá trị của biểu thức»."
+ },
+ {
+  "topicId": "vnm_08_20",
+  "prerequisiteId": "vnm_08_19",
+  "strength": "hard",
+  "reason": "Học «Hàm số bậc nhất y = ax + b và đồ thị» cần nắm vững trước «Khái niệm hàm số; mặt phẳng tọa độ; đồ thị hàm số»."
+ },
+ {
+  "topicId": "vnm_08_21",
+  "prerequisiteId": "vnm_08_20",
+  "strength": "hard",
+  "reason": "Học «Hệ số góc của đường thẳng; hai đường thẳng song song, cắt nhau» cần nắm vững trước «Hàm số bậc nhất y = ax + b và đồ thị»."
+ },
+ {
+  "topicId": "vnm_08_22",
+  "prerequisiteId": "vnm_07_21",
+  "strength": "hard",
+  "reason": "Học «Kết quả thuận lợi; tính xác suất bằng tỉ số» cần nắm vững trước «Biến cố; xác suất của biến cố»."
+ },
+ {
+  "topicId": "vnm_08_23",
+  "prerequisiteId": "vnm_08_22",
+  "strength": "hard",
+  "reason": "Học «Mối liên hệ giữa xác suất thực nghiệm và xác suất» cần nắm vững trước «Kết quả thuận lợi; tính xác suất bằng tỉ số»."
+ },
+ {
+  "topicId": "vnm_08_24",
+  "prerequisiteId": "vnm_08_11",
+  "strength": "hard",
+  "reason": "Học «Tam giác đồng dạng; các trường hợp đồng dạng» cần nắm vững trước «Định lí Thalès trong tam giác»."
+ },
+ {
+  "topicId": "vnm_08_25",
+  "prerequisiteId": "vnm_07_05",
+  "strength": "hard",
+  "reason": "Học «Định lí Pythagore và ứng dụng» cần nắm vững trước «Số thập phân vô hạn tuần hoàn; căn bậc hai số học»."
+ },
+ {
+  "topicId": "vnm_08_25",
+  "prerequisiteId": "vnm_07_11",
+  "strength": "hard",
+  "reason": "Học «Định lí Pythagore và ứng dụng» cần nắm vững trước «Các trường hợp bằng nhau của tam giác»."
+ },
+ {
+  "topicId": "vnm_08_26",
+  "prerequisiteId": "vnm_08_24",
+  "strength": "hard",
+  "reason": "Học «Các trường hợp đồng dạng của tam giác vuông; hình đồng dạng» cần nắm vững trước «Tam giác đồng dạng; các trường hợp đồng dạng»."
+ },
+ {
+  "topicId": "vnm_08_26",
+  "prerequisiteId": "vnm_08_25",
+  "strength": "hard",
+  "reason": "Học «Các trường hợp đồng dạng của tam giác vuông; hình đồng dạng» cần nắm vững trước «Định lí Pythagore và ứng dụng»."
+ },
+ {
+  "topicId": "vnm_08_27",
+  "prerequisiteId": "vnm_07_25",
+  "strength": "hard",
+  "reason": "Học «Hình chóp tam giác đều, hình chóp tứ giác đều» cần nắm vững trước «Hình lăng trụ đứng tam giác, lăng trụ đứng tứ giác»."
+ },
+ {
+  "topicId": "vnm_08_27",
+  "prerequisiteId": "vnm_08_25",
+  "strength": "hard",
+  "reason": "Học «Hình chóp tam giác đều, hình chóp tứ giác đều» cần nắm vững trước «Định lí Pythagore và ứng dụng»."
+ },
+ {
+  "topicId": "vnm_09_01",
+  "prerequisiteId": "vnm_08_18",
+  "strength": "hard",
+  "reason": "Học «Phương trình bậc nhất hai ẩn; hệ hai phương trình bậc nhất hai ẩn» cần nắm vững trước «Phương trình bậc nhất một ẩn; giải bài toán bằng cách lập phương trình»."
+ },
+ {
+  "topicId": "vnm_09_01",
+  "prerequisiteId": "vnm_08_20",
+  "strength": "hard",
+  "reason": "Học «Phương trình bậc nhất hai ẩn; hệ hai phương trình bậc nhất hai ẩn» cần nắm vững trước «Hàm số bậc nhất y = ax + b và đồ thị»."
+ },
+ {
+  "topicId": "vnm_09_02",
+  "prerequisiteId": "vnm_09_01",
+  "strength": "hard",
+  "reason": "Học «Giải hệ hai phương trình bậc nhất hai ẩn» cần nắm vững trước «Phương trình bậc nhất hai ẩn; hệ hai phương trình bậc nhất hai ẩn»."
+ },
+ {
+  "topicId": "vnm_09_03",
+  "prerequisiteId": "vnm_09_02",
+  "strength": "hard",
+  "reason": "Học «Giải bài toán bằng cách lập hệ phương trình» cần nắm vững trước «Giải hệ hai phương trình bậc nhất hai ẩn»."
+ },
+ {
+  "topicId": "vnm_09_04",
+  "prerequisiteId": "vnm_08_18",
+  "strength": "hard",
+  "reason": "Học «Phương trình quy về phương trình bậc nhất một ẩn» cần nắm vững trước «Phương trình bậc nhất một ẩn; giải bài toán bằng cách lập phương trình»."
+ },
+ {
+  "topicId": "vnm_09_04",
+  "prerequisiteId": "vnm_08_06",
+  "strength": "hard",
+  "reason": "Học «Phương trình quy về phương trình bậc nhất một ẩn» cần nắm vững trước «Phân tích đa thức thành nhân tử»."
+ },
+ {
+  "topicId": "vnm_09_04",
+  "prerequisiteId": "vnm_08_16",
+  "strength": "hard",
+  "reason": "Học «Phương trình quy về phương trình bậc nhất một ẩn» cần nắm vững trước «Phép cộng, phép trừ phân thức đại số»."
+ },
+ {
+  "topicId": "vnm_09_05",
+  "prerequisiteId": "vnm_07_06",
+  "strength": "hard",
+  "reason": "Học «Bất đẳng thức và tính chất» cần nắm vững trước «Số vô tỉ; số thực; giá trị tuyệt đối»."
+ },
+ {
+  "topicId": "vnm_09_06",
+  "prerequisiteId": "vnm_09_05",
+  "strength": "hard",
+  "reason": "Học «Bất phương trình bậc nhất một ẩn» cần nắm vững trước «Bất đẳng thức và tính chất»."
+ },
+ {
+  "topicId": "vnm_09_06",
+  "prerequisiteId": "vnm_08_18",
+  "strength": "hard",
+  "reason": "Học «Bất phương trình bậc nhất một ẩn» cần nắm vững trước «Phương trình bậc nhất một ẩn; giải bài toán bằng cách lập phương trình»."
+ },
+ {
+  "topicId": "vnm_09_07",
+  "prerequisiteId": "vnm_07_05",
+  "strength": "hard",
+  "reason": "Học «Căn bậc hai và căn thức bậc hai» cần nắm vững trước «Số thập phân vô hạn tuần hoàn; căn bậc hai số học»."
+ },
+ {
+  "topicId": "vnm_09_07",
+  "prerequisiteId": "vnm_08_04",
+  "strength": "hard",
+  "reason": "Học «Căn bậc hai và căn thức bậc hai» cần nắm vững trước «Hiệu hai bình phương; bình phương của một tổng, một hiệu»."
+ },
+ {
+  "topicId": "vnm_09_08",
+  "prerequisiteId": "vnm_09_07",
+  "strength": "hard",
+  "reason": "Học «Khai căn bậc hai với phép nhân và phép chia» cần nắm vững trước «Căn bậc hai và căn thức bậc hai»."
+ },
+ {
+  "topicId": "vnm_09_09",
+  "prerequisiteId": "vnm_09_08",
+  "strength": "hard",
+  "reason": "Học «Biến đổi đơn giản và rút gọn biểu thức chứa căn bậc hai» cần nắm vững trước «Khai căn bậc hai với phép nhân và phép chia»."
+ },
+ {
+  "topicId": "vnm_09_10",
+  "prerequisiteId": "vnm_07_05",
+  "strength": "hard",
+  "reason": "Học «Căn bậc ba» cần nắm vững trước «Số thập phân vô hạn tuần hoàn; căn bậc hai số học»."
+ },
+ {
+  "topicId": "vnm_09_10",
+  "prerequisiteId": "vnm_08_05",
+  "strength": "soft",
+  "reason": "Học «Căn bậc ba» cần nên biết trước «Lập phương của một tổng, một hiệu; tổng và hiệu hai lập phương»."
+ },
+ {
+  "topicId": "vnm_09_11",
+  "prerequisiteId": "vnm_08_26",
+  "strength": "hard",
+  "reason": "Học «Tỉ số lượng giác của góc nhọn» cần nắm vững trước «Các trường hợp đồng dạng của tam giác vuông; hình đồng dạng»."
+ },
+ {
+  "topicId": "vnm_09_12",
+  "prerequisiteId": "vnm_09_11",
+  "strength": "hard",
+  "reason": "Học «Một số hệ thức giữa cạnh, góc trong tam giác vuông» cần nắm vững trước «Tỉ số lượng giác của góc nhọn»."
+ },
+ {
+  "topicId": "vnm_09_13",
+  "prerequisiteId": "vnm_05_12",
+  "strength": "hard",
+  "reason": "Học «Mở đầu về đường tròn; cung và dây» cần nắm vững trước «Hình tròn: chu vi, diện tích»."
+ },
+ {
+  "topicId": "vnm_09_13",
+  "prerequisiteId": "vnm_07_12",
+  "strength": "hard",
+  "reason": "Học «Mở đầu về đường tròn; cung và dây» cần nắm vững trước «Tam giác cân; đường trung trực của đoạn thẳng»."
+ },
+ {
+  "topicId": "vnm_09_14",
+  "prerequisiteId": "vnm_09_13",
+  "strength": "hard",
+  "reason": "Học «Độ dài cung tròn; diện tích hình quạt tròn, hình vành khuyên» cần nắm vững trước «Mở đầu về đường tròn; cung và dây»."
+ },
+ {
+  "topicId": "vnm_09_15",
+  "prerequisiteId": "vnm_09_13",
+  "strength": "hard",
+  "reason": "Học «Vị trí tương đối của đường thẳng và đường tròn; tiếp tuyến» cần nắm vững trước «Mở đầu về đường tròn; cung và dây»."
+ },
+ {
+  "topicId": "vnm_09_15",
+  "prerequisiteId": "vnm_08_25",
+  "strength": "hard",
+  "reason": "Học «Vị trí tương đối của đường thẳng và đường tròn; tiếp tuyến» cần nắm vững trước «Định lí Pythagore và ứng dụng»."
+ },
+ {
+  "topicId": "vnm_09_16",
+  "prerequisiteId": "vnm_09_13",
+  "strength": "hard",
+  "reason": "Học «Vị trí tương đối của hai đường tròn» cần nắm vững trước «Mở đầu về đường tròn; cung và dây»."
+ },
+ {
+  "topicId": "vnm_09_17",
+  "prerequisiteId": "vnm_08_19",
+  "strength": "hard",
+  "reason": "Học «Hàm số y = ax² (a ≠ 0) và đồ thị» cần nắm vững trước «Khái niệm hàm số; mặt phẳng tọa độ; đồ thị hàm số»."
+ },
+ {
+  "topicId": "vnm_09_18",
+  "prerequisiteId": "vnm_09_07",
+  "strength": "hard",
+  "reason": "Học «Phương trình bậc hai một ẩn; công thức nghiệm» cần nắm vững trước «Căn bậc hai và căn thức bậc hai»."
+ },
+ {
+  "topicId": "vnm_09_18",
+  "prerequisiteId": "vnm_08_06",
+  "strength": "hard",
+  "reason": "Học «Phương trình bậc hai một ẩn; công thức nghiệm» cần nắm vững trước «Phân tích đa thức thành nhân tử»."
+ },
+ {
+  "topicId": "vnm_09_19",
+  "prerequisiteId": "vnm_09_18",
+  "strength": "hard",
+  "reason": "Học «Định lí Viète và ứng dụng» cần nắm vững trước «Phương trình bậc hai một ẩn; công thức nghiệm»."
+ },
+ {
+  "topicId": "vnm_09_20",
+  "prerequisiteId": "vnm_09_18",
+  "strength": "hard",
+  "reason": "Học «Giải bài toán bằng cách lập phương trình bậc hai» cần nắm vững trước «Phương trình bậc hai một ẩn; công thức nghiệm»."
+ },
+ {
+  "topicId": "vnm_09_21",
+  "prerequisiteId": "vnm_08_14",
+  "strength": "hard",
+  "reason": "Học «Bảng tần số, tần số tương đối; mẫu số liệu ghép nhóm» cần nắm vững trước «Thu thập, phân loại, biểu diễn và phân tích dữ liệu»."
+ },
+ {
+  "topicId": "vnm_09_22",
+  "prerequisiteId": "vnm_08_22",
+  "strength": "hard",
+  "reason": "Học «Phép thử ngẫu nhiên, không gian mẫu; xác suất của biến cố» cần nắm vững trước «Kết quả thuận lợi; tính xác suất bằng tỉ số»."
+ },
+ {
+  "topicId": "vnm_09_23",
+  "prerequisiteId": "vnm_09_13",
+  "strength": "hard",
+  "reason": "Học «Góc nội tiếp» cần nắm vững trước «Mở đầu về đường tròn; cung và dây»."
+ },
+ {
+  "topicId": "vnm_09_24",
+  "prerequisiteId": "vnm_09_23",
+  "strength": "hard",
+  "reason": "Học «Đường tròn ngoại tiếp và đường tròn nội tiếp của một tam giác» cần nắm vững trước «Góc nội tiếp»."
+ },
+ {
+  "topicId": "vnm_09_24",
+  "prerequisiteId": "vnm_07_23",
+  "strength": "hard",
+  "reason": "Học «Đường tròn ngoại tiếp và đường tròn nội tiếp của một tam giác» cần nắm vững trước «Đường vuông góc và đường xiên; sự đồng quy của các đường đặc biệt trong tam giác»."
+ },
+ {
+  "topicId": "vnm_09_25",
+  "prerequisiteId": "vnm_09_23",
+  "strength": "hard",
+  "reason": "Học «Tứ giác nội tiếp» cần nắm vững trước «Góc nội tiếp»."
+ },
+ {
+  "topicId": "vnm_09_25",
+  "prerequisiteId": "vnm_08_07",
+  "strength": "hard",
+  "reason": "Học «Tứ giác nội tiếp» cần nắm vững trước «Tứ giác; tổng các góc của tứ giác»."
+ },
+ {
+  "topicId": "vnm_09_26",
+  "prerequisiteId": "vnm_09_25",
+  "strength": "hard",
+  "reason": "Học «Đa giác đều; phép quay» cần nắm vững trước «Tứ giác nội tiếp»."
+ },
+ {
+  "topicId": "vnm_09_27",
+  "prerequisiteId": "vnm_05_12",
+  "strength": "hard",
+  "reason": "Học «Hình trụ, hình nón, hình cầu» cần nắm vững trước «Hình tròn: chu vi, diện tích»."
+ },
+ {
+  "topicId": "vnm_09_27",
+  "prerequisiteId": "vnm_08_27",
+  "strength": "soft",
+  "reason": "Học «Hình trụ, hình nón, hình cầu» cần nên biết trước «Hình chóp tam giác đều, hình chóp tứ giác đều»."
+ },
+ {
+  "topicId": "vnm_10_01",
+  "prerequisiteId": "vnm_09_05",
+  "strength": "soft",
+  "reason": "Học «Mệnh đề; mệnh đề phủ định, kéo theo, tương đương» cần nên biết trước «Bất đẳng thức và tính chất»."
+ },
+ {
+  "topicId": "vnm_10_02",
+  "prerequisiteId": "vnm_06_01",
+  "strength": "hard",
+  "reason": "Học «Tập hợp và các phép toán trên tập hợp» cần nắm vững trước «Tập hợp; phần tử của tập hợp»."
+ },
+ {
+  "topicId": "vnm_10_02",
+  "prerequisiteId": "vnm_07_06",
+  "strength": "hard",
+  "reason": "Học «Tập hợp và các phép toán trên tập hợp» cần nắm vững trước «Số vô tỉ; số thực; giá trị tuyệt đối»."
+ },
+ {
+  "topicId": "vnm_10_03",
+  "prerequisiteId": "vnm_09_06",
+  "strength": "hard",
+  "reason": "Học «Bất phương trình bậc nhất hai ẩn» cần nắm vững trước «Bất phương trình bậc nhất một ẩn»."
+ },
+ {
+  "topicId": "vnm_10_03",
+  "prerequisiteId": "vnm_08_20",
+  "strength": "hard",
+  "reason": "Học «Bất phương trình bậc nhất hai ẩn» cần nắm vững trước «Hàm số bậc nhất y = ax + b và đồ thị»."
+ },
+ {
+  "topicId": "vnm_10_04",
+  "prerequisiteId": "vnm_10_03",
+  "strength": "hard",
+  "reason": "Học «Hệ bất phương trình bậc nhất hai ẩn và ứng dụng» cần nắm vững trước «Bất phương trình bậc nhất hai ẩn»."
+ },
+ {
+  "topicId": "vnm_10_05",
+  "prerequisiteId": "vnm_09_11",
+  "strength": "hard",
+  "reason": "Học «Giá trị lượng giác của một góc từ 0° đến 180°» cần nắm vững trước «Tỉ số lượng giác của góc nhọn»."
+ },
+ {
+  "topicId": "vnm_10_06",
+  "prerequisiteId": "vnm_10_05",
+  "strength": "hard",
+  "reason": "Học «Định lí côsin, định lí sin» cần nắm vững trước «Giá trị lượng giác của một góc từ 0° đến 180°»."
+ },
+ {
+  "topicId": "vnm_10_06",
+  "prerequisiteId": "vnm_08_25",
+  "strength": "hard",
+  "reason": "Học «Định lí côsin, định lí sin» cần nắm vững trước «Định lí Pythagore và ứng dụng»."
+ },
+ {
+  "topicId": "vnm_10_07",
+  "prerequisiteId": "vnm_10_06",
+  "strength": "hard",
+  "reason": "Học «Giải tam giác; diện tích tam giác» cần nắm vững trước «Định lí côsin, định lí sin»."
+ },
+ {
+  "topicId": "vnm_10_08",
+  "prerequisiteId": "vnm_06_24",
+  "strength": "hard",
+  "reason": "Học «Các khái niệm mở đầu về vectơ» cần nắm vững trước «Đoạn thẳng; độ dài đoạn thẳng; trung điểm»."
+ },
+ {
+  "topicId": "vnm_10_09",
+  "prerequisiteId": "vnm_10_08",
+  "strength": "hard",
+  "reason": "Học «Tổng và hiệu của hai vectơ» cần nắm vững trước «Các khái niệm mở đầu về vectơ»."
+ },
+ {
+  "topicId": "vnm_10_09",
+  "prerequisiteId": "vnm_08_09",
+  "strength": "hard",
+  "reason": "Học «Tổng và hiệu của hai vectơ» cần nắm vững trước «Hình bình hành; hình thoi»."
+ },
+ {
+  "topicId": "vnm_10_10",
+  "prerequisiteId": "vnm_10_09",
+  "strength": "hard",
+  "reason": "Học «Tích của một vectơ với một số» cần nắm vững trước «Tổng và hiệu của hai vectơ»."
+ },
+ {
+  "topicId": "vnm_10_11",
+  "prerequisiteId": "vnm_10_10",
+  "strength": "hard",
+  "reason": "Học «Vectơ trong mặt phẳng tọa độ» cần nắm vững trước «Tích của một vectơ với một số»."
+ },
+ {
+  "topicId": "vnm_10_11",
+  "prerequisiteId": "vnm_08_19",
+  "strength": "hard",
+  "reason": "Học «Vectơ trong mặt phẳng tọa độ» cần nắm vững trước «Khái niệm hàm số; mặt phẳng tọa độ; đồ thị hàm số»."
+ },
+ {
+  "topicId": "vnm_10_12",
+  "prerequisiteId": "vnm_10_11",
+  "strength": "hard",
+  "reason": "Học «Tích vô hướng của hai vectơ» cần nắm vững trước «Vectơ trong mặt phẳng tọa độ»."
+ },
+ {
+  "topicId": "vnm_10_12",
+  "prerequisiteId": "vnm_10_05",
+  "strength": "hard",
+  "reason": "Học «Tích vô hướng của hai vectơ» cần nắm vững trước «Giá trị lượng giác của một góc từ 0° đến 180°»."
+ },
+ {
+  "topicId": "vnm_10_13",
+  "prerequisiteId": "vnm_06_21",
+  "strength": "hard",
+  "reason": "Học «Số gần đúng và sai số» cần nắm vững trước «Làm tròn và ước lượng»."
+ },
+ {
+  "topicId": "vnm_10_14",
+  "prerequisiteId": "vnm_09_21",
+  "strength": "hard",
+  "reason": "Học «Các số đặc trưng đo xu thế trung tâm» cần nắm vững trước «Bảng tần số, tần số tương đối; mẫu số liệu ghép nhóm»."
+ },
+ {
+  "topicId": "vnm_10_15",
+  "prerequisiteId": "vnm_10_14",
+  "strength": "hard",
+  "reason": "Học «Các số đặc trưng đo độ phân tán» cần nắm vững trước «Các số đặc trưng đo xu thế trung tâm»."
+ },
+ {
+  "topicId": "vnm_10_15",
+  "prerequisiteId": "vnm_07_05",
+  "strength": "hard",
+  "reason": "Học «Các số đặc trưng đo độ phân tán» cần nắm vững trước «Số thập phân vô hạn tuần hoàn; căn bậc hai số học»."
+ },
+ {
+  "topicId": "vnm_10_16",
+  "prerequisiteId": "vnm_08_19",
+  "strength": "hard",
+  "reason": "Học «Hàm số; tập xác định; đồng biến, nghịch biến» cần nắm vững trước «Khái niệm hàm số; mặt phẳng tọa độ; đồ thị hàm số»."
+ },
+ {
+  "topicId": "vnm_10_16",
+  "prerequisiteId": "vnm_10_02",
+  "strength": "hard",
+  "reason": "Học «Hàm số; tập xác định; đồng biến, nghịch biến» cần nắm vững trước «Tập hợp và các phép toán trên tập hợp»."
+ },
+ {
+  "topicId": "vnm_10_17",
+  "prerequisiteId": "vnm_10_16",
+  "strength": "hard",
+  "reason": "Học «Hàm số bậc hai» cần nắm vững trước «Hàm số; tập xác định; đồng biến, nghịch biến»."
+ },
+ {
+  "topicId": "vnm_10_17",
+  "prerequisiteId": "vnm_09_17",
+  "strength": "hard",
+  "reason": "Học «Hàm số bậc hai» cần nắm vững trước «Hàm số y = ax² (a ≠ 0) và đồ thị»."
+ },
+ {
+  "topicId": "vnm_10_17",
+  "prerequisiteId": "vnm_09_18",
+  "strength": "hard",
+  "reason": "Học «Hàm số bậc hai» cần nắm vững trước «Phương trình bậc hai một ẩn; công thức nghiệm»."
+ },
+ {
+  "topicId": "vnm_10_18",
+  "prerequisiteId": "vnm_10_17",
+  "strength": "hard",
+  "reason": "Học «Dấu của tam thức bậc hai; bất phương trình bậc hai» cần nắm vững trước «Hàm số bậc hai»."
+ },
+ {
+  "topicId": "vnm_10_19",
+  "prerequisiteId": "vnm_10_18",
+  "strength": "hard",
+  "reason": "Học «Phương trình quy về phương trình bậc hai» cần nắm vững trước «Dấu của tam thức bậc hai; bất phương trình bậc hai»."
+ },
+ {
+  "topicId": "vnm_10_19",
+  "prerequisiteId": "vnm_09_09",
+  "strength": "hard",
+  "reason": "Học «Phương trình quy về phương trình bậc hai» cần nắm vững trước «Biến đổi đơn giản và rút gọn biểu thức chứa căn bậc hai»."
+ },
+ {
+  "topicId": "vnm_10_20",
+  "prerequisiteId": "vnm_10_11",
+  "strength": "hard",
+  "reason": "Học «Phương trình đường thẳng» cần nắm vững trước «Vectơ trong mặt phẳng tọa độ»."
+ },
+ {
+  "topicId": "vnm_10_20",
+  "prerequisiteId": "vnm_08_21",
+  "strength": "hard",
+  "reason": "Học «Phương trình đường thẳng» cần nắm vững trước «Hệ số góc của đường thẳng; hai đường thẳng song song, cắt nhau»."
+ },
+ {
+  "topicId": "vnm_10_21",
+  "prerequisiteId": "vnm_10_20",
+  "strength": "hard",
+  "reason": "Học «Vị trí tương đối, góc và khoảng cách» cần nắm vững trước «Phương trình đường thẳng»."
+ },
+ {
+  "topicId": "vnm_10_21",
+  "prerequisiteId": "vnm_10_12",
+  "strength": "hard",
+  "reason": "Học «Vị trí tương đối, góc và khoảng cách» cần nắm vững trước «Tích vô hướng của hai vectơ»."
+ },
+ {
+  "topicId": "vnm_10_22",
+  "prerequisiteId": "vnm_10_21",
+  "strength": "hard",
+  "reason": "Học «Đường tròn trong mặt phẳng tọa độ» cần nắm vững trước «Vị trí tương đối, góc và khoảng cách»."
+ },
+ {
+  "topicId": "vnm_10_22",
+  "prerequisiteId": "vnm_09_15",
+  "strength": "hard",
+  "reason": "Học «Đường tròn trong mặt phẳng tọa độ» cần nắm vững trước «Vị trí tương đối của đường thẳng và đường tròn; tiếp tuyến»."
+ },
+ {
+  "topicId": "vnm_10_23",
+  "prerequisiteId": "vnm_10_22",
+  "strength": "hard",
+  "reason": "Học «Ba đường conic» cần nắm vững trước «Đường tròn trong mặt phẳng tọa độ»."
+ },
+ {
+  "topicId": "vnm_10_24",
+  "prerequisiteId": "vnm_06_03",
+  "strength": "hard",
+  "reason": "Học «Quy tắc cộng, quy tắc nhân; sơ đồ hình cây» cần nắm vững trước «Các phép tính với số tự nhiên; luỹ thừa với số mũ tự nhiên»."
+ },
+ {
+  "topicId": "vnm_10_25",
+  "prerequisiteId": "vnm_10_24",
+  "strength": "hard",
+  "reason": "Học «Hoán vị, chỉnh hợp, tổ hợp» cần nắm vững trước «Quy tắc cộng, quy tắc nhân; sơ đồ hình cây»."
+ },
+ {
+  "topicId": "vnm_10_26",
+  "prerequisiteId": "vnm_10_25",
+  "strength": "hard",
+  "reason": "Học «Nhị thức Newton» cần nắm vững trước «Hoán vị, chỉnh hợp, tổ hợp»."
+ },
+ {
+  "topicId": "vnm_10_26",
+  "prerequisiteId": "vnm_08_05",
+  "strength": "hard",
+  "reason": "Học «Nhị thức Newton» cần nắm vững trước «Lập phương của một tổng, một hiệu; tổng và hiệu hai lập phương»."
+ },
+ {
+  "topicId": "vnm_10_27",
+  "prerequisiteId": "vnm_10_25",
+  "strength": "hard",
+  "reason": "Học «Biến cố và định nghĩa cổ điển của xác suất» cần nắm vững trước «Hoán vị, chỉnh hợp, tổ hợp»."
+ },
+ {
+  "topicId": "vnm_10_27",
+  "prerequisiteId": "vnm_09_22",
+  "strength": "hard",
+  "reason": "Học «Biến cố và định nghĩa cổ điển của xác suất» cần nắm vững trước «Phép thử ngẫu nhiên, không gian mẫu; xác suất của biến cố»."
+ },
+ {
+  "topicId": "vnm_10_27",
+  "prerequisiteId": "vnm_10_02",
+  "strength": "soft",
+  "reason": "Học «Biến cố và định nghĩa cổ điển của xác suất» cần nên biết trước «Tập hợp và các phép toán trên tập hợp»."
+ },
+ {
+  "topicId": "vnm_11_01",
+  "prerequisiteId": "vnm_10_05",
+  "strength": "hard",
+  "reason": "Học «Góc lượng giác; đơn vị radian» cần nắm vững trước «Giá trị lượng giác của một góc từ 0° đến 180°»."
+ },
+ {
+  "topicId": "vnm_11_02",
+  "prerequisiteId": "vnm_11_01",
+  "strength": "hard",
+  "reason": "Học «Giá trị lượng giác của góc lượng giác» cần nắm vững trước «Góc lượng giác; đơn vị radian»."
+ },
+ {
+  "topicId": "vnm_11_03",
+  "prerequisiteId": "vnm_11_02",
+  "strength": "hard",
+  "reason": "Học «Các phép biến đổi lượng giác» cần nắm vững trước «Giá trị lượng giác của góc lượng giác»."
+ },
+ {
+  "topicId": "vnm_11_04",
+  "prerequisiteId": "vnm_11_02",
+  "strength": "hard",
+  "reason": "Học «Hàm số lượng giác» cần nắm vững trước «Giá trị lượng giác của góc lượng giác»."
+ },
+ {
+  "topicId": "vnm_11_04",
+  "prerequisiteId": "vnm_10_16",
+  "strength": "hard",
+  "reason": "Học «Hàm số lượng giác» cần nắm vững trước «Hàm số; tập xác định; đồng biến, nghịch biến»."
+ },
+ {
+  "topicId": "vnm_11_05",
+  "prerequisiteId": "vnm_11_04",
+  "strength": "hard",
+  "reason": "Học «Phương trình lượng giác cơ bản» cần nắm vững trước «Hàm số lượng giác»."
+ },
+ {
+  "topicId": "vnm_11_06",
+  "prerequisiteId": "vnm_10_16",
+  "strength": "hard",
+  "reason": "Học «Dãy số» cần nắm vững trước «Hàm số; tập xác định; đồng biến, nghịch biến»."
+ },
+ {
+  "topicId": "vnm_11_07",
+  "prerequisiteId": "vnm_11_06",
+  "strength": "hard",
+  "reason": "Học «Cấp số cộng» cần nắm vững trước «Dãy số»."
+ },
+ {
+  "topicId": "vnm_11_08",
+  "prerequisiteId": "vnm_11_06",
+  "strength": "hard",
+  "reason": "Học «Cấp số nhân» cần nắm vững trước «Dãy số»."
+ },
+ {
+  "topicId": "vnm_11_08",
+  "prerequisiteId": "vnm_07_03",
+  "strength": "hard",
+  "reason": "Học «Cấp số nhân» cần nắm vững trước «Luỹ thừa với số mũ tự nhiên của một số hữu tỉ»."
+ },
+ {
+  "topicId": "vnm_11_09",
+  "prerequisiteId": "vnm_10_14",
+  "strength": "hard",
+  "reason": "Học «Mẫu số liệu ghép nhóm; số đặc trưng đo xu thế trung tâm» cần nắm vững trước «Các số đặc trưng đo xu thế trung tâm»."
+ },
+ {
+  "topicId": "vnm_11_09",
+  "prerequisiteId": "vnm_09_21",
+  "strength": "hard",
+  "reason": "Học «Mẫu số liệu ghép nhóm; số đặc trưng đo xu thế trung tâm» cần nắm vững trước «Bảng tần số, tần số tương đối; mẫu số liệu ghép nhóm»."
+ },
+ {
+  "topicId": "vnm_11_10",
+  "prerequisiteId": "vnm_06_23",
+  "strength": "hard",
+  "reason": "Học «Đường thẳng và mặt phẳng trong không gian» cần nắm vững trước «Điểm, đường thẳng; ba điểm thẳng hàng»."
+ },
+ {
+  "topicId": "vnm_11_10",
+  "prerequisiteId": "vnm_07_25",
+  "strength": "hard",
+  "reason": "Học «Đường thẳng và mặt phẳng trong không gian» cần nắm vững trước «Hình lăng trụ đứng tam giác, lăng trụ đứng tứ giác»."
+ },
+ {
+  "topicId": "vnm_11_11",
+  "prerequisiteId": "vnm_11_10",
+  "strength": "hard",
+  "reason": "Học «Hai đường thẳng song song; đường thẳng song song với mặt phẳng» cần nắm vững trước «Đường thẳng và mặt phẳng trong không gian»."
+ },
+ {
+  "topicId": "vnm_11_11",
+  "prerequisiteId": "vnm_07_08",
+  "strength": "hard",
+  "reason": "Học «Hai đường thẳng song song; đường thẳng song song với mặt phẳng» cần nắm vững trước «Hai đường thẳng song song; tiên đề Euclid»."
+ },
+ {
+  "topicId": "vnm_11_12",
+  "prerequisiteId": "vnm_11_11",
+  "strength": "hard",
+  "reason": "Học «Hai mặt phẳng song song; phép chiếu song song» cần nắm vững trước «Hai đường thẳng song song; đường thẳng song song với mặt phẳng»."
+ },
+ {
+  "topicId": "vnm_11_13",
+  "prerequisiteId": "vnm_11_08",
+  "strength": "hard",
+  "reason": "Học «Giới hạn của dãy số» cần nắm vững trước «Cấp số nhân»."
+ },
+ {
+  "topicId": "vnm_11_14",
+  "prerequisiteId": "vnm_11_13",
+  "strength": "hard",
+  "reason": "Học «Giới hạn của hàm số» cần nắm vững trước «Giới hạn của dãy số»."
+ },
+ {
+  "topicId": "vnm_11_14",
+  "prerequisiteId": "vnm_10_16",
+  "strength": "hard",
+  "reason": "Học «Giới hạn của hàm số» cần nắm vững trước «Hàm số; tập xác định; đồng biến, nghịch biến»."
+ },
+ {
+  "topicId": "vnm_11_15",
+  "prerequisiteId": "vnm_11_14",
+  "strength": "hard",
+  "reason": "Học «Hàm số liên tục» cần nắm vững trước «Giới hạn của hàm số»."
+ },
+ {
+  "topicId": "vnm_11_16",
+  "prerequisiteId": "vnm_07_03",
+  "strength": "hard",
+  "reason": "Học «Luỹ thừa với số mũ thực» cần nắm vững trước «Luỹ thừa với số mũ tự nhiên của một số hữu tỉ»."
+ },
+ {
+  "topicId": "vnm_11_16",
+  "prerequisiteId": "vnm_09_10",
+  "strength": "hard",
+  "reason": "Học «Luỹ thừa với số mũ thực» cần nắm vững trước «Căn bậc ba»."
+ },
+ {
+  "topicId": "vnm_11_17",
+  "prerequisiteId": "vnm_11_16",
+  "strength": "hard",
+  "reason": "Học «Lôgarit» cần nắm vững trước «Luỹ thừa với số mũ thực»."
+ },
+ {
+  "topicId": "vnm_11_18",
+  "prerequisiteId": "vnm_11_17",
+  "strength": "hard",
+  "reason": "Học «Hàm số mũ, hàm số lôgarit» cần nắm vững trước «Lôgarit»."
+ },
+ {
+  "topicId": "vnm_11_18",
+  "prerequisiteId": "vnm_10_16",
+  "strength": "hard",
+  "reason": "Học «Hàm số mũ, hàm số lôgarit» cần nắm vững trước «Hàm số; tập xác định; đồng biến, nghịch biến»."
+ },
+ {
+  "topicId": "vnm_11_19",
+  "prerequisiteId": "vnm_11_18",
+  "strength": "hard",
+  "reason": "Học «Phương trình, bất phương trình mũ và lôgarit» cần nắm vững trước «Hàm số mũ, hàm số lôgarit»."
+ },
+ {
+  "topicId": "vnm_11_19",
+  "prerequisiteId": "vnm_09_06",
+  "strength": "hard",
+  "reason": "Học «Phương trình, bất phương trình mũ và lôgarit» cần nắm vững trước «Bất phương trình bậc nhất một ẩn»."
+ },
+ {
+  "topicId": "vnm_11_20",
+  "prerequisiteId": "vnm_11_11",
+  "strength": "hard",
+  "reason": "Học «Hai đường thẳng vuông góc» cần nắm vững trước «Hai đường thẳng song song; đường thẳng song song với mặt phẳng»."
+ },
+ {
+  "topicId": "vnm_11_21",
+  "prerequisiteId": "vnm_11_20",
+  "strength": "hard",
+  "reason": "Học «Đường thẳng vuông góc với mặt phẳng» cần nắm vững trước «Hai đường thẳng vuông góc»."
+ },
+ {
+  "topicId": "vnm_11_22",
+  "prerequisiteId": "vnm_11_21",
+  "strength": "hard",
+  "reason": "Học «Phép chiếu vuông góc; góc giữa đường thẳng và mặt phẳng» cần nắm vững trước «Đường thẳng vuông góc với mặt phẳng»."
+ },
+ {
+  "topicId": "vnm_11_22",
+  "prerequisiteId": "vnm_09_11",
+  "strength": "hard",
+  "reason": "Học «Phép chiếu vuông góc; góc giữa đường thẳng và mặt phẳng» cần nắm vững trước «Tỉ số lượng giác của góc nhọn»."
+ },
+ {
+  "topicId": "vnm_11_23",
+  "prerequisiteId": "vnm_11_22",
+  "strength": "hard",
+  "reason": "Học «Hai mặt phẳng vuông góc; góc nhị diện» cần nắm vững trước «Phép chiếu vuông góc; góc giữa đường thẳng và mặt phẳng»."
+ },
+ {
+  "topicId": "vnm_11_24",
+  "prerequisiteId": "vnm_11_23",
+  "strength": "hard",
+  "reason": "Học «Khoảng cách trong không gian» cần nắm vững trước «Hai mặt phẳng vuông góc; góc nhị diện»."
+ },
+ {
+  "topicId": "vnm_11_25",
+  "prerequisiteId": "vnm_11_24",
+  "strength": "soft",
+  "reason": "Học «Thể tích khối lăng trụ, khối chóp, khối chóp cụt đều» cần nên biết trước «Khoảng cách trong không gian»."
+ },
+ {
+  "topicId": "vnm_11_25",
+  "prerequisiteId": "vnm_08_27",
+  "strength": "hard",
+  "reason": "Học «Thể tích khối lăng trụ, khối chóp, khối chóp cụt đều» cần nắm vững trước «Hình chóp tam giác đều, hình chóp tứ giác đều»."
+ },
+ {
+  "topicId": "vnm_11_26",
+  "prerequisiteId": "vnm_10_27",
+  "strength": "hard",
+  "reason": "Học «Biến cố hợp, biến cố giao; biến cố độc lập» cần nắm vững trước «Biến cố và định nghĩa cổ điển của xác suất»."
+ },
+ {
+  "topicId": "vnm_11_27",
+  "prerequisiteId": "vnm_11_26",
+  "strength": "hard",
+  "reason": "Học «Công thức cộng xác suất; công thức nhân xác suất cho hai biến cố độc lập» cần nắm vững trước «Biến cố hợp, biến cố giao; biến cố độc lập»."
+ },
+ {
+  "topicId": "vnm_11_28",
+  "prerequisiteId": "vnm_11_14",
+  "strength": "hard",
+  "reason": "Học «Định nghĩa và ý nghĩa của đạo hàm» cần nắm vững trước «Giới hạn của hàm số»."
+ },
+ {
+  "topicId": "vnm_11_29",
+  "prerequisiteId": "vnm_11_28",
+  "strength": "hard",
+  "reason": "Học «Các quy tắc tính đạo hàm» cần nắm vững trước «Định nghĩa và ý nghĩa của đạo hàm»."
+ },
+ {
+  "topicId": "vnm_11_29",
+  "prerequisiteId": "vnm_11_04",
+  "strength": "hard",
+  "reason": "Học «Các quy tắc tính đạo hàm» cần nắm vững trước «Hàm số lượng giác»."
+ },
+ {
+  "topicId": "vnm_11_29",
+  "prerequisiteId": "vnm_11_18",
+  "strength": "hard",
+  "reason": "Học «Các quy tắc tính đạo hàm» cần nắm vững trước «Hàm số mũ, hàm số lôgarit»."
+ },
+ {
+  "topicId": "vnm_11_30",
+  "prerequisiteId": "vnm_11_29",
+  "strength": "hard",
+  "reason": "Học «Đạo hàm cấp hai» cần nắm vững trước «Các quy tắc tính đạo hàm»."
+ },
+ {
+  "topicId": "vnm_12_01",
+  "prerequisiteId": "vnm_11_29",
+  "strength": "hard",
+  "reason": "Học «Tính đơn điệu và cực trị của hàm số» cần nắm vững trước «Các quy tắc tính đạo hàm»."
+ },
+ {
+  "topicId": "vnm_12_01",
+  "prerequisiteId": "vnm_10_18",
+  "strength": "hard",
+  "reason": "Học «Tính đơn điệu và cực trị của hàm số» cần nắm vững trước «Dấu của tam thức bậc hai; bất phương trình bậc hai»."
+ },
+ {
+  "topicId": "vnm_12_02",
+  "prerequisiteId": "vnm_12_01",
+  "strength": "hard",
+  "reason": "Học «Giá trị lớn nhất, giá trị nhỏ nhất của hàm số» cần nắm vững trước «Tính đơn điệu và cực trị của hàm số»."
+ },
+ {
+  "topicId": "vnm_12_03",
+  "prerequisiteId": "vnm_11_14",
+  "strength": "hard",
+  "reason": "Học «Đường tiệm cận của đồ thị hàm số» cần nắm vững trước «Giới hạn của hàm số»."
+ },
+ {
+  "topicId": "vnm_12_04",
+  "prerequisiteId": "vnm_12_01",
+  "strength": "hard",
+  "reason": "Học «Khảo sát sự biến thiên và vẽ đồ thị hàm số» cần nắm vững trước «Tính đơn điệu và cực trị của hàm số»."
+ },
+ {
+  "topicId": "vnm_12_04",
+  "prerequisiteId": "vnm_12_03",
+  "strength": "hard",
+  "reason": "Học «Khảo sát sự biến thiên và vẽ đồ thị hàm số» cần nắm vững trước «Đường tiệm cận của đồ thị hàm số»."
+ },
+ {
+  "topicId": "vnm_12_05",
+  "prerequisiteId": "vnm_12_02",
+  "strength": "hard",
+  "reason": "Học «Ứng dụng đạo hàm giải bài toán thực tiễn» cần nắm vững trước «Giá trị lớn nhất, giá trị nhỏ nhất của hàm số»."
+ },
+ {
+  "topicId": "vnm_12_06",
+  "prerequisiteId": "vnm_10_12",
+  "strength": "hard",
+  "reason": "Học «Vectơ trong không gian» cần nắm vững trước «Tích vô hướng của hai vectơ»."
+ },
+ {
+  "topicId": "vnm_12_06",
+  "prerequisiteId": "vnm_11_12",
+  "strength": "hard",
+  "reason": "Học «Vectơ trong không gian» cần nắm vững trước «Hai mặt phẳng song song; phép chiếu song song»."
+ },
+ {
+  "topicId": "vnm_12_07",
+  "prerequisiteId": "vnm_12_06",
+  "strength": "hard",
+  "reason": "Học «Hệ trục tọa độ trong không gian» cần nắm vững trước «Vectơ trong không gian»."
+ },
+ {
+  "topicId": "vnm_12_08",
+  "prerequisiteId": "vnm_12_07",
+  "strength": "hard",
+  "reason": "Học «Biểu thức tọa độ của các phép toán vectơ» cần nắm vững trước «Hệ trục tọa độ trong không gian»."
+ },
+ {
+  "topicId": "vnm_12_09",
+  "prerequisiteId": "vnm_11_09",
+  "strength": "hard",
+  "reason": "Học «Số đặc trưng đo mức độ phân tán của mẫu số liệu ghép nhóm» cần nắm vững trước «Mẫu số liệu ghép nhóm; số đặc trưng đo xu thế trung tâm»."
+ },
+ {
+  "topicId": "vnm_12_09",
+  "prerequisiteId": "vnm_10_15",
+  "strength": "hard",
+  "reason": "Học «Số đặc trưng đo mức độ phân tán của mẫu số liệu ghép nhóm» cần nắm vững trước «Các số đặc trưng đo độ phân tán»."
+ },
+ {
+  "topicId": "vnm_12_10",
+  "prerequisiteId": "vnm_11_29",
+  "strength": "hard",
+  "reason": "Học «Nguyên hàm» cần nắm vững trước «Các quy tắc tính đạo hàm»."
+ },
+ {
+  "topicId": "vnm_12_11",
+  "prerequisiteId": "vnm_12_10",
+  "strength": "hard",
+  "reason": "Học «Tích phân» cần nắm vững trước «Nguyên hàm»."
+ },
+ {
+  "topicId": "vnm_12_12",
+  "prerequisiteId": "vnm_12_11",
+  "strength": "hard",
+  "reason": "Học «Ứng dụng hình học của tích phân» cần nắm vững trước «Tích phân»."
+ },
+ {
+  "topicId": "vnm_12_13",
+  "prerequisiteId": "vnm_12_08",
+  "strength": "hard",
+  "reason": "Học «Phương trình mặt phẳng» cần nắm vững trước «Biểu thức tọa độ của các phép toán vectơ»."
+ },
+ {
+  "topicId": "vnm_12_14",
+  "prerequisiteId": "vnm_12_13",
+  "strength": "hard",
+  "reason": "Học «Phương trình đường thẳng trong không gian» cần nắm vững trước «Phương trình mặt phẳng»."
+ },
+ {
+  "topicId": "vnm_12_15",
+  "prerequisiteId": "vnm_12_08",
+  "strength": "hard",
+  "reason": "Học «Phương trình mặt cầu» cần nắm vững trước «Biểu thức tọa độ của các phép toán vectơ»."
+ },
+ {
+  "topicId": "vnm_12_15",
+  "prerequisiteId": "vnm_10_22",
+  "strength": "hard",
+  "reason": "Học «Phương trình mặt cầu» cần nắm vững trước «Đường tròn trong mặt phẳng tọa độ»."
+ },
+ {
+  "topicId": "vnm_12_16",
+  "prerequisiteId": "vnm_11_27",
+  "strength": "hard",
+  "reason": "Học «Xác suất có điều kiện» cần nắm vững trước «Công thức cộng xác suất; công thức nhân xác suất cho hai biến cố độc lập»."
+ },
+ {
+  "topicId": "vnm_12_17",
+  "prerequisiteId": "vnm_12_16",
+  "strength": "hard",
+  "reason": "Học «Công thức xác suất toàn phần; công thức Bayes» cần nắm vững trước «Xác suất có điều kiện»."
+ }
+]

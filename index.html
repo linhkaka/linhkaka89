@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Bản đồ kiến thức Toán</title>
+<meta name="description" content="Bản đồ kiến thức Toán lớp 1–12 theo Chương trình GDPT 2018, kèm công cụ chẩn đoán lỗ hổng kiến thức tự lần ngược về lớp dưới.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%23b3261e'/%3E%3Ctext x='16' y='22' font-size='16' text-anchor='middle' fill='white' font-family='sans-serif'%3E%E2%88%91%3C/text%3E%3C/svg%3E">
+<link rel="stylesheet" href="assets/site.css">
+</head>
+<body>
+<header class="site-header">
+  <a class="brand" href="./"><span class="logo">∑</span><span>Bản đồ kiến thức Toán<small>GDPT 2018 · Lớp 1–12</small></span></a>
+  <nav aria-label="Điều hướng chính">
+    <a class="on" href="./" aria-current="page">Trang chủ</a>
+    <a href="kham-pha/">Khám phá</a>
+    <a href="chan-doan/">Chẩn đoán</a>
+  </nav>
+</header>
+<main>
+  <h1>Tìm đúng chỗ hổng kiến thức Toán, từ lớp 1 đến lớp 12</h1>
+  <p class="lead">Mỗi kiến thức được nối với các kiến thức nền cần có trước. Khi em làm sai, công cụ không chỉ báo "sai" mà lần ngược về lớp dưới để tìm <b>nguyên nhân gốc</b>, rồi gợi ý <b>lộ trình học</b> từ thấp đến cao.</p>
+  <div class="row">
+    <a class="btn primary" href="chan-doan/">Bắt đầu chẩn đoán</a>
+    <a class="btn" href="chan-doan/?muc-tieu=vnm_09_18">Thử ngay: Phương trình bậc hai</a>
+    <a class="btn" href="kham-pha/">Xem bản đồ</a>
+  </div>
+
+  <h2>Cách hoạt động</h2>
+  <div class="grid">
+    <div class="card"><h3>1. Chọn kiến thức</h3><p class="small muted">Tìm theo tên (không cần gõ dấu) hoặc sàng lọc cả một lớp.</p></div>
+    <div class="card"><h3>2. Trả lời câu hỏi</h3><p class="small muted">Đúng liên tiếp đủ số câu thì công nhận "đã vững". Sai thì có câu xác nhận dễ hơn.</p></div>
+    <div class="card"><h3>3. Lần ngược tự động</h3><p class="small muted">Vẫn sai thì hệ thống hỏi tiếp các kiến thức nền, có thể về tận tiểu học.</p></div>
+    <div class="card"><h3>4. Nhận lộ trình</h3><p class="small muted">Danh sách việc cần ôn theo thứ tự lớp, bắt đầu từ nguyên nhân gốc.</p></div>
+  </div>
+
+  <h2>Dữ liệu hiện có</h2>
+  <div class="stats" id="stats"><div class="stat"><b>…</b>đang tải</div></div>
+
+  <h2>Chọn lớp</h2>
+  <div class="grades" id="grades"></div>
+
+  <h2>Lưu ý</h2>
+  <p class="notice">Đây là dự án mã nguồn mở, phi lợi nhuận. Danh sách kiến thức bám theo <b>Chương trình GDPT 2018 môn Toán</b> (Thông tư 32/2018/TT-BGDĐT) và thứ tự chương tham khảo bộ sách <i>Kết nối tri thức với cuộc sống</i>; quan hệ tiền đề và câu hỏi do nhóm biên soạn, <b>cần giáo viên rà soát</b> trước khi dùng để đánh giá chính thức. Kết quả chỉ lưu trên máy của em, không gửi đi đâu.</p>
+</main>
+<footer>Phát triển từ lõi <a href="https://github.com/xiaoyang111222/cn-math-taxonomy">cn-math-taxonomy</a> (CC BY-NC 4.0) · <a href="https://github.com/linhkaka/linhkaka89">Mã nguồn</a></footer>
+<script src="assets/engine.js"></script>
+<script src="assets/common.js"></script>
+<script>
+(function () {
+  var V = window.VN, h = V.h;
+  V.loadData('./').then(function (D) {
+    var st = { 'tieu-hoc': 0, thcs: 0, thpt: 0 };
+    D.topics.forEach(function (t) { st[t.stage]++; });
+    document.getElementById('stats').replaceChildren(
+      h('div', { class: 'stat' }, h('b', { text: String(D.topics.length) }), 'kiến thức'),
+      h('div', { class: 'stat' }, h('b', { text: String(D.deps.length) }), 'quan hệ tiền đề'),
+      h('div', { class: 'stat' }, h('b', { text: String(D.questions.length) }), 'câu hỏi'),
+      h('div', { class: 'stat' }, h('b', { text: st['tieu-hoc'] + ' · ' + st.thcs + ' · ' + st.thpt }), 'Tiểu học · THCS · THPT'));
+    var g = document.getElementById('grades');
+    for (var i = 1; i <= 12; i++) {
+      (function (n) {
+        var count = D.topics.filter(function (t) { return t.grade === n; }).length;
+        g.append(h('a', { class: 'btn', href: 'chan-doan/?lop=' + n, title: 'Sàng lọc lớp ' + n + ' (' + count + ' kiến thức)' }, 'Lớp ' + n));
+      })(i);
+    }
+  }).catch(function (e) { document.getElementById('stats').textContent = 'Lỗi tải dữ liệu: ' + e.message; });
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,12 @@
+{
+  "name": "ban-do-kien-thuc-toan",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Bản đồ kiến thức Toán lớp 1–12 (GDPT 2018) kèm công cụ chẩn đoán lỗ hổng kiến thức. Phát triển từ lõi cn-math-taxonomy.",
+  "license": "CC-BY-NC-4.0",
+  "scripts": {
+    "build": "python3 scripts/build.py",
+    "test": "python3 scripts/build.py && node scripts/check.js && node tests/test_engine.js",
+    "start": "python3 -m http.server 8000"
+  }
+}

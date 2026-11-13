@@ -1,0 +1,3844 @@
+[
+ {
+  "id": "vnm_01_01",
+  "subject": "math",
+  "name": "Các số từ 0 đến 10",
+  "grade": 1,
+  "stage": "tieu-hoc",
+  "domain": "Số và Phép tính",
+  "chapter": "Chủ đề 1. Các số từ 0 đến 10",
+  "type": "conceptual",
+  "description": "Đếm, đọc, viết các số từ 0 đến 10; nhận biết số lượng của một nhóm đồ vật.",
+  "diagnostic_question": {
+   "question": "Số liền sau của 4 là số nào?",
+   "answer": "5"
+  }
+ },
+ {
+  "id": "vnm_01_02",
+  "subject": "math",
+  "name": "So sánh các số trong phạm vi 10",
+  "grade": 1,
+  "stage": "tieu-hoc",
+  "domain": "Số và Phép tính",
+  "chapter": "Chủ đề 1. Các số từ 0 đến 10",
+  "type": "conceptual",
+  "description": "Dùng dấu >, <, = để so sánh hai số trong phạm vi 10.",
+  "diagnostic_question": {
+   "question": "Chọn dấu thích hợp: 7 ... 5",
+   "answer": "A"
+  }
+ },
+ {
+  "id": "vnm_01_03",
+  "subject": "math",
+  "name": "Nhận biết hình vuông, hình tròn, hình tam giác, hình chữ nhật",
+  "grade": 1,
+  "stage": "tieu-hoc",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chủ đề 2. Làm quen với một số hình phẳng",
+  "type": "conceptual",
+  "description": "Nhận dạng và gọi tên các hình phẳng đơn giản qua đồ vật thật.",
+  "diagnostic_question": {
+   "question": "Mặt đồng hồ treo tường thường có dạng hình gì?",
+   "answer": "A"
+  }
+ },
+ {
+  "id": "vnm_01_04",
+  "subject": "math",
+  "name": "Phép cộng trong phạm vi 10",
+  "grade": 1,
+  "stage": "tieu-hoc",
+  "domain": "Số và Phép tính",
+  "chapter": "Chủ đề 3. Phép cộng, phép trừ trong phạm vi 10",
+  "type": "procedural",
+  "description": "Thực hiện phép cộng hai số có tổng không quá 10; hiểu ý nghĩa \"gộp lại\", \"thêm vào\".",
+  "diagnostic_question": {
+   "question": "Tính: 3 + 2 = ?",
+   "answer": "5"
+  }
+ },
+ {
+  "id": "vnm_01_05",
+  "subject": "math",
+  "name": "Phép trừ trong phạm vi 10",
+  "grade": 1,
+  "stage": "tieu-hoc",
+  "domain": "Số và Phép tính",
+  "chapter": "Chủ đề 3. Phép cộng, phép trừ trong phạm vi 10",
+  "type": "procedural",
+  "description": "Thực hiện phép trừ trong phạm vi 10; hiểu ý nghĩa \"bớt đi\", \"tách ra\".",
+  "diagnostic_question": {
+   "question": "Tính: 7 − 3 = ?",
+   "answer": "4"
+  }
+ },
+ {
+  "id": "vnm_01_06",
+  "subject": "math",
+  "name": "Các số đến 100: chục và đơn vị",
+  "grade": 1,
+  "stage": "tieu-hoc",
+  "domain": "Số và Phép tính",
+  "chapter": "Chủ đề 4. Các số trong phạm vi 100",
+  "type": "conceptual",
+  "description": "Đọc, viết, phân tích số có hai chữ số thành chục và đơn vị.",
+  "diagnostic_question": {
+   "question": "Số gồm 3 chục và 5 đơn vị là số nào?",
+   "answer": "35"
+  }
+ },
+ {
+  "id": "vnm_01_07",
+  "subject": "math",
+  "name": "So sánh số có hai chữ số",
+  "grade": 1,
+  "stage": "tieu-hoc",
+  "domain": "Số và Phép tính",
+  "chapter": "Chủ đề 4. Các số trong phạm vi 100",
+  "type": "procedural",
+  "description": "So sánh hai số có hai chữ số dựa vào hàng chục rồi hàng đơn vị.",
+  "diagnostic_question": {
+   "question": "Chọn dấu: 45 ... 54",
+   "answer": "B"
+  }
+ },
+ {
+  "id": "vnm_01_08",
+  "subject": "math",
+  "name": "Độ dài và đo độ dài bằng xăng-ti-mét",
+  "grade": 1,
+  "stage": "tieu-hoc",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chủ đề 5. Độ dài và đo độ dài",
+  "type": "procedural",
+  "description": "So sánh dài hơn, ngắn hơn; đo độ dài bằng thước có vạch chia xăng-ti-mét.",
+  "diagnostic_question": {
+   "question": "Bút chì dài 15 cm, thước dài 20 cm. Vật nào dài hơn?",
+   "answer": "B"
+  }
+ },
+ {
+  "id": "vnm_01_09",
+  "subject": "math",
+  "name": "Cộng, trừ (không nhớ) trong phạm vi 100",
+  "grade": 1,
+  "stage": "tieu-hoc",
+  "domain": "Số và Phép tính",
+  "chapter": "Chủ đề 6. Phép cộng, phép trừ (không nhớ) trong phạm vi 100",
+  "type": "procedural",
+  "description": "Đặt tính và tính cộng, trừ số có hai chữ số không nhớ.",
+  "diagnostic_question": {
+   "question": "Tính: 23 + 15 = ?",
+   "answer": "38"
+  }
+ },
+ {
+  "id": "vnm_01_10",
+  "subject": "math",
+  "name": "Xem giờ đúng; các ngày trong tuần",
+  "grade": 1,
+  "stage": "tieu-hoc",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chủ đề 7. Thời gian, giờ và lịch",
+  "type": "conceptual",
+  "description": "Đọc giờ đúng trên đồng hồ; biết một tuần có 7 ngày và thứ tự các ngày.",
+  "diagnostic_question": {
+   "question": "Một tuần lễ có mấy ngày?",
+   "answer": "7"
+  }
+ },
+ {
+  "id": "vnm_02_01",
+  "subject": "math",
+  "name": "Số hạng – tổng; số bị trừ – số trừ – hiệu; tia số",
+  "grade": 2,
+  "stage": "tieu-hoc",
+  "domain": "Số và Phép tính",
+  "chapter": "Chủ đề 1. Ôn tập và bổ sung",
+  "type": "conceptual",
+  "description": "Gọi đúng tên thành phần phép cộng, phép trừ; đọc số trên tia số; số liền trước, liền sau.",
+  "diagnostic_question": {
+   "question": "Trong phép tính 15 + 4 = 19, tổng là số nào?",
+   "answer": "19"
+  }
+ },
+ {
+  "id": "vnm_02_02",
+  "subject": "math",
+  "name": "Phép cộng (qua 10) trong phạm vi 20",
+  "grade": 2,
+  "stage": "tieu-hoc",
+  "domain": "Số và Phép tính",
+  "chapter": "Chủ đề 2. Phép cộng, phép trừ trong phạm vi 20",
+  "type": "procedural",
+  "description": "Cộng có nhớ trong phạm vi 20 bằng cách \"làm tròn 10\".",
+  "diagnostic_question": {
+   "question": "Tính: 8 + 5 = ?",
+   "answer": "13"
+  }
+ },
+ {
+  "id": "vnm_02_03",
+  "subject": "math",
+  "name": "Phép trừ (qua 10) trong phạm vi 20",
+  "grade": 2,
+  "stage": "tieu-hoc",
+  "domain": "Số và Phép tính",
+  "chapter": "Chủ đề 2. Phép cộng, phép trừ trong phạm vi 20",
+  "type": "procedural",
+  "description": "Trừ có nhớ trong phạm vi 20 bằng cách tách về 10.",
+  "diagnostic_question": {
+   "question": "Tính: 12 − 5 = ?",
+   "answer": "7"
+  }
+ },
+ {
+  "id": "vnm_02_04",
+  "subject": "math",
+  "name": "Ki-lô-gam, lít",
+  "grade": 2,
+  "stage": "tieu-hoc",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chủ đề 3. Làm quen với khối lượng, dung tích",
+  "type": "procedural",
+  "description": "Nhận biết đơn vị ki-lô-gam (kg) và lít (l); cộng trừ số đo kèm đơn vị.",
+  "diagnostic_question": {
+   "question": "Bao gạo 5 kg và bao đường 2 kg. Cả hai bao nặng bao nhiêu ki-lô-gam?",
+   "answer": "7"
+  }
+ },
+ {
+  "id": "vnm_02_05",
+  "subject": "math",
+  "name": "Phép cộng có nhớ trong phạm vi 100",
+  "grade": 2,
+  "stage": "tieu-hoc",
+  "domain": "Số và Phép tính",
+  "chapter": "Chủ đề 4. Phép cộng, phép trừ (có nhớ) trong phạm vi 100",
+  "type": "procedural",
+  "description": "Đặt tính và cộng số có hai chữ số có nhớ.",
+  "diagnostic_question": {
+   "question": "Tính: 36 + 7 = ?",
+   "answer": "43"
+  }
+ },
+ {
+  "id": "vnm_02_06",
+  "subject": "math",
+  "name": "Phép trừ có nhớ trong phạm vi 100",
+  "grade": 2,
+  "stage": "tieu-hoc",
+  "domain": "Số và Phép tính",
+  "chapter": "Chủ đề 4. Phép cộng, phép trừ (có nhớ) trong phạm vi 100",
+  "type": "procedural",
+  "description": "Đặt tính và trừ số có hai chữ số có nhớ.",
+  "diagnostic_question": {
+   "question": "Tính: 52 − 8 = ?",
+   "answer": "44"
+  }
+ },
+ {
+  "id": "vnm_02_07",
+  "subject": "math",
+  "name": "Điểm, đoạn thẳng, đường gấp khúc",
+  "grade": 2,
+  "stage": "tieu-hoc",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chủ đề 5. Làm quen với hình phẳng",
+  "type": "conceptual",
+  "description": "Nhận biết điểm, đoạn thẳng, đường thẳng, đường gấp khúc; tính độ dài đường gấp khúc.",
+  "diagnostic_question": {
+   "question": "Đường gấp khúc ABC có AB = 3 cm, BC = 4 cm. Độ dài đường gấp khúc là bao nhiêu xăng-ti-mét?",
+   "answer": "7"
+  }
+ },
+ {
+  "id": "vnm_02_08",
+  "subject": "math",
+  "name": "Ngày – giờ, giờ – phút; ngày – tháng",
+  "grade": 2,
+  "stage": "tieu-hoc",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chủ đề 6. Ngày – giờ, giờ – phút, ngày – tháng",
+  "type": "procedural",
+  "description": "Biết 1 ngày = 24 giờ, 1 giờ = 60 phút; đọc giờ khi kim dài chỉ số 3, số 6; xem lịch tháng.",
+  "diagnostic_question": {
+   "question": "Một ngày có bao nhiêu giờ?",
+   "answer": "24"
+  }
+ },
+ {
+  "id": "vnm_02_09",
+  "subject": "math",
+  "name": "Phép nhân; bảng nhân 2, bảng nhân 5",
+  "grade": 2,
+  "stage": "tieu-hoc",
+  "domain": "Số và Phép tính",
+  "chapter": "Chủ đề 7. Phép nhân, phép chia",
+  "type": "procedural",
+  "description": "Hiểu phép nhân là tổng các số hạng bằng nhau; thuộc bảng nhân 2, 5.",
+  "diagnostic_question": {
+   "question": "Tính: 2 × 6 = ?",
+   "answer": "12"
+  }
+ },
+ {
+  "id": "vnm_02_10",
+  "subject": "math",
+  "name": "Phép chia; bảng chia 2, bảng chia 5",
+  "grade": 2,
+  "stage": "tieu-hoc",
+  "domain": "Số và Phép tính",
+  "chapter": "Chủ đề 7. Phép nhân, phép chia",
+  "type": "procedural",
+  "description": "Hiểu phép chia là chia đều; thuộc bảng chia 2, 5; quan hệ giữa nhân và chia.",
+  "diagnostic_question": {
+   "question": "Tính: 10 : 2 = ?",
+   "answer": "5"
+  }
+ },
+ {
+  "id": "vnm_02_11",
+  "subject": "math",
+  "name": "Các số trong phạm vi 1000",
+  "grade": 2,
+  "stage": "tieu-hoc",
+  "domain": "Số và Phép tính",
+  "chapter": "Chủ đề 8. Các số trong phạm vi 1000",
+  "type": "conceptual",
+  "description": "Đọc, viết, so sánh số có ba chữ số; phân tích theo trăm, chục, đơn vị.",
+  "diagnostic_question": {
+   "question": "Số gồm 4 trăm, 0 chục và 6 đơn vị là số nào?",
+   "answer": "406"
+  }
+ },
+ {
+  "id": "vnm_02_12",
+  "subject": "math",
+  "name": "Đơn vị đo độ dài: mét, đề-xi-mét, ki-lô-mét, mi-li-mét",
+  "grade": 2,
+  "stage": "tieu-hoc",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chủ đề 9. Độ dài và đơn vị đo độ dài",
+  "type": "procedural",
+  "description": "Biết 1 m = 10 dm = 100 cm, 1 dm = 10 cm, 1 km = 1000 m, 1 cm = 10 mm; đổi đơn vị đơn giản.",
+  "diagnostic_question": {
+   "question": "1 dm bằng bao nhiêu xăng-ti-mét?",
+   "answer": "10"
+  }
+ },
+ {
+  "id": "vnm_02_13",
+  "subject": "math",
+  "name": "Phép cộng, phép trừ trong phạm vi 1000",
+  "grade": 2,
+  "stage": "tieu-hoc",
+  "domain": "Số và Phép tính",
+  "chapter": "Chủ đề 10. Phép cộng, phép trừ trong phạm vi 1000",
+  "type": "procedural",
+  "description": "Đặt tính và tính cộng, trừ (có nhớ) số có ba chữ số.",
+  "diagnostic_question": {
+   "question": "Tính: 324 + 152 = ?",
+   "answer": "476"
+  }
+ },
+ {
+  "id": "vnm_02_14",
+  "subject": "math",
+  "name": "Thu thập, kiểm đếm số liệu; biểu đồ tranh; có thể – chắc chắn – không thể",
+  "grade": 2,
+  "stage": "tieu-hoc",
+  "domain": "Một số yếu tố Thống kê và Xác suất",
+  "chapter": "Chủ đề 11. Làm quen với yếu tố thống kê, xác suất",
+  "type": "conceptual",
+  "description": "Kiểm đếm, đọc biểu đồ tranh; mô tả khả năng xảy ra bằng \"có thể\", \"chắc chắn\", \"không thể\".",
+  "diagnostic_question": {
+   "question": "Trong hộp chỉ có bi đỏ. Lấy ra một viên bi, viên bi đó ... là màu đỏ.",
+   "answer": "A"
+  }
+ },
+ {
+  "id": "vnm_03_01",
+  "subject": "math",
+  "name": "Bảng nhân 3, 4, 6, 7, 8, 9",
+  "grade": 3,
+  "stage": "tieu-hoc",
+  "domain": "Số và Phép tính",
+  "chapter": "Chủ đề 1. Ôn tập và bổ sung; Chủ đề 2. Bảng nhân, bảng chia",
+  "type": "procedural",
+  "description": "Thuộc và vận dụng các bảng nhân từ 2 đến 9.",
+  "diagnostic_question": {
+   "question": "Tính: 3 × 8 = ?",
+   "answer": "24"
+  }
+ },
+ {
+  "id": "vnm_03_02",
+  "subject": "math",
+  "name": "Bảng chia 3, 4, 6, 7, 8, 9",
+  "grade": 3,
+  "stage": "tieu-hoc",
+  "domain": "Số và Phép tính",
+  "chapter": "Chủ đề 2. Bảng nhân, bảng chia",
+  "type": "procedural",
+  "description": "Thuộc các bảng chia; dùng quan hệ nhân – chia để tính.",
+  "diagnostic_question": {
+   "question": "Tính: 24 : 4 = ?",
+   "answer": "6"
+  }
+ },
+ {
+  "id": "vnm_03_03",
+  "subject": "math",
+  "name": "Tìm thành phần chưa biết của phép tính",
+  "grade": 3,
+  "stage": "tieu-hoc",
+  "domain": "Số và Phép tính",
+  "chapter": "Chủ đề 2. Bảng nhân, bảng chia",
+  "type": "procedural",
+  "description": "Tìm số hạng, số bị trừ, số trừ, thừa số, số bị chia, số chia chưa biết.",
+  "diagnostic_question": {
+   "question": "Tìm x, biết x × 4 = 32.",
+   "answer": "8"
+  }
+ },
+ {
+  "id": "vnm_03_04",
+  "subject": "math",
+  "name": "Gấp một số lên nhiều lần, giảm một số đi một số lần",
+  "grade": 3,
+  "stage": "tieu-hoc",
+  "domain": "Số và Phép tính",
+  "chapter": "Chủ đề 2. Bảng nhân, bảng chia",
+  "type": "procedural",
+  "description": "Phân biệt \"gấp lên\" (nhân), \"giảm đi\" (chia) với \"nhiều hơn\", \"ít hơn\".",
+  "diagnostic_question": {
+   "question": "Gấp 6 lên 3 lần được bao nhiêu?",
+   "answer": "18"
+  }
+ },
+ {
+  "id": "vnm_03_05",
+  "subject": "math",
+  "name": "Góc vuông, góc không vuông; hình tròn: tâm, bán kính, đường kính",
+  "grade": 3,
+  "stage": "tieu-hoc",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chủ đề 3. Làm quen với hình phẳng, hình khối",
+  "type": "conceptual",
+  "description": "Dùng ê-ke nhận biết góc vuông; nhận biết tâm, bán kính, đường kính của hình tròn.",
+  "diagnostic_question": {
+   "question": "Hình vuông có mấy góc vuông?",
+   "answer": "4"
+  }
+ },
+ {
+  "id": "vnm_03_06",
+  "subject": "math",
+  "name": "Nhân số có hai, ba chữ số với số có một chữ số",
+  "grade": 3,
+  "stage": "tieu-hoc",
+  "domain": "Số và Phép tính",
+  "chapter": "Chủ đề 4. Phép nhân, phép chia trong phạm vi 100",
+  "type": "procedural",
+  "description": "Đặt tính và nhân có nhớ số có hai, ba chữ số với số có một chữ số.",
+  "diagnostic_question": {
+   "question": "Tính: 23 × 3 = ?",
+   "answer": "69"
+  }
+ },
+ {
+  "id": "vnm_03_07",
+  "subject": "math",
+  "name": "Chia cho số có một chữ số; phép chia có dư",
+  "grade": 3,
+  "stage": "tieu-hoc",
+  "domain": "Số và Phép tính",
+  "chapter": "Chủ đề 4. Phép nhân, phép chia trong phạm vi 100",
+  "type": "procedural",
+  "description": "Đặt tính chia số có hai, ba chữ số cho số có một chữ số; hiểu số dư luôn bé hơn số chia.",
+  "diagnostic_question": {
+   "question": "Tính: 84 : 4 = ?",
+   "answer": "21"
+  }
+ },
+ {
+  "id": "vnm_03_08",
+  "subject": "math",
+  "name": "Biểu thức số; tính giá trị biểu thức",
+  "grade": 3,
+  "stage": "tieu-hoc",
+  "domain": "Số và Phép tính",
+  "chapter": "Chủ đề 5. Biểu thức số",
+  "type": "procedural",
+  "description": "Tính giá trị biểu thức theo thứ tự: trong ngoặc trước, nhân chia trước cộng trừ sau.",
+  "diagnostic_question": {
+   "question": "Tính: 20 + 5 × 4 = ?",
+   "answer": "40"
+  }
+ },
+ {
+  "id": "vnm_03_09",
+  "subject": "math",
+  "name": "Mi-li-mét, gam, mi-li-lít, nhiệt độ",
+  "grade": 3,
+  "stage": "tieu-hoc",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chủ đề 6. Đơn vị đo",
+  "type": "procedural",
+  "description": "Biết 1 cm = 10 mm, 1 kg = 1000 g, 1 l = 1000 ml; đọc nhiệt độ (°C).",
+  "diagnostic_question": {
+   "question": "1 kg bằng bao nhiêu gam?",
+   "answer": "1000"
+  }
+ },
+ {
+  "id": "vnm_03_10",
+  "subject": "math",
+  "name": "Các số đến 10 000 và 100 000; làm tròn số",
+  "grade": 3,
+  "stage": "tieu-hoc",
+  "domain": "Số và Phép tính",
+  "chapter": "Chủ đề 7. Các số đến 10 000, 100 000",
+  "type": "conceptual",
+  "description": "Đọc, viết, so sánh số có bốn, năm chữ số; làm tròn đến hàng chục, trăm, nghìn.",
+  "diagnostic_question": {
+   "question": "Số gồm 3 nghìn, 4 trăm, 0 chục, 5 đơn vị là số nào?",
+   "answer": "3405"
+  }
+ },
+ {
+  "id": "vnm_03_11",
+  "subject": "math",
+  "name": "Chu vi hình tam giác, tứ giác, hình chữ nhật, hình vuông",
+  "grade": 3,
+  "stage": "tieu-hoc",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chủ đề 8. Chu vi, diện tích một số hình phẳng",
+  "type": "procedural",
+  "description": "Tính chu vi bằng tổng độ dài các cạnh; công thức chu vi hình chữ nhật và hình vuông.",
+  "diagnostic_question": {
+   "question": "Hình vuông có cạnh 6 cm. Chu vi bằng bao nhiêu xăng-ti-mét?",
+   "answer": "24"
+  }
+ },
+ {
+  "id": "vnm_03_12",
+  "subject": "math",
+  "name": "Diện tích; xăng-ti-mét vuông; diện tích hình chữ nhật, hình vuông",
+  "grade": 3,
+  "stage": "tieu-hoc",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chủ đề 8. Chu vi, diện tích một số hình phẳng",
+  "type": "procedural",
+  "description": "Hiểu diện tích, đơn vị cm²; tính diện tích hình chữ nhật (dài × rộng) và hình vuông (cạnh × cạnh).",
+  "diagnostic_question": {
+   "question": "Hình vuông cạnh 5 cm có diện tích bao nhiêu xăng-ti-mét vuông?",
+   "answer": "25"
+  }
+ },
+ {
+  "id": "vnm_03_13",
+  "subject": "math",
+  "name": "Cộng, trừ, nhân, chia trong phạm vi 100 000",
+  "grade": 3,
+  "stage": "tieu-hoc",
+  "domain": "Số và Phép tính",
+  "chapter": "Chủ đề 9. Phép tính trong phạm vi 100 000",
+  "type": "procedural",
+  "description": "Đặt tính và tính với số có năm chữ số; nhân, chia cho số có một chữ số.",
+  "diagnostic_question": {
+   "question": "Tính: 23 456 + 12 321 = ?",
+   "answer": "35777"
+  }
+ },
+ {
+  "id": "vnm_03_14",
+  "subject": "math",
+  "name": "Tiền Việt Nam",
+  "grade": 3,
+  "stage": "tieu-hoc",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chủ đề 10. Tiền Việt Nam",
+  "type": "procedural",
+  "description": "Nhận biết các mệnh giá tiền; tính toán đơn giản với tiền (đồng).",
+  "diagnostic_question": {
+   "question": "Một quyển vở giá 8 000 đồng, một cái bút giá 5 000 đồng. Mua cả hai hết bao nhiêu đồng?",
+   "answer": "13000"
+  }
+ },
+ {
+  "id": "vnm_03_15",
+  "subject": "math",
+  "name": "Bảng số liệu thống kê; khả năng xảy ra của một sự kiện",
+  "grade": 3,
+  "stage": "tieu-hoc",
+  "domain": "Một số yếu tố Thống kê và Xác suất",
+  "chapter": "Chủ đề 11. Làm quen với yếu tố thống kê, xác suất",
+  "type": "conceptual",
+  "description": "Đọc, mô tả bảng số liệu; nhận xét khả năng xảy ra (có thể, chắc chắn, không thể).",
+  "diagnostic_question": {
+   "question": "Bảng số liệu: lớp 3A có 32 bạn, 3B có 30 bạn, 3C có 35 bạn. Lớp nào đông nhất? (ghi số học sinh của lớp đó)",
+   "answer": "35"
+  }
+ },
+ {
+  "id": "vnm_03_16",
+  "subject": "math",
+  "name": "Tháng – năm; xem đồng hồ chính xác đến phút",
+  "grade": 3,
+  "stage": "tieu-hoc",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chủ đề 12. Thời gian",
+  "type": "procedural",
+  "description": "Biết số ngày trong các tháng, 1 năm có 12 tháng; đọc giờ chính xác đến phút.",
+  "diagnostic_question": {
+   "question": "Một năm có bao nhiêu tháng?",
+   "answer": "12"
+  }
+ },
+ {
+  "id": "vnm_04_01",
+  "subject": "math",
+  "name": "Số có nhiều chữ số; hàng và lớp; lớp triệu",
+  "grade": 4,
+  "stage": "tieu-hoc",
+  "domain": "Số và Phép tính",
+  "chapter": "Chủ đề 2. Các số có nhiều chữ số",
+  "type": "conceptual",
+  "description": "Đọc, viết số đến lớp triệu; nêu giá trị của chữ số theo hàng.",
+  "diagnostic_question": {
+   "question": "Viết số: Ba triệu hai trăm nghìn.",
+   "answer": "3200000"
+  }
+ },
+ {
+  "id": "vnm_04_02",
+  "subject": "math",
+  "name": "So sánh và làm tròn số có nhiều chữ số",
+  "grade": 4,
+  "stage": "tieu-hoc",
+  "domain": "Số và Phép tính",
+  "chapter": "Chủ đề 2. Các số có nhiều chữ số",
+  "type": "procedural",
+  "description": "So sánh, sắp xếp số có nhiều chữ số; làm tròn đến hàng trăm nghìn.",
+  "diagnostic_question": {
+   "question": "Chọn dấu: 1 234 567 ... 1 243 567",
+   "answer": "B"
+  }
+ },
+ {
+  "id": "vnm_04_03",
+  "subject": "math",
+  "name": "Góc nhọn, góc tù, góc bẹt; đo góc, đơn vị độ",
+  "grade": 4,
+  "stage": "tieu-hoc",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chủ đề 3. Góc và đơn vị đo góc",
+  "type": "conceptual",
+  "description": "Nhận biết góc nhọn, vuông, tù, bẹt; dùng thước đo góc; đơn vị độ (°).",
+  "diagnostic_question": {
+   "question": "Góc vuông có số đo bao nhiêu độ?",
+   "answer": "90"
+  }
+ },
+ {
+  "id": "vnm_04_04",
+  "subject": "math",
+  "name": "Hai đường thẳng vuông góc; hai đường thẳng song song",
+  "grade": 4,
+  "stage": "tieu-hoc",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chủ đề 6. Đường thẳng vuông góc, đường thẳng song song",
+  "type": "conceptual",
+  "description": "Nhận biết, vẽ hai đường thẳng vuông góc, song song bằng thước và ê-ke.",
+  "diagnostic_question": {
+   "question": "Hai đường thẳng vuông góc với nhau tạo thành mấy góc vuông?",
+   "answer": "B"
+  }
+ },
+ {
+  "id": "vnm_04_05",
+  "subject": "math",
+  "name": "Cộng, trừ số có nhiều chữ số; tính chất giao hoán, kết hợp",
+  "grade": 4,
+  "stage": "tieu-hoc",
+  "domain": "Số và Phép tính",
+  "chapter": "Chủ đề 5. Phép cộng và phép trừ",
+  "type": "procedural",
+  "description": "Đặt tính cộng, trừ số có nhiều chữ số; dùng tính chất giao hoán, kết hợp để tính nhanh.",
+  "diagnostic_question": {
+   "question": "Tính: 452 318 + 247 561 = ?",
+   "answer": "699879"
+  }
+ },
+ {
+  "id": "vnm_04_06",
+  "subject": "math",
+  "name": "Nhân với số có hai chữ số; tính chất phân phối",
+  "grade": 4,
+  "stage": "tieu-hoc",
+  "domain": "Số và Phép tính",
+  "chapter": "Chủ đề 7. Phép nhân và phép chia",
+  "type": "procedural",
+  "description": "Nhân với số có hai chữ số; nhân với 10, 100, 1000; tính chất a × (b + c) = a × b + a × c.",
+  "diagnostic_question": {
+   "question": "Tính: 245 × 10 = ?",
+   "answer": "2450"
+  }
+ },
+ {
+  "id": "vnm_04_07",
+  "subject": "math",
+  "name": "Chia cho số có hai chữ số",
+  "grade": 4,
+  "stage": "tieu-hoc",
+  "domain": "Số và Phép tính",
+  "chapter": "Chủ đề 7. Phép nhân và phép chia",
+  "type": "procedural",
+  "description": "Đặt tính và chia cho số có hai chữ số; ước lượng thương.",
+  "diagnostic_question": {
+   "question": "Tính: 672 : 21 = ?",
+   "answer": "32"
+  }
+ },
+ {
+  "id": "vnm_04_08",
+  "subject": "math",
+  "name": "Số trung bình cộng",
+  "grade": 4,
+  "stage": "tieu-hoc",
+  "domain": "Số và Phép tính",
+  "chapter": "Chủ đề 8. Số trung bình cộng",
+  "type": "procedural",
+  "description": "Tính trung bình cộng của nhiều số: tổng chia cho số các số hạng.",
+  "diagnostic_question": {
+   "question": "Tìm số trung bình cộng của 12 và 18.",
+   "answer": "15"
+  }
+ },
+ {
+  "id": "vnm_04_09",
+  "subject": "math",
+  "name": "Tìm hai số khi biết tổng và hiệu",
+  "grade": 4,
+  "stage": "tieu-hoc",
+  "domain": "Số và Phép tính",
+  "chapter": "Chủ đề 8. Số trung bình cộng; bài toán liên quan",
+  "type": "procedural",
+  "description": "Số lớn = (tổng + hiệu) : 2; số bé = (tổng − hiệu) : 2.",
+  "diagnostic_question": {
+   "question": "Tổng hai số là 30, hiệu là 6. Số lớn là bao nhiêu?",
+   "answer": "18"
+  }
+ },
+ {
+  "id": "vnm_04_10",
+  "subject": "math",
+  "name": "Yến, tạ, tấn; giây, thế kỉ",
+  "grade": 4,
+  "stage": "tieu-hoc",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chủ đề 4. Một số đơn vị đo đại lượng",
+  "type": "procedural",
+  "description": "1 yến = 10 kg, 1 tạ = 100 kg, 1 tấn = 1000 kg; 1 phút = 60 giây; 1 thế kỉ = 100 năm.",
+  "diagnostic_question": {
+   "question": "1 tạ bằng bao nhiêu ki-lô-gam?",
+   "answer": "100"
+  }
+ },
+ {
+  "id": "vnm_04_11",
+  "subject": "math",
+  "name": "Đề-xi-mét vuông, mét vuông, mi-li-mét vuông",
+  "grade": 4,
+  "stage": "tieu-hoc",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chủ đề 4. Một số đơn vị đo đại lượng",
+  "type": "procedural",
+  "description": "1 dm² = 100 cm², 1 m² = 100 dm², 1 cm² = 100 mm²; đổi đơn vị diện tích.",
+  "diagnostic_question": {
+   "question": "1 m² bằng bao nhiêu đề-xi-mét vuông?",
+   "answer": "100"
+  }
+ },
+ {
+  "id": "vnm_04_12",
+  "subject": "math",
+  "name": "Hình bình hành, hình thoi",
+  "grade": 4,
+  "stage": "tieu-hoc",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chủ đề 6. Đường thẳng vuông góc, đường thẳng song song",
+  "type": "conceptual",
+  "description": "Nhận biết đặc điểm hình bình hành (hai cặp cạnh đối song song, bằng nhau) và hình thoi (bốn cạnh bằng nhau).",
+  "diagnostic_question": {
+   "question": "Hình có hai cặp cạnh đối diện song song và bằng nhau là:",
+   "answer": "A"
+  }
+ },
+ {
+  "id": "vnm_04_13",
+  "subject": "math",
+  "name": "Khái niệm phân số; phân số và phép chia số tự nhiên",
+  "grade": 4,
+  "stage": "tieu-hoc",
+  "domain": "Số và Phép tính",
+  "chapter": "Chủ đề 10. Phân số",
+  "type": "conceptual",
+  "description": "Đọc, viết phân số; tử số, mẫu số; thương của phép chia số tự nhiên viết được dưới dạng phân số.",
+  "diagnostic_question": {
+   "question": "Viết phân số \"ba phần năm\".",
+   "answer": "3/5"
+  }
+ },
+ {
+  "id": "vnm_04_14",
+  "subject": "math",
+  "name": "Tính chất cơ bản của phân số; rút gọn, quy đồng mẫu số",
+  "grade": 4,
+  "stage": "tieu-hoc",
+  "domain": "Số và Phép tính",
+  "chapter": "Chủ đề 10. Phân số",
+  "type": "procedural",
+  "description": "Nhân/chia cả tử và mẫu cho cùng một số khác 0; rút gọn và quy đồng mẫu số.",
+  "diagnostic_question": {
+   "question": "Rút gọn phân số 6/8 thành phân số tối giản.",
+   "answer": "3/4"
+  }
+ },
+ {
+  "id": "vnm_04_15",
+  "subject": "math",
+  "name": "So sánh phân số",
+  "grade": 4,
+  "stage": "tieu-hoc",
+  "domain": "Số và Phép tính",
+  "chapter": "Chủ đề 10. Phân số",
+  "type": "procedural",
+  "description": "So sánh hai phân số cùng mẫu, khác mẫu (quy đồng), so sánh với 1.",
+  "diagnostic_question": {
+   "question": "Chọn dấu: 3/7 ... 5/7",
+   "answer": "B"
+  }
+ },
+ {
+  "id": "vnm_04_16",
+  "subject": "math",
+  "name": "Cộng, trừ phân số",
+  "grade": 4,
+  "stage": "tieu-hoc",
+  "domain": "Số và Phép tính",
+  "chapter": "Chủ đề 11. Phép cộng, phép trừ phân số",
+  "type": "procedural",
+  "description": "Cộng, trừ hai phân số cùng mẫu và khác mẫu.",
+  "diagnostic_question": {
+   "question": "Tính: 2/7 + 3/7 = ?",
+   "answer": "5/7"
+  }
+ },
+ {
+  "id": "vnm_04_17",
+  "subject": "math",
+  "name": "Nhân, chia phân số",
+  "grade": 4,
+  "stage": "tieu-hoc",
+  "domain": "Số và Phép tính",
+  "chapter": "Chủ đề 12. Phép nhân, phép chia phân số",
+  "type": "procedural",
+  "description": "Nhân tử với tử, mẫu với mẫu; chia cho phân số là nhân với phân số đảo ngược.",
+  "diagnostic_question": {
+   "question": "Tính: 2/3 × 4/5 = ?",
+   "answer": "8/15"
+  }
+ },
+ {
+  "id": "vnm_04_18",
+  "subject": "math",
+  "name": "Dãy số liệu; biểu đồ cột; số lần lặp lại của một sự kiện",
+  "grade": 4,
+  "stage": "tieu-hoc",
+  "domain": "Một số yếu tố Thống kê và Xác suất",
+  "chapter": "Chủ đề 13. Làm quen với yếu tố thống kê, xác suất",
+  "type": "conceptual",
+  "description": "Đọc, mô tả dãy số liệu và biểu đồ cột; kiểm đếm số lần lặp lại của một sự kiện.",
+  "diagnostic_question": {
+   "question": "Biểu đồ cột cho số cây trồng: 4A trồng 25 cây, 4B trồng 32 cây. 4B trồng nhiều hơn 4A bao nhiêu cây?",
+   "answer": "7"
+  }
+ },
+ {
+  "id": "vnm_05_01",
+  "subject": "math",
+  "name": "Hỗn số",
+  "grade": 5,
+  "stage": "tieu-hoc",
+  "domain": "Số và Phép tính",
+  "chapter": "Chủ đề 1. Ôn tập và bổ sung",
+  "type": "procedural",
+  "description": "Đọc, viết hỗn số; chuyển hỗn số thành phân số và ngược lại.",
+  "diagnostic_question": {
+   "question": "Chuyển hỗn số 2 1/3 thành phân số.",
+   "answer": "7/3"
+  }
+ },
+ {
+  "id": "vnm_05_02",
+  "subject": "math",
+  "name": "Số thập phân: khái niệm, đọc, viết, các hàng",
+  "grade": 5,
+  "stage": "tieu-hoc",
+  "domain": "Số và Phép tính",
+  "chapter": "Chủ đề 2. Số thập phân",
+  "type": "conceptual",
+  "description": "Phân số thập phân và số thập phân; phần nguyên, phần thập phân; giá trị theo hàng.",
+  "diagnostic_question": {
+   "question": "Viết phân số thập phân 7/10 dưới dạng số thập phân.",
+   "answer": "0,7"
+  }
+ },
+ {
+  "id": "vnm_05_03",
+  "subject": "math",
+  "name": "So sánh số thập phân; làm tròn số thập phân",
+  "grade": 5,
+  "stage": "tieu-hoc",
+  "domain": "Số và Phép tính",
+  "chapter": "Chủ đề 2. Số thập phân",
+  "type": "procedural",
+  "description": "So sánh, sắp xếp số thập phân; làm tròn đến số tự nhiên, hàng phần mười, phần trăm.",
+  "diagnostic_question": {
+   "question": "Chọn dấu: 3,45 ... 3,5",
+   "answer": "B"
+  }
+ },
+ {
+  "id": "vnm_05_04",
+  "subject": "math",
+  "name": "Viết số đo đại lượng dưới dạng số thập phân",
+  "grade": 5,
+  "stage": "tieu-hoc",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chủ đề 2. Số thập phân",
+  "type": "procedural",
+  "description": "Viết số đo độ dài, khối lượng, diện tích dưới dạng số thập phân.",
+  "diagnostic_question": {
+   "question": "3 m 5 dm = ... m",
+   "answer": "3,5"
+  }
+ },
+ {
+  "id": "vnm_05_05",
+  "subject": "math",
+  "name": "Cộng, trừ số thập phân",
+  "grade": 5,
+  "stage": "tieu-hoc",
+  "domain": "Số và Phép tính",
+  "chapter": "Chủ đề 3. Các phép tính với số thập phân",
+  "type": "procedural",
+  "description": "Đặt tính thẳng dấu phẩy và cộng, trừ số thập phân.",
+  "diagnostic_question": {
+   "question": "Tính: 3,5 + 2,4 = ?",
+   "answer": "5,9"
+  }
+ },
+ {
+  "id": "vnm_05_06",
+  "subject": "math",
+  "name": "Nhân số thập phân",
+  "grade": 5,
+  "stage": "tieu-hoc",
+  "domain": "Số và Phép tính",
+  "chapter": "Chủ đề 3. Các phép tính với số thập phân",
+  "type": "procedural",
+  "description": "Nhân số thập phân với số tự nhiên, với số thập phân; nhân với 10, 100, 0,1; 0,01.",
+  "diagnostic_question": {
+   "question": "Tính: 2,5 × 4 = ?",
+   "answer": "10"
+  }
+ },
+ {
+  "id": "vnm_05_07",
+  "subject": "math",
+  "name": "Chia số thập phân",
+  "grade": 5,
+  "stage": "tieu-hoc",
+  "domain": "Số và Phép tính",
+  "chapter": "Chủ đề 3. Các phép tính với số thập phân",
+  "type": "procedural",
+  "description": "Chia số thập phân cho số tự nhiên, cho số thập phân; chia số tự nhiên có thương thập phân.",
+  "diagnostic_question": {
+   "question": "Tính: 8,4 : 4 = ?",
+   "answer": "2,1"
+  }
+ },
+ {
+  "id": "vnm_05_08",
+  "subject": "math",
+  "name": "Tỉ số; tìm hai số khi biết tổng (hiệu) và tỉ số",
+  "grade": 5,
+  "stage": "tieu-hoc",
+  "domain": "Số và Phép tính",
+  "chapter": "Chủ đề 4. Tỉ số và các bài toán liên quan",
+  "type": "procedural",
+  "description": "Hiểu tỉ số a : b; giải bài toán tổng – tỉ, hiệu – tỉ bằng sơ đồ đoạn thẳng.",
+  "diagnostic_question": {
+   "question": "Lớp có 12 bạn nam và 18 bạn nữ. Tỉ số của số bạn nam và số bạn nữ (viết phân số tối giản) là bao nhiêu?",
+   "answer": "2/3"
+  }
+ },
+ {
+  "id": "vnm_05_09",
+  "subject": "math",
+  "name": "Tỉ số phần trăm",
+  "grade": 5,
+  "stage": "tieu-hoc",
+  "domain": "Số và Phép tính",
+  "chapter": "Chủ đề 5. Tỉ số phần trăm",
+  "type": "procedural",
+  "description": "Tìm tỉ số phần trăm của hai số; tìm giá trị phần trăm của một số; tìm một số khi biết giá trị phần trăm.",
+  "diagnostic_question": {
+   "question": "Tìm tỉ số phần trăm của 15 và 60.",
+   "answer": "25%"
+  }
+ },
+ {
+  "id": "vnm_05_10",
+  "subject": "math",
+  "name": "Tỉ lệ bản đồ",
+  "grade": 5,
+  "stage": "tieu-hoc",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chủ đề 4. Tỉ số và các bài toán liên quan",
+  "type": "procedural",
+  "description": "Hiểu tỉ lệ bản đồ 1 : n; tính độ dài thật từ độ dài trên bản đồ và ngược lại.",
+  "diagnostic_question": {
+   "question": "Bản đồ tỉ lệ 1 : 1000. Độ dài 1 cm trên bản đồ ứng với bao nhiêu xăng-ti-mét thật?",
+   "answer": "1000"
+  }
+ },
+ {
+  "id": "vnm_05_11",
+  "subject": "math",
+  "name": "Diện tích hình tam giác, hình thang",
+  "grade": 5,
+  "stage": "tieu-hoc",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chủ đề 6. Hình phẳng: tam giác, hình thang",
+  "type": "procedural",
+  "description": "S tam giác = đáy × chiều cao : 2; S hình thang = (đáy lớn + đáy bé) × chiều cao : 2.",
+  "diagnostic_question": {
+   "question": "Tam giác có đáy 8 cm, chiều cao 5 cm. Diện tích bao nhiêu xăng-ti-mét vuông?",
+   "answer": "20"
+  }
+ },
+ {
+  "id": "vnm_05_12",
+  "subject": "math",
+  "name": "Hình tròn: chu vi, diện tích",
+  "grade": 5,
+  "stage": "tieu-hoc",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chủ đề 6. Hình phẳng: hình tròn",
+  "type": "procedural",
+  "description": "C = d × 3,14 = r × 2 × 3,14; S = r × r × 3,14.",
+  "diagnostic_question": {
+   "question": "Hình tròn đường kính 10 cm. Chu vi bằng bao nhiêu xăng-ti-mét? (lấy π = 3,14)",
+   "answer": "31,4"
+  }
+ },
+ {
+  "id": "vnm_05_13",
+  "subject": "math",
+  "name": "Thể tích; xăng-ti-mét khối, đề-xi-mét khối, mét khối",
+  "grade": 5,
+  "stage": "tieu-hoc",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chủ đề 7. Thể tích, đơn vị đo thể tích",
+  "type": "procedural",
+  "description": "Hiểu thể tích; 1 dm³ = 1000 cm³, 1 m³ = 1000 dm³; đổi đơn vị thể tích.",
+  "diagnostic_question": {
+   "question": "1 dm³ bằng bao nhiêu xăng-ti-mét khối?",
+   "answer": "1000"
+  }
+ },
+ {
+  "id": "vnm_05_14",
+  "subject": "math",
+  "name": "Hình hộp chữ nhật, hình lập phương: diện tích xung quanh, toàn phần, thể tích",
+  "grade": 5,
+  "stage": "tieu-hoc",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chủ đề 7. Hình khối",
+  "type": "procedural",
+  "description": "Sxq hộp = chu vi đáy × chiều cao; V hộp = dài × rộng × cao; hình lập phương: Sxq = a × a × 4, Stp = a × a × 6, V = a × a × a.",
+  "diagnostic_question": {
+   "question": "Hình lập phương cạnh 3 cm có thể tích bao nhiêu xăng-ti-mét khối?",
+   "answer": "27"
+  }
+ },
+ {
+  "id": "vnm_05_15",
+  "subject": "math",
+  "name": "Vận tốc, quãng đường, thời gian",
+  "grade": 5,
+  "stage": "tieu-hoc",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chủ đề 8. Chuyển động đều",
+  "type": "procedural",
+  "description": "v = s : t; s = v × t; t = s : v; đổi đơn vị km/giờ, m/phút.",
+  "diagnostic_question": {
+   "question": "Ô tô đi 120 km trong 3 giờ. Vận tốc ô tô là bao nhiêu ki-lô-mét/giờ?",
+   "answer": "40"
+  }
+ },
+ {
+  "id": "vnm_05_16",
+  "subject": "math",
+  "name": "Số đo thời gian; cộng, trừ số đo thời gian",
+  "grade": 5,
+  "stage": "tieu-hoc",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chủ đề 8. Số đo thời gian",
+  "type": "procedural",
+  "description": "Đổi đơn vị thời gian; cộng, trừ, nhân, chia số đo thời gian.",
+  "diagnostic_question": {
+   "question": "1,5 giờ bằng bao nhiêu phút?",
+   "answer": "90"
+  }
+ },
+ {
+  "id": "vnm_05_17",
+  "subject": "math",
+  "name": "Biểu đồ hình quạt tròn; tỉ số mô tả số lần lặp lại",
+  "grade": 5,
+  "stage": "tieu-hoc",
+  "domain": "Một số yếu tố Thống kê và Xác suất",
+  "chapter": "Chủ đề 9. Một số yếu tố thống kê và xác suất",
+  "type": "conceptual",
+  "description": "Đọc biểu đồ hình quạt tròn (tỉ số phần trăm); dùng tỉ số để mô tả số lần lặp lại của một sự kiện.",
+  "diagnostic_question": {
+   "question": "Biểu đồ hình quạt: 40% học sinh thích Toán. Lớp có 30 học sinh. Có bao nhiêu bạn thích Toán?",
+   "answer": "12"
+  }
+ },
+ {
+  "id": "vnm_06_01",
+  "subject": "math",
+  "name": "Tập hợp; phần tử của tập hợp",
+  "grade": 6,
+  "stage": "thcs",
+  "domain": "Số và Đại số",
+  "chapter": "Chương I. Tập hợp các số tự nhiên",
+  "type": "conceptual",
+  "description": "Mô tả tập hợp bằng liệt kê hoặc chỉ ra tính chất đặc trưng; dùng kí hiệu ∈, ∉.",
+  "lesson": "Bài 1. Tập hợp",
+  "diagnostic_question": {
+   "question": "Cho A = {2; 4; 6; 8}. Tập A có bao nhiêu phần tử?",
+   "answer": "4"
+  }
+ },
+ {
+  "id": "vnm_06_02",
+  "subject": "math",
+  "name": "Tập hợp số tự nhiên; ghi số tự nhiên; số La Mã",
+  "grade": 6,
+  "stage": "thcs",
+  "domain": "Số và Đại số",
+  "chapter": "Chương I. Tập hợp các số tự nhiên",
+  "type": "conceptual",
+  "description": "Phân biệt ℕ và ℕ*; giá trị chữ số theo vị trí trong hệ thập phân; đọc, viết số La Mã đến 30.",
+  "diagnostic_question": {
+   "question": "Số liền sau của 1 999 trong tập ℕ là số nào?",
+   "answer": "2000"
+  }
+ },
+ {
+  "id": "vnm_06_03",
+  "subject": "math",
+  "name": "Các phép tính với số tự nhiên; luỹ thừa với số mũ tự nhiên",
+  "grade": 6,
+  "stage": "thcs",
+  "domain": "Số và Đại số",
+  "chapter": "Chương I. Tập hợp các số tự nhiên",
+  "type": "procedural",
+  "description": "Cộng, trừ, nhân, chia số tự nhiên; aⁿ là tích n thừa số a; aᵐ·aⁿ = aᵐ⁺ⁿ, aᵐ : aⁿ = aᵐ⁻ⁿ.",
+  "diagnostic_question": {
+   "question": "Tính 2⁵.",
+   "answer": "32"
+  }
+ },
+ {
+  "id": "vnm_06_04",
+  "subject": "math",
+  "name": "Thứ tự thực hiện các phép tính",
+  "grade": 6,
+  "stage": "thcs",
+  "domain": "Số và Đại số",
+  "chapter": "Chương I. Tập hợp các số tự nhiên",
+  "type": "procedural",
+  "description": "Luỹ thừa → nhân, chia → cộng, trừ; ngoặc tròn, vuông, nhọn từ trong ra ngoài.",
+  "diagnostic_question": {
+   "question": "Tính: 5 · 2³ − 18 : 3",
+   "answer": "34"
+  }
+ },
+ {
+  "id": "vnm_06_05",
+  "subject": "math",
+  "name": "Quan hệ chia hết; dấu hiệu chia hết cho 2, 3, 5, 9",
+  "grade": 6,
+  "stage": "thcs",
+  "domain": "Số và Đại số",
+  "chapter": "Chương II. Tính chia hết trong tập hợp các số tự nhiên",
+  "type": "procedural",
+  "description": "Ước và bội; tính chất chia hết của tổng; dấu hiệu chia hết cho 2, 5, 3, 9.",
+  "diagnostic_question": {
+   "question": "Số nào chia hết cho cả 2 và 5?",
+   "answer": "B"
+  }
+ },
+ {
+  "id": "vnm_06_06",
+  "subject": "math",
+  "name": "Số nguyên tố; phân tích một số ra thừa số nguyên tố",
+  "grade": 6,
+  "stage": "thcs",
+  "domain": "Số và Đại số",
+  "chapter": "Chương II. Tính chia hết trong tập hợp các số tự nhiên",
+  "type": "procedural",
+  "description": "Nhận biết số nguyên tố, hợp số; phân tích một số ra thừa số nguyên tố.",
+  "diagnostic_question": {
+   "question": "Số nào là số nguyên tố?",
+   "answer": "B"
+  }
+ },
+ {
+  "id": "vnm_06_07",
+  "subject": "math",
+  "name": "Ước chung lớn nhất, bội chung nhỏ nhất",
+  "grade": 6,
+  "stage": "thcs",
+  "domain": "Số và Đại số",
+  "chapter": "Chương II. Tính chia hết trong tập hợp các số tự nhiên",
+  "type": "procedural",
+  "description": "Tìm ƯCLN, BCNN bằng phân tích ra thừa số nguyên tố; vận dụng rút gọn phân số, bài toán thực tế.",
+  "diagnostic_question": {
+   "question": "Tìm ƯCLN(12, 18).",
+   "answer": "6"
+  }
+ },
+ {
+  "id": "vnm_06_08",
+  "subject": "math",
+  "name": "Tập hợp các số nguyên; so sánh số nguyên",
+  "grade": 6,
+  "stage": "thcs",
+  "domain": "Số và Đại số",
+  "chapter": "Chương III. Số nguyên",
+  "type": "conceptual",
+  "description": "Số nguyên âm, biểu diễn trên trục số; số đối; so sánh hai số nguyên.",
+  "diagnostic_question": {
+   "question": "Nhiệt độ 5 độ dưới 0 °C được viết là:",
+   "answer": "B"
+  }
+ },
+ {
+  "id": "vnm_06_09",
+  "subject": "math",
+  "name": "Phép cộng, phép trừ số nguyên",
+  "grade": 6,
+  "stage": "thcs",
+  "domain": "Số và Đại số",
+  "chapter": "Chương III. Số nguyên",
+  "type": "procedural",
+  "description": "Cộng hai số nguyên cùng dấu, khác dấu; trừ là cộng với số đối.",
+  "diagnostic_question": {
+   "question": "Tính: (−7) + (−5)",
+   "answer": "-12"
+  }
+ },
+ {
+  "id": "vnm_06_10",
+  "subject": "math",
+  "name": "Quy tắc dấu ngoặc",
+  "grade": 6,
+  "stage": "thcs",
+  "domain": "Số và Đại số",
+  "chapter": "Chương III. Số nguyên",
+  "type": "procedural",
+  "description": "Bỏ ngoặc có dấu \"−\" đằng trước thì đổi dấu các số hạng trong ngoặc.",
+  "diagnostic_question": {
+   "question": "Tính: 12 − (5 − 8)",
+   "answer": "15"
+  }
+ },
+ {
+  "id": "vnm_06_11",
+  "subject": "math",
+  "name": "Phép nhân, phép chia hết số nguyên",
+  "grade": 6,
+  "stage": "thcs",
+  "domain": "Số và Đại số",
+  "chapter": "Chương III. Số nguyên",
+  "type": "procedural",
+  "description": "Quy tắc dấu khi nhân, chia số nguyên; bội và ước của số nguyên.",
+  "diagnostic_question": {
+   "question": "Tính: (−6) · 7",
+   "answer": "-42"
+  }
+ },
+ {
+  "id": "vnm_06_12",
+  "subject": "math",
+  "name": "Tam giác đều, hình vuông, lục giác đều",
+  "grade": 6,
+  "stage": "thcs",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chương IV. Một số hình phẳng trong thực tiễn",
+  "type": "conceptual",
+  "description": "Nhận biết đặc điểm về cạnh, góc, đường chéo của tam giác đều, hình vuông, lục giác đều.",
+  "diagnostic_question": {
+   "question": "Mỗi góc của tam giác đều có số đo bao nhiêu độ?",
+   "answer": "60"
+  }
+ },
+ {
+  "id": "vnm_06_13",
+  "subject": "math",
+  "name": "Hình chữ nhật, hình thoi, hình bình hành, hình thang cân: chu vi và diện tích",
+  "grade": 6,
+  "stage": "thcs",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chương IV. Một số hình phẳng trong thực tiễn",
+  "type": "procedural",
+  "description": "Đặc điểm các hình; công thức chu vi, diện tích (hình thoi: S = d₁·d₂ : 2; bình hành: S = a·h).",
+  "diagnostic_question": {
+   "question": "Hình thoi có hai đường chéo 6 cm và 8 cm. Diện tích là bao nhiêu cm²?",
+   "answer": "24"
+  }
+ },
+ {
+  "id": "vnm_06_14",
+  "subject": "math",
+  "name": "Hình có trục đối xứng, hình có tâm đối xứng",
+  "grade": 6,
+  "stage": "thcs",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chương V. Tính đối xứng của hình phẳng trong tự nhiên",
+  "type": "conceptual",
+  "description": "Nhận biết trục đối xứng, tâm đối xứng của hình phẳng.",
+  "diagnostic_question": {
+   "question": "Hình vuông có bao nhiêu trục đối xứng?",
+   "answer": "4"
+  }
+ },
+ {
+  "id": "vnm_06_15",
+  "subject": "math",
+  "name": "Mở rộng phân số; phân số bằng nhau",
+  "grade": 6,
+  "stage": "thcs",
+  "domain": "Số và Đại số",
+  "chapter": "Chương VI. Phân số",
+  "type": "conceptual",
+  "description": "Phân số a/b với a, b ∈ ℤ, b ≠ 0; a/b = c/d khi a·d = b·c; tính chất cơ bản.",
+  "diagnostic_question": {
+   "question": "Tìm x, biết x/12 = 3/4.",
+   "answer": "9"
+  }
+ },
+ {
+  "id": "vnm_06_16",
+  "subject": "math",
+  "name": "So sánh phân số; hỗn số dương",
+  "grade": 6,
+  "stage": "thcs",
+  "domain": "Số và Đại số",
+  "chapter": "Chương VI. Phân số",
+  "type": "procedural",
+  "description": "Quy đồng mẫu để so sánh phân số (kể cả phân số âm); đổi hỗn số dương.",
+  "diagnostic_question": {
+   "question": "Chọn dấu: −3/4 ... −2/3",
+   "answer": "B"
+  }
+ },
+ {
+  "id": "vnm_06_17",
+  "subject": "math",
+  "name": "Phép cộng, phép trừ phân số",
+  "grade": 6,
+  "stage": "thcs",
+  "domain": "Số và Đại số",
+  "chapter": "Chương VI. Phân số",
+  "type": "procedural",
+  "description": "Cộng, trừ phân số (kể cả âm); tính chất giao hoán, kết hợp.",
+  "diagnostic_question": {
+   "question": "Tính: −2/5 + 4/5",
+   "answer": "2/5"
+  }
+ },
+ {
+  "id": "vnm_06_18",
+  "subject": "math",
+  "name": "Phép nhân, phép chia phân số",
+  "grade": 6,
+  "stage": "thcs",
+  "domain": "Số và Đại số",
+  "chapter": "Chương VI. Phân số",
+  "type": "procedural",
+  "description": "Nhân, chia phân số; phân số nghịch đảo.",
+  "diagnostic_question": {
+   "question": "Tính: (−3/4) · 8/9",
+   "answer": "-2/3"
+  }
+ },
+ {
+  "id": "vnm_06_19",
+  "subject": "math",
+  "name": "Hai bài toán về phân số",
+  "grade": 6,
+  "stage": "thcs",
+  "domain": "Số và Đại số",
+  "chapter": "Chương VI. Phân số",
+  "type": "procedural",
+  "description": "Tìm giá trị phân số của một số (b·m/n); tìm một số khi biết giá trị phân số của nó (a : m/n).",
+  "diagnostic_question": {
+   "question": "Tìm 3/5 của 40.",
+   "answer": "24"
+  }
+ },
+ {
+  "id": "vnm_06_20",
+  "subject": "math",
+  "name": "Số thập phân (kể cả âm) và các phép tính",
+  "grade": 6,
+  "stage": "thcs",
+  "domain": "Số và Đại số",
+  "chapter": "Chương VII. Số thập phân",
+  "type": "procedural",
+  "description": "Số thập phân âm, số đối; cộng, trừ, nhân, chia số thập phân.",
+  "diagnostic_question": {
+   "question": "Tính: −2,5 + 1,3",
+   "answer": "-1,2"
+  }
+ },
+ {
+  "id": "vnm_06_21",
+  "subject": "math",
+  "name": "Làm tròn và ước lượng",
+  "grade": 6,
+  "stage": "thcs",
+  "domain": "Số và Đại số",
+  "chapter": "Chương VII. Số thập phân",
+  "type": "procedural",
+  "description": "Làm tròn số thập phân đến hàng cho trước; ước lượng kết quả phép tính.",
+  "diagnostic_question": {
+   "question": "Làm tròn 3,14159 đến hàng phần trăm.",
+   "answer": "3,14"
+  }
+ },
+ {
+  "id": "vnm_06_22",
+  "subject": "math",
+  "name": "Tỉ số và tỉ số phần trăm",
+  "grade": 6,
+  "stage": "thcs",
+  "domain": "Số và Đại số",
+  "chapter": "Chương VII. Số thập phân",
+  "type": "procedural",
+  "description": "Tỉ số a : b; tỉ số phần trăm a/b · 100%; hai bài toán về tỉ số phần trăm.",
+  "diagnostic_question": {
+   "question": "Tỉ số phần trăm của 3 và 4 là bao nhiêu?",
+   "answer": "75%"
+  }
+ },
+ {
+  "id": "vnm_06_23",
+  "subject": "math",
+  "name": "Điểm, đường thẳng; ba điểm thẳng hàng",
+  "grade": 6,
+  "stage": "thcs",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chương VIII. Những hình hình học cơ bản",
+  "type": "conceptual",
+  "description": "Điểm thuộc/không thuộc đường thẳng; ba điểm thẳng hàng; hai đường thẳng cắt nhau, song song.",
+  "diagnostic_question": {
+   "question": "Ba điểm A, B, C cùng nằm trên một đường thẳng gọi là:",
+   "answer": "A"
+  }
+ },
+ {
+  "id": "vnm_06_24",
+  "subject": "math",
+  "name": "Đoạn thẳng; độ dài đoạn thẳng; trung điểm",
+  "grade": 6,
+  "stage": "thcs",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chương VIII. Những hình hình học cơ bản",
+  "type": "procedural",
+  "description": "Đo, so sánh đoạn thẳng; M là trung điểm AB khi M nằm giữa A, B và MA = MB.",
+  "diagnostic_question": {
+   "question": "M là trung điểm của AB, AB = 10 cm. Tính MA (cm).",
+   "answer": "5"
+  }
+ },
+ {
+  "id": "vnm_06_25",
+  "subject": "math",
+  "name": "Tia",
+  "grade": 6,
+  "stage": "thcs",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chương VIII. Những hình hình học cơ bản",
+  "type": "conceptual",
+  "description": "Tia gốc O; hai tia đối nhau; hai tia trùng nhau.",
+  "diagnostic_question": {
+   "question": "Điểm O trên đường thẳng xy chia đường thẳng thành:",
+   "answer": "A"
+  }
+ },
+ {
+  "id": "vnm_06_26",
+  "subject": "math",
+  "name": "Góc; số đo góc; các góc đặc biệt",
+  "grade": 6,
+  "stage": "thcs",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chương VIII. Những hình hình học cơ bản",
+  "type": "conceptual",
+  "description": "Góc tạo bởi hai tia chung gốc; đo góc; góc nhọn, vuông, tù, bẹt.",
+  "diagnostic_question": {
+   "question": "Góc có số đo 90° là:",
+   "answer": "B"
+  }
+ },
+ {
+  "id": "vnm_06_27",
+  "subject": "math",
+  "name": "Thu thập, phân loại, biểu diễn dữ liệu; biểu đồ tranh, biểu đồ cột, cột kép",
+  "grade": 6,
+  "stage": "thcs",
+  "domain": "Thống kê và Xác suất",
+  "chapter": "Chương IX. Dữ liệu và xác suất thực nghiệm",
+  "type": "conceptual",
+  "description": "Phân loại dữ liệu; đọc và vẽ biểu đồ tranh, biểu đồ cột, cột kép; phát hiện dữ liệu không hợp lí.",
+  "diagnostic_question": {
+   "question": "Dữ liệu nào là số liệu?",
+   "answer": "B"
+  }
+ },
+ {
+  "id": "vnm_06_28",
+  "subject": "math",
+  "name": "Kết quả có thể và sự kiện; xác suất thực nghiệm",
+  "grade": 6,
+  "stage": "thcs",
+  "domain": "Thống kê và Xác suất",
+  "chapter": "Chương IX. Dữ liệu và xác suất thực nghiệm",
+  "type": "procedural",
+  "description": "Liệt kê kết quả có thể; xác suất thực nghiệm = số lần sự kiện xảy ra : tổng số lần thực hiện.",
+  "diagnostic_question": {
+   "question": "Gieo một con xúc xắc. Có bao nhiêu kết quả có thể?",
+   "answer": "6"
+  }
+ },
+ {
+  "id": "vnm_07_01",
+  "subject": "math",
+  "name": "Tập hợp các số hữu tỉ; thứ tự trong tập ℚ",
+  "grade": 7,
+  "stage": "thcs",
+  "domain": "Số và Đại số",
+  "chapter": "Chương I. Số hữu tỉ",
+  "type": "conceptual",
+  "description": "Số hữu tỉ a/b; biểu diễn trên trục số; so sánh số hữu tỉ; số đối.",
+  "lesson": "Bài 1. Tập hợp các số hữu tỉ",
+  "diagnostic_question": {
+   "question": "Số nào KHÔNG phải số hữu tỉ?",
+   "answer": "C"
+  }
+ },
+ {
+  "id": "vnm_07_02",
+  "subject": "math",
+  "name": "Cộng, trừ, nhân, chia số hữu tỉ",
+  "grade": 7,
+  "stage": "thcs",
+  "domain": "Số và Đại số",
+  "chapter": "Chương I. Số hữu tỉ",
+  "type": "procedural",
+  "description": "Thực hiện các phép tính với số hữu tỉ (phân số, số thập phân).",
+  "diagnostic_question": {
+   "question": "Tính: 0,5 + (−3/4)",
+   "answer": "-1/4"
+  }
+ },
+ {
+  "id": "vnm_07_03",
+  "subject": "math",
+  "name": "Luỹ thừa với số mũ tự nhiên của một số hữu tỉ",
+  "grade": 7,
+  "stage": "thcs",
+  "domain": "Số và Đại số",
+  "chapter": "Chương I. Số hữu tỉ",
+  "type": "procedural",
+  "description": "xⁿ; tích, thương hai luỹ thừa cùng cơ số; luỹ thừa của luỹ thừa.",
+  "diagnostic_question": {
+   "question": "Tính (−1/2)³.",
+   "answer": "-1/8"
+  }
+ },
+ {
+  "id": "vnm_07_04",
+  "subject": "math",
+  "name": "Thứ tự thực hiện phép tính; quy tắc chuyển vế",
+  "grade": 7,
+  "stage": "thcs",
+  "domain": "Số và Đại số",
+  "chapter": "Chương I. Số hữu tỉ",
+  "type": "procedural",
+  "description": "Thứ tự phép tính trong ℚ; chuyển một số hạng sang vế kia thì đổi dấu.",
+  "diagnostic_question": {
+   "question": "Tìm x, biết x + 1/3 = 1/2.",
+   "answer": "1/6"
+  }
+ },
+ {
+  "id": "vnm_07_05",
+  "subject": "math",
+  "name": "Số thập phân vô hạn tuần hoàn; căn bậc hai số học",
+  "grade": 7,
+  "stage": "thcs",
+  "domain": "Số và Đại số",
+  "chapter": "Chương II. Số thực",
+  "type": "conceptual",
+  "description": "Phân số viết được thành số thập phân hữu hạn hoặc vô hạn tuần hoàn; √a với a ≥ 0.",
+  "diagnostic_question": {
+   "question": "Tính √49.",
+   "answer": "7"
+  }
+ },
+ {
+  "id": "vnm_07_06",
+  "subject": "math",
+  "name": "Số vô tỉ; số thực; giá trị tuyệt đối",
+  "grade": 7,
+  "stage": "thcs",
+  "domain": "Số và Đại số",
+  "chapter": "Chương II. Số thực",
+  "type": "conceptual",
+  "description": "Tập ℝ gồm số hữu tỉ và vô tỉ; so sánh số thực; |x|.",
+  "diagnostic_question": {
+   "question": "Tính |−4,5|.",
+   "answer": "4,5"
+  }
+ },
+ {
+  "id": "vnm_07_07",
+  "subject": "math",
+  "name": "Góc ở vị trí đặc biệt; tia phân giác của một góc",
+  "grade": 7,
+  "stage": "thcs",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chương III. Góc và đường thẳng song song",
+  "type": "conceptual",
+  "description": "Hai góc kề bù (tổng 180°), hai góc đối đỉnh (bằng nhau); tia phân giác.",
+  "diagnostic_question": {
+   "question": "Hai góc kề bù, một góc bằng 65°. Góc còn lại bằng bao nhiêu độ?",
+   "answer": "115"
+  }
+ },
+ {
+  "id": "vnm_07_08",
+  "subject": "math",
+  "name": "Hai đường thẳng song song; tiên đề Euclid",
+  "grade": 7,
+  "stage": "thcs",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chương III. Góc và đường thẳng song song",
+  "type": "procedural",
+  "description": "Góc so le trong, đồng vị; dấu hiệu nhận biết; tiên đề Euclid; tính chất hai đường thẳng song song.",
+  "diagnostic_question": {
+   "question": "Đường thẳng c cắt a và b, tạo cặp góc so le trong bằng nhau. Khi đó:",
+   "answer": "B"
+  }
+ },
+ {
+  "id": "vnm_07_09",
+  "subject": "math",
+  "name": "Định lí và chứng minh định lí",
+  "grade": 7,
+  "stage": "thcs",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chương III. Góc và đường thẳng song song",
+  "type": "conceptual",
+  "description": "Giả thiết, kết luận của định lí; chứng minh bằng lập luận.",
+  "diagnostic_question": {
+   "question": "Định lí \"Hai góc đối đỉnh thì bằng nhau\". Giả thiết là:",
+   "answer": "B"
+  }
+ },
+ {
+  "id": "vnm_07_10",
+  "subject": "math",
+  "name": "Tổng các góc trong một tam giác",
+  "grade": 7,
+  "stage": "thcs",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chương IV. Tam giác bằng nhau",
+  "type": "procedural",
+  "description": "Tổng ba góc của tam giác bằng 180°; góc ngoài; hai góc nhọn của tam giác vuông phụ nhau.",
+  "diagnostic_question": {
+   "question": "Tam giác ABC có góc A = 50°, góc B = 70°. Góc C bằng bao nhiêu độ?",
+   "answer": "60"
+  }
+ },
+ {
+  "id": "vnm_07_11",
+  "subject": "math",
+  "name": "Các trường hợp bằng nhau của tam giác",
+  "grade": 7,
+  "stage": "thcs",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chương IV. Tam giác bằng nhau",
+  "type": "procedural",
+  "description": "c.c.c, c.g.c, g.c.g; các trường hợp bằng nhau của tam giác vuông.",
+  "diagnostic_question": {
+   "question": "Hai tam giác có ba cặp cạnh tương ứng bằng nhau thì bằng nhau theo trường hợp:",
+   "answer": "A"
+  }
+ },
+ {
+  "id": "vnm_07_12",
+  "subject": "math",
+  "name": "Tam giác cân; đường trung trực của đoạn thẳng",
+  "grade": 7,
+  "stage": "thcs",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chương IV. Tam giác bằng nhau",
+  "type": "procedural",
+  "description": "Tam giác cân có hai góc đáy bằng nhau; điểm trên trung trực cách đều hai đầu đoạn thẳng.",
+  "diagnostic_question": {
+   "question": "Tam giác ABC cân tại A, góc B = 70°. Góc A bằng bao nhiêu độ?",
+   "answer": "40"
+  }
+ },
+ {
+  "id": "vnm_07_13",
+  "subject": "math",
+  "name": "Biểu đồ hình quạt tròn; biểu đồ đoạn thẳng",
+  "grade": 7,
+  "stage": "thcs",
+  "domain": "Thống kê và Xác suất",
+  "chapter": "Chương V. Thu thập và biểu diễn dữ liệu",
+  "type": "conceptual",
+  "description": "Đọc, vẽ biểu đồ hình quạt tròn và đoạn thẳng; phân tích xu hướng dữ liệu.",
+  "diagnostic_question": {
+   "question": "Biểu đồ hình quạt: 30% số học sinh đi học bằng xe đạp. Góc ở tâm của hình quạt đó bằng bao nhiêu độ?",
+   "answer": "108"
+  }
+ },
+ {
+  "id": "vnm_07_14",
+  "subject": "math",
+  "name": "Tỉ lệ thức; dãy tỉ số bằng nhau",
+  "grade": 7,
+  "stage": "thcs",
+  "domain": "Số và Đại số",
+  "chapter": "Chương VI. Tỉ lệ thức và đại lượng tỉ lệ",
+  "type": "procedural",
+  "description": "a/b = c/d ⇒ ad = bc; tính chất dãy tỉ số bằng nhau.",
+  "diagnostic_question": {
+   "question": "Tìm x, biết x/6 = 5/3.",
+   "answer": "10"
+  }
+ },
+ {
+  "id": "vnm_07_15",
+  "subject": "math",
+  "name": "Đại lượng tỉ lệ thuận",
+  "grade": 7,
+  "stage": "thcs",
+  "domain": "Số và Đại số",
+  "chapter": "Chương VI. Tỉ lệ thức và đại lượng tỉ lệ",
+  "type": "procedural",
+  "description": "y = kx (k ≠ 0); giải bài toán về đại lượng tỉ lệ thuận.",
+  "diagnostic_question": {
+   "question": "y tỉ lệ thuận với x theo hệ số 3. Khi x = 4 thì y bằng bao nhiêu?",
+   "answer": "12"
+  }
+ },
+ {
+  "id": "vnm_07_16",
+  "subject": "math",
+  "name": "Đại lượng tỉ lệ nghịch",
+  "grade": 7,
+  "stage": "thcs",
+  "domain": "Số và Đại số",
+  "chapter": "Chương VI. Tỉ lệ thức và đại lượng tỉ lệ",
+  "type": "procedural",
+  "description": "y = a/x (a ≠ 0); giải bài toán về đại lượng tỉ lệ nghịch.",
+  "diagnostic_question": {
+   "question": "y tỉ lệ nghịch với x theo hệ số 12. Khi x = 3 thì y bằng bao nhiêu?",
+   "answer": "4"
+  }
+ },
+ {
+  "id": "vnm_07_17",
+  "subject": "math",
+  "name": "Biểu thức đại số; giá trị của biểu thức",
+  "grade": 7,
+  "stage": "thcs",
+  "domain": "Số và Đại số",
+  "chapter": "Chương VII. Biểu thức đại số và đa thức một biến",
+  "type": "procedural",
+  "description": "Biểu thức chứa chữ; tính giá trị biểu thức tại giá trị cho trước của biến.",
+  "diagnostic_question": {
+   "question": "Tính giá trị của 2x + 5 tại x = −3.",
+   "answer": "-1"
+  }
+ },
+ {
+  "id": "vnm_07_18",
+  "subject": "math",
+  "name": "Đa thức một biến; nghiệm của đa thức",
+  "grade": 7,
+  "stage": "thcs",
+  "domain": "Số và Đại số",
+  "chapter": "Chương VII. Biểu thức đại số và đa thức một biến",
+  "type": "conceptual",
+  "description": "Bậc, hệ số, hệ số tự do; sắp xếp đa thức; x = a là nghiệm nếu P(a) = 0.",
+  "diagnostic_question": {
+   "question": "Đa thức P(x) = 5x³ − 2x + 7 có bậc là bao nhiêu?",
+   "answer": "3"
+  }
+ },
+ {
+  "id": "vnm_07_19",
+  "subject": "math",
+  "name": "Cộng, trừ đa thức một biến",
+  "grade": 7,
+  "stage": "thcs",
+  "domain": "Số và Đại số",
+  "chapter": "Chương VII. Biểu thức đại số và đa thức một biến",
+  "type": "procedural",
+  "description": "Cộng, trừ đa thức theo cột hoặc theo hàng ngang (thu gọn hạng tử đồng dạng).",
+  "diagnostic_question": {
+   "question": "Thu gọn: (3x² + 2x) + (x² − 5x).",
+   "answer": "4x^2-3x"
+  }
+ },
+ {
+  "id": "vnm_07_20",
+  "subject": "math",
+  "name": "Nhân, chia đa thức một biến",
+  "grade": 7,
+  "stage": "thcs",
+  "domain": "Số và Đại số",
+  "chapter": "Chương VII. Biểu thức đại số và đa thức một biến",
+  "type": "procedural",
+  "description": "Nhân đa thức với đa thức; chia đa thức cho đa thức (chia hết, chia có dư).",
+  "diagnostic_question": {
+   "question": "Tính 2x · (3x − 4).",
+   "answer": "6x^2-8x"
+  }
+ },
+ {
+  "id": "vnm_07_21",
+  "subject": "math",
+  "name": "Biến cố; xác suất của biến cố",
+  "grade": 7,
+  "stage": "thcs",
+  "domain": "Thống kê và Xác suất",
+  "chapter": "Chương VIII. Làm quen với biến cố và xác suất của biến cố",
+  "type": "procedural",
+  "description": "Biến cố chắc chắn, không thể, ngẫu nhiên; xác suất của biến cố trong trường hợp đồng khả năng.",
+  "diagnostic_question": {
+   "question": "Gieo xúc xắc. Biến cố \"Số chấm xuất hiện nhỏ hơn 7\" là biến cố:",
+   "answer": "A"
+  }
+ },
+ {
+  "id": "vnm_07_22",
+  "subject": "math",
+  "name": "Quan hệ giữa góc và cạnh đối diện; bất đẳng thức tam giác",
+  "grade": 7,
+  "stage": "thcs",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chương IX. Quan hệ giữa các yếu tố trong một tam giác",
+  "type": "procedural",
+  "description": "Cạnh lớn hơn đối diện góc lớn hơn; tổng hai cạnh lớn hơn cạnh còn lại.",
+  "diagnostic_question": {
+   "question": "Bộ ba độ dài nào là ba cạnh của một tam giác?",
+   "answer": "B"
+  }
+ },
+ {
+  "id": "vnm_07_23",
+  "subject": "math",
+  "name": "Đường vuông góc và đường xiên; sự đồng quy của các đường đặc biệt trong tam giác",
+  "grade": 7,
+  "stage": "thcs",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chương IX. Quan hệ giữa các yếu tố trong một tam giác",
+  "type": "procedural",
+  "description": "Đường vuông góc ngắn hơn đường xiên; trọng tâm (AG = 2/3 AM), giao điểm phân giác, trung trực, trực tâm.",
+  "diagnostic_question": {
+   "question": "G là trọng tâm tam giác ABC, trung tuyến AM = 9 cm. Tính AG (cm).",
+   "answer": "6"
+  }
+ },
+ {
+  "id": "vnm_07_24",
+  "subject": "math",
+  "name": "Hình hộp chữ nhật, hình lập phương",
+  "grade": 7,
+  "stage": "thcs",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chương X. Một số hình khối trong thực tiễn",
+  "type": "procedural",
+  "description": "Đỉnh, cạnh, mặt, đường chéo; diện tích xung quanh và thể tích.",
+  "diagnostic_question": {
+   "question": "Hình lập phương có bao nhiêu mặt?",
+   "answer": "6"
+  }
+ },
+ {
+  "id": "vnm_07_25",
+  "subject": "math",
+  "name": "Hình lăng trụ đứng tam giác, lăng trụ đứng tứ giác",
+  "grade": 7,
+  "stage": "thcs",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chương X. Một số hình khối trong thực tiễn",
+  "type": "procedural",
+  "description": "Sxq = chu vi đáy · chiều cao; V = S đáy · chiều cao.",
+  "diagnostic_question": {
+   "question": "Lăng trụ đứng có diện tích đáy 12 cm², chiều cao 5 cm. Thể tích bằng bao nhiêu cm³?",
+   "answer": "60"
+  }
+ },
+ {
+  "id": "vnm_08_01",
+  "subject": "math",
+  "name": "Đơn thức; đa thức nhiều biến",
+  "grade": 8,
+  "stage": "thcs",
+  "domain": "Số và Đại số",
+  "chapter": "Chương I. Đa thức",
+  "type": "conceptual",
+  "description": "Đơn thức thu gọn, bậc, hệ số; đơn thức đồng dạng; đa thức nhiều biến, bậc của đa thức.",
+  "diagnostic_question": {
+   "question": "Đơn thức −3x²y³ có bậc là bao nhiêu?",
+   "answer": "5"
+  }
+ },
+ {
+  "id": "vnm_08_02",
+  "subject": "math",
+  "name": "Phép cộng, phép trừ đa thức",
+  "grade": 8,
+  "stage": "thcs",
+  "domain": "Số và Đại số",
+  "chapter": "Chương I. Đa thức",
+  "type": "procedural",
+  "description": "Cộng, trừ đa thức nhiều biến bằng cách nhóm hạng tử đồng dạng.",
+  "diagnostic_question": {
+   "question": "Thu gọn: (2x²y + xy) + (x²y − 3xy).",
+   "answer": "3x^2y-2xy"
+  }
+ },
+ {
+  "id": "vnm_08_03",
+  "subject": "math",
+  "name": "Phép nhân đa thức; chia đa thức cho đơn thức",
+  "grade": 8,
+  "stage": "thcs",
+  "domain": "Số và Đại số",
+  "chapter": "Chương I. Đa thức",
+  "type": "procedural",
+  "description": "Nhân đơn thức với đa thức, đa thức với đa thức; chia đa thức cho đơn thức (trường hợp chia hết).",
+  "diagnostic_question": {
+   "question": "Tính 3x(x − 2y).",
+   "answer": "3x^2-6xy"
+  }
+ },
+ {
+  "id": "vnm_08_04",
+  "subject": "math",
+  "name": "Hiệu hai bình phương; bình phương của một tổng, một hiệu",
+  "grade": 8,
+  "stage": "thcs",
+  "domain": "Số và Đại số",
+  "chapter": "Chương II. Hằng đẳng thức đáng nhớ và ứng dụng",
+  "type": "procedural",
+  "description": "(a ± b)² = a² ± 2ab + b²; a² − b² = (a − b)(a + b).",
+  "diagnostic_question": {
+   "question": "Khai triển (x + 3)².",
+   "answer": "x^2+6x+9"
+  }
+ },
+ {
+  "id": "vnm_08_05",
+  "subject": "math",
+  "name": "Lập phương của một tổng, một hiệu; tổng và hiệu hai lập phương",
+  "grade": 8,
+  "stage": "thcs",
+  "domain": "Số và Đại số",
+  "chapter": "Chương II. Hằng đẳng thức đáng nhớ và ứng dụng",
+  "type": "procedural",
+  "description": "(a ± b)³ = a³ ± 3a²b + 3ab² ± b³; a³ ± b³ = (a ± b)(a² ∓ ab + b²).",
+  "diagnostic_question": {
+   "question": "Khai triển (x + 1)³.",
+   "answer": "x^3+3x^2+3x+1"
+  }
+ },
+ {
+  "id": "vnm_08_06",
+  "subject": "math",
+  "name": "Phân tích đa thức thành nhân tử",
+  "grade": 8,
+  "stage": "thcs",
+  "domain": "Số và Đại số",
+  "chapter": "Chương II. Hằng đẳng thức đáng nhớ và ứng dụng",
+  "type": "procedural",
+  "description": "Đặt nhân tử chung, dùng hằng đẳng thức, nhóm hạng tử.",
+  "diagnostic_question": {
+   "question": "Phân tích 5x² − 10x thành nhân tử.",
+   "answer": "5x(x-2)"
+  }
+ },
+ {
+  "id": "vnm_08_07",
+  "subject": "math",
+  "name": "Tứ giác; tổng các góc của tứ giác",
+  "grade": 8,
+  "stage": "thcs",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chương III. Tứ giác",
+  "type": "procedural",
+  "description": "Tứ giác lồi; tổng bốn góc bằng 360°.",
+  "diagnostic_question": {
+   "question": "Tứ giác có ba góc 80°, 90°, 110°. Góc còn lại bằng bao nhiêu độ?",
+   "answer": "80"
+  }
+ },
+ {
+  "id": "vnm_08_08",
+  "subject": "math",
+  "name": "Hình thang cân",
+  "grade": 8,
+  "stage": "thcs",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chương III. Tứ giác",
+  "type": "procedural",
+  "description": "Hình thang có hai góc kề một đáy bằng nhau; hai cạnh bên bằng nhau, hai đường chéo bằng nhau.",
+  "diagnostic_question": {
+   "question": "Trong hình thang cân, hai đường chéo:",
+   "answer": "B"
+  }
+ },
+ {
+  "id": "vnm_08_09",
+  "subject": "math",
+  "name": "Hình bình hành; hình thoi",
+  "grade": 8,
+  "stage": "thcs",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chương III. Tứ giác",
+  "type": "procedural",
+  "description": "Tính chất và dấu hiệu nhận biết hình bình hành, hình thoi.",
+  "diagnostic_question": {
+   "question": "Hai đường chéo của hình bình hành:",
+   "answer": "B"
+  }
+ },
+ {
+  "id": "vnm_08_10",
+  "subject": "math",
+  "name": "Hình chữ nhật; hình vuông",
+  "grade": 8,
+  "stage": "thcs",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chương III. Tứ giác",
+  "type": "procedural",
+  "description": "Tính chất, dấu hiệu nhận biết hình chữ nhật, hình vuông.",
+  "diagnostic_question": {
+   "question": "Hình bình hành có một góc vuông là:",
+   "answer": "B"
+  }
+ },
+ {
+  "id": "vnm_08_11",
+  "subject": "math",
+  "name": "Định lí Thalès trong tam giác",
+  "grade": 8,
+  "stage": "thcs",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chương IV. Định lí Thalès",
+  "type": "procedural",
+  "description": "Đường thẳng song song với một cạnh tam giác định ra trên hai cạnh kia những đoạn thẳng tương ứng tỉ lệ; định lí đảo.",
+  "diagnostic_question": {
+   "question": "ΔABC, DE // BC (D ∈ AB, E ∈ AC), AD = 2, DB = 3, AE = 4. Tính EC.",
+   "answer": "6"
+  }
+ },
+ {
+  "id": "vnm_08_12",
+  "subject": "math",
+  "name": "Đường trung bình của tam giác",
+  "grade": 8,
+  "stage": "thcs",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chương IV. Định lí Thalès",
+  "type": "procedural",
+  "description": "Đường trung bình song song với cạnh thứ ba và bằng nửa cạnh ấy.",
+  "diagnostic_question": {
+   "question": "M, N là trung điểm AB, AC; BC = 10 cm. Tính MN (cm).",
+   "answer": "5"
+  }
+ },
+ {
+  "id": "vnm_08_13",
+  "subject": "math",
+  "name": "Tính chất đường phân giác của tam giác",
+  "grade": 8,
+  "stage": "thcs",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chương IV. Định lí Thalès",
+  "type": "procedural",
+  "description": "Đường phân giác trong chia cạnh đối diện thành hai đoạn tỉ lệ với hai cạnh kề.",
+  "diagnostic_question": {
+   "question": "AD là phân giác ΔABC (D ∈ BC), AB = 6, AC = 9, DB = 4. Tính DC.",
+   "answer": "6"
+  }
+ },
+ {
+  "id": "vnm_08_14",
+  "subject": "math",
+  "name": "Thu thập, phân loại, biểu diễn và phân tích dữ liệu",
+  "grade": 8,
+  "stage": "thcs",
+  "domain": "Thống kê và Xác suất",
+  "chapter": "Chương V. Dữ liệu và biểu đồ",
+  "type": "conceptual",
+  "description": "Chọn dạng biểu diễn phù hợp; chuyển dữ liệu giữa bảng và biểu đồ; phát hiện vấn đề từ số liệu.",
+  "diagnostic_question": {
+   "question": "Để so sánh tỉ lệ các phần trong một tổng thể, nên dùng:",
+   "answer": "A"
+  }
+ },
+ {
+  "id": "vnm_08_15",
+  "subject": "math",
+  "name": "Phân thức đại số; tính chất cơ bản",
+  "grade": 8,
+  "stage": "thcs",
+  "domain": "Số và Đại số",
+  "chapter": "Chương VI. Phân thức đại số",
+  "type": "procedural",
+  "description": "Điều kiện xác định; phân thức bằng nhau; rút gọn phân thức.",
+  "diagnostic_question": {
+   "question": "Tìm giá trị của x làm phân thức 3/(x − 2) không xác định.",
+   "answer": "2"
+  }
+ },
+ {
+  "id": "vnm_08_16",
+  "subject": "math",
+  "name": "Phép cộng, phép trừ phân thức đại số",
+  "grade": 8,
+  "stage": "thcs",
+  "domain": "Số và Đại số",
+  "chapter": "Chương VI. Phân thức đại số",
+  "type": "procedural",
+  "description": "Quy đồng mẫu thức; cộng, trừ phân thức.",
+  "diagnostic_question": {
+   "question": "Tính x/3 + 2x/3.",
+   "answer": "x"
+  }
+ },
+ {
+  "id": "vnm_08_17",
+  "subject": "math",
+  "name": "Phép nhân, phép chia phân thức đại số",
+  "grade": 8,
+  "stage": "thcs",
+  "domain": "Số và Đại số",
+  "chapter": "Chương VI. Phân thức đại số",
+  "type": "procedural",
+  "description": "Nhân tử với tử, mẫu với mẫu; chia là nhân với phân thức nghịch đảo.",
+  "diagnostic_question": {
+   "question": "Tính (x/2) · (4/x) (x ≠ 0).",
+   "answer": "2"
+  }
+ },
+ {
+  "id": "vnm_08_18",
+  "subject": "math",
+  "name": "Phương trình bậc nhất một ẩn; giải bài toán bằng cách lập phương trình",
+  "grade": 8,
+  "stage": "thcs",
+  "domain": "Số và Đại số",
+  "chapter": "Chương VII. Phương trình bậc nhất và hàm số bậc nhất",
+  "type": "procedural",
+  "description": "Giải ax + b = 0 (a ≠ 0); phương trình đưa được về dạng bậc nhất; lập phương trình từ bài toán thực tế.",
+  "diagnostic_question": {
+   "question": "Giải phương trình 3x − 12 = 0.",
+   "answer": "4"
+  }
+ },
+ {
+  "id": "vnm_08_19",
+  "subject": "math",
+  "name": "Khái niệm hàm số; mặt phẳng tọa độ; đồ thị hàm số",
+  "grade": 8,
+  "stage": "thcs",
+  "domain": "Số và Đại số",
+  "chapter": "Chương VII. Phương trình bậc nhất và hàm số bậc nhất",
+  "type": "conceptual",
+  "description": "Hàm số cho bằng bảng, công thức; tọa độ điểm; đồ thị là tập điểm (x; f(x)).",
+  "diagnostic_question": {
+   "question": "Cho f(x) = 2x − 1. Tính f(3).",
+   "answer": "5"
+  }
+ },
+ {
+  "id": "vnm_08_20",
+  "subject": "math",
+  "name": "Hàm số bậc nhất y = ax + b và đồ thị",
+  "grade": 8,
+  "stage": "thcs",
+  "domain": "Số và Đại số",
+  "chapter": "Chương VII. Phương trình bậc nhất và hàm số bậc nhất",
+  "type": "procedural",
+  "description": "Nhận biết hàm bậc nhất (a ≠ 0); vẽ đồ thị là đường thẳng; giao điểm với các trục.",
+  "diagnostic_question": {
+   "question": "Hàm số nào là hàm số bậc nhất?",
+   "answer": "A"
+  }
+ },
+ {
+  "id": "vnm_08_21",
+  "subject": "math",
+  "name": "Hệ số góc của đường thẳng; hai đường thẳng song song, cắt nhau",
+  "grade": 8,
+  "stage": "thcs",
+  "domain": "Số và Đại số",
+  "chapter": "Chương VII. Phương trình bậc nhất và hàm số bậc nhất",
+  "type": "procedural",
+  "description": "a là hệ số góc; d // d' ⇔ a = a', b ≠ b'; d cắt d' ⇔ a ≠ a'.",
+  "diagnostic_question": {
+   "question": "Hệ số góc của đường thẳng y = −3x + 5 là bao nhiêu?",
+   "answer": "-3"
+  }
+ },
+ {
+  "id": "vnm_08_22",
+  "subject": "math",
+  "name": "Kết quả thuận lợi; tính xác suất bằng tỉ số",
+  "grade": 8,
+  "stage": "thcs",
+  "domain": "Thống kê và Xác suất",
+  "chapter": "Chương VIII. Mở đầu về tính xác suất của biến cố",
+  "type": "procedural",
+  "description": "P(A) = số kết quả thuận lợi cho A : tổng số kết quả có thể (đồng khả năng).",
+  "diagnostic_question": {
+   "question": "Hộp có 3 bi đỏ, 5 bi xanh. Lấy ngẫu nhiên 1 viên. Xác suất lấy được bi đỏ là bao nhiêu?",
+   "answer": "3/8"
+  }
+ },
+ {
+  "id": "vnm_08_23",
+  "subject": "math",
+  "name": "Mối liên hệ giữa xác suất thực nghiệm và xác suất",
+  "grade": 8,
+  "stage": "thcs",
+  "domain": "Thống kê và Xác suất",
+  "chapter": "Chương VIII. Mở đầu về tính xác suất của biến cố",
+  "type": "procedural",
+  "description": "Khi số lần thử lớn, xác suất thực nghiệm gần bằng xác suất; dùng để ước lượng.",
+  "diagnostic_question": {
+   "question": "Tung đồng xu cân đối rất nhiều lần, xác suất thực nghiệm mặt sấp sẽ gần:",
+   "answer": "B"
+  }
+ },
+ {
+  "id": "vnm_08_24",
+  "subject": "math",
+  "name": "Tam giác đồng dạng; các trường hợp đồng dạng",
+  "grade": 8,
+  "stage": "thcs",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chương IX. Tam giác đồng dạng",
+  "type": "procedural",
+  "description": "Định nghĩa, tỉ số đồng dạng; trường hợp c.c.c, c.g.c, g.g.",
+  "diagnostic_question": {
+   "question": "ΔABC ∽ ΔDEF theo tỉ số 2, AB = 6 cm. Tính DE (cm).",
+   "answer": "3"
+  }
+ },
+ {
+  "id": "vnm_08_25",
+  "subject": "math",
+  "name": "Định lí Pythagore và ứng dụng",
+  "grade": 8,
+  "stage": "thcs",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chương IX. Tam giác đồng dạng",
+  "type": "procedural",
+  "description": "Tam giác vuông: bình phương cạnh huyền bằng tổng bình phương hai cạnh góc vuông; định lí đảo.",
+  "diagnostic_question": {
+   "question": "Tam giác vuông có hai cạnh góc vuông 6 cm và 8 cm. Cạnh huyền dài bao nhiêu cm?",
+   "answer": "10"
+  }
+ },
+ {
+  "id": "vnm_08_26",
+  "subject": "math",
+  "name": "Các trường hợp đồng dạng của tam giác vuông; hình đồng dạng",
+  "grade": 8,
+  "stage": "thcs",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chương IX. Tam giác đồng dạng",
+  "type": "procedural",
+  "description": "Tam giác vuông đồng dạng khi có một góc nhọn bằng nhau hoặc hai cạnh góc vuông tỉ lệ…; ứng dụng đo chiều cao.",
+  "diagnostic_question": {
+   "question": "Hai tam giác vuông có một góc nhọn bằng nhau thì:",
+   "answer": "B"
+  }
+ },
+ {
+  "id": "vnm_08_27",
+  "subject": "math",
+  "name": "Hình chóp tam giác đều, hình chóp tứ giác đều",
+  "grade": 8,
+  "stage": "thcs",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chương X. Một số hình khối trong thực tiễn",
+  "type": "procedural",
+  "description": "Sxq = nửa chu vi đáy · trung đoạn; V = 1/3 · S đáy · chiều cao.",
+  "diagnostic_question": {
+   "question": "Hình chóp tứ giác đều có đáy là hình vuông cạnh 6 cm, chiều cao 5 cm. Thể tích bằng bao nhiêu cm³?",
+   "answer": "60"
+  }
+ },
+ {
+  "id": "vnm_09_01",
+  "subject": "math",
+  "name": "Phương trình bậc nhất hai ẩn; hệ hai phương trình bậc nhất hai ẩn",
+  "grade": 9,
+  "stage": "thcs",
+  "domain": "Số và Đại số",
+  "chapter": "Chương I. Phương trình và hệ hai phương trình bậc nhất hai ẩn",
+  "type": "conceptual",
+  "description": "Nghiệm của ax + by = c; hệ hai phương trình; kiểm tra một cặp số có là nghiệm.",
+  "diagnostic_question": {
+   "question": "Cặp số nào là nghiệm của phương trình 2x + y = 5?",
+   "answer": "B"
+  }
+ },
+ {
+  "id": "vnm_09_02",
+  "subject": "math",
+  "name": "Giải hệ hai phương trình bậc nhất hai ẩn",
+  "grade": 9,
+  "stage": "thcs",
+  "domain": "Số và Đại số",
+  "chapter": "Chương I. Phương trình và hệ hai phương trình bậc nhất hai ẩn",
+  "type": "procedural",
+  "description": "Phương pháp thế, phương pháp cộng đại số.",
+  "diagnostic_question": {
+   "question": "Giải hệ x + y = 5 và x − y = 1. Ghi x; y.",
+   "answer": "3; 2"
+  }
+ },
+ {
+  "id": "vnm_09_03",
+  "subject": "math",
+  "name": "Giải bài toán bằng cách lập hệ phương trình",
+  "grade": 9,
+  "stage": "thcs",
+  "domain": "Số và Đại số",
+  "chapter": "Chương I. Phương trình và hệ hai phương trình bậc nhất hai ẩn",
+  "type": "procedural",
+  "description": "Chọn ẩn, lập hệ, giải và đối chiếu điều kiện.",
+  "diagnostic_question": {
+   "question": "Tổng hai số là 30, hiệu là 4. Tìm số lớn.",
+   "answer": "17"
+  }
+ },
+ {
+  "id": "vnm_09_04",
+  "subject": "math",
+  "name": "Phương trình quy về phương trình bậc nhất một ẩn",
+  "grade": 9,
+  "stage": "thcs",
+  "domain": "Số và Đại số",
+  "chapter": "Chương II. Phương trình và bất phương trình bậc nhất một ẩn",
+  "type": "procedural",
+  "description": "Phương trình tích (ax + b)(cx + d) = 0; phương trình chứa ẩn ở mẫu (điều kiện xác định).",
+  "diagnostic_question": {
+   "question": "Giải (x − 2)(x + 5) = 0. (ghi các nghiệm, ngăn bằng ;)",
+   "answer": "2; -5"
+  }
+ },
+ {
+  "id": "vnm_09_05",
+  "subject": "math",
+  "name": "Bất đẳng thức và tính chất",
+  "grade": 9,
+  "stage": "thcs",
+  "domain": "Số và Đại số",
+  "chapter": "Chương II. Phương trình và bất phương trình bậc nhất một ẩn",
+  "type": "conceptual",
+  "description": "Liên hệ thứ tự với phép cộng, phép nhân (nhân với số âm thì đổi chiều).",
+  "diagnostic_question": {
+   "question": "Cho a > b. Bất đẳng thức nào đúng?",
+   "answer": "B"
+  }
+ },
+ {
+  "id": "vnm_09_06",
+  "subject": "math",
+  "name": "Bất phương trình bậc nhất một ẩn",
+  "grade": 9,
+  "stage": "thcs",
+  "domain": "Số và Đại số",
+  "chapter": "Chương II. Phương trình và bất phương trình bậc nhất một ẩn",
+  "type": "procedural",
+  "description": "Giải ax + b > 0 (≥, <, ≤), biểu diễn tập nghiệm.",
+  "diagnostic_question": {
+   "question": "Giải bất phương trình 2x − 6 > 0.",
+   "answer": "x>3"
+  }
+ },
+ {
+  "id": "vnm_09_07",
+  "subject": "math",
+  "name": "Căn bậc hai và căn thức bậc hai",
+  "grade": 9,
+  "stage": "thcs",
+  "domain": "Số và Đại số",
+  "chapter": "Chương III. Căn bậc hai và căn bậc ba",
+  "type": "procedural",
+  "description": "Căn bậc hai của số không âm; điều kiện xác định của √A; √(A²) = |A|.",
+  "diagnostic_question": {
+   "question": "Tính √(1,44).",
+   "answer": "1,2"
+  }
+ },
+ {
+  "id": "vnm_09_08",
+  "subject": "math",
+  "name": "Khai căn bậc hai với phép nhân và phép chia",
+  "grade": 9,
+  "stage": "thcs",
+  "domain": "Số và Đại số",
+  "chapter": "Chương III. Căn bậc hai và căn bậc ba",
+  "type": "procedural",
+  "description": "√(AB) = √A·√B; √(A/B) = √A/√B với A ≥ 0, B > 0.",
+  "diagnostic_question": {
+   "question": "Tính √2 · √8.",
+   "answer": "4"
+  }
+ },
+ {
+  "id": "vnm_09_09",
+  "subject": "math",
+  "name": "Biến đổi đơn giản và rút gọn biểu thức chứa căn bậc hai",
+  "grade": 9,
+  "stage": "thcs",
+  "domain": "Số và Đại số",
+  "chapter": "Chương III. Căn bậc hai và căn bậc ba",
+  "type": "procedural",
+  "description": "Đưa thừa số ra ngoài/vào trong dấu căn; trục căn thức ở mẫu; rút gọn.",
+  "diagnostic_question": {
+   "question": "Đưa thừa số ra ngoài dấu căn: √50.",
+   "answer": "5√2"
+  }
+ },
+ {
+  "id": "vnm_09_10",
+  "subject": "math",
+  "name": "Căn bậc ba",
+  "grade": 9,
+  "stage": "thcs",
+  "domain": "Số và Đại số",
+  "chapter": "Chương III. Căn bậc hai và căn bậc ba",
+  "type": "procedural",
+  "description": "∛a là số x sao cho x³ = a; tính căn bậc ba.",
+  "diagnostic_question": {
+   "question": "Tính ∛27.",
+   "answer": "3"
+  }
+ },
+ {
+  "id": "vnm_09_11",
+  "subject": "math",
+  "name": "Tỉ số lượng giác của góc nhọn",
+  "grade": 9,
+  "stage": "thcs",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chương IV. Hệ thức lượng trong tam giác vuông",
+  "type": "procedural",
+  "description": "sin, cos, tan, cot của góc nhọn; giá trị đặc biệt (30°, 45°, 60°); tỉ số lượng giác của hai góc phụ nhau.",
+  "diagnostic_question": {
+   "question": "Tính sin 30°.",
+   "answer": "1/2"
+  }
+ },
+ {
+  "id": "vnm_09_12",
+  "subject": "math",
+  "name": "Một số hệ thức giữa cạnh, góc trong tam giác vuông",
+  "grade": 9,
+  "stage": "thcs",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chương IV. Hệ thức lượng trong tam giác vuông",
+  "type": "procedural",
+  "description": "Cạnh góc vuông = cạnh huyền · sin góc đối = cạnh huyền · cos góc kề…; giải tam giác vuông; ứng dụng đo đạc.",
+  "diagnostic_question": {
+   "question": "Tam giác vuông có cạnh huyền 10 cm, một góc nhọn 30°. Cạnh đối diện góc 30° dài bao nhiêu cm?",
+   "answer": "5"
+  }
+ },
+ {
+  "id": "vnm_09_13",
+  "subject": "math",
+  "name": "Mở đầu về đường tròn; cung và dây",
+  "grade": 9,
+  "stage": "thcs",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chương V. Đường tròn",
+  "type": "conceptual",
+  "description": "Tâm đối xứng, trục đối xứng; quan hệ đường kính và dây; góc ở tâm, số đo cung.",
+  "diagnostic_question": {
+   "question": "Đường tròn bán kính 5 cm có dây lớn nhất dài bao nhiêu cm?",
+   "answer": "10"
+  }
+ },
+ {
+  "id": "vnm_09_14",
+  "subject": "math",
+  "name": "Độ dài cung tròn; diện tích hình quạt tròn, hình vành khuyên",
+  "grade": 9,
+  "stage": "thcs",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chương V. Đường tròn",
+  "type": "procedural",
+  "description": "l = πRn/180; S quạt = πR²n/360; S vành khuyên = π(R² − r²).",
+  "diagnostic_question": {
+   "question": "Tính độ dài cung 90° của đường tròn bán kính 4 cm (theo π).",
+   "answer": "2π"
+  }
+ },
+ {
+  "id": "vnm_09_15",
+  "subject": "math",
+  "name": "Vị trí tương đối của đường thẳng và đường tròn; tiếp tuyến",
+  "grade": 9,
+  "stage": "thcs",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chương V. Đường tròn",
+  "type": "procedural",
+  "description": "So sánh d và R; tiếp tuyến vuông góc với bán kính tại tiếp điểm; tính chất hai tiếp tuyến cắt nhau.",
+  "diagnostic_question": {
+   "question": "Đường tròn (O; 5) và đường thẳng a cách O một khoảng 3. Vị trí tương đối là:",
+   "answer": "A"
+  }
+ },
+ {
+  "id": "vnm_09_16",
+  "subject": "math",
+  "name": "Vị trí tương đối của hai đường tròn",
+  "grade": 9,
+  "stage": "thcs",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chương V. Đường tròn",
+  "type": "procedural",
+  "description": "So sánh OO' với R + r và |R − r|.",
+  "diagnostic_question": {
+   "question": "Hai đường tròn (O; 3) và (O'; 5) có OO' = 8. Hai đường tròn:",
+   "answer": "B"
+  }
+ },
+ {
+  "id": "vnm_09_17",
+  "subject": "math",
+  "name": "Hàm số y = ax² (a ≠ 0) và đồ thị",
+  "grade": 9,
+  "stage": "thcs",
+  "domain": "Số và Đại số",
+  "chapter": "Chương VI. Hàm số y = ax² (a ≠ 0). Phương trình bậc hai một ẩn",
+  "type": "procedural",
+  "description": "Tính giá trị; đồ thị là parabol đỉnh O, nhận Oy làm trục đối xứng.",
+  "diagnostic_question": {
+   "question": "Cho y = 2x². Tính y khi x = −3.",
+   "answer": "18"
+  }
+ },
+ {
+  "id": "vnm_09_18",
+  "subject": "math",
+  "name": "Phương trình bậc hai một ẩn; công thức nghiệm",
+  "grade": 9,
+  "stage": "thcs",
+  "domain": "Số và Đại số",
+  "chapter": "Chương VI. Hàm số y = ax² (a ≠ 0). Phương trình bậc hai một ẩn",
+  "type": "procedural",
+  "description": "ax² + bx + c = 0; biệt thức Δ (hoặc Δ'); số nghiệm và công thức nghiệm.",
+  "diagnostic_question": {
+   "question": "Giải x² − 9 = 0. (các nghiệm ngăn bằng ;)",
+   "answer": "3; -3"
+  }
+ },
+ {
+  "id": "vnm_09_19",
+  "subject": "math",
+  "name": "Định lí Viète và ứng dụng",
+  "grade": 9,
+  "stage": "thcs",
+  "domain": "Số và Đại số",
+  "chapter": "Chương VI. Hàm số y = ax² (a ≠ 0). Phương trình bậc hai một ẩn",
+  "type": "procedural",
+  "description": "x₁ + x₂ = −b/a, x₁x₂ = c/a; nhẩm nghiệm; tìm hai số biết tổng và tích.",
+  "diagnostic_question": {
+   "question": "Phương trình x² − 7x + 10 = 0 có hai nghiệm x₁, x₂. Tính x₁ + x₂.",
+   "answer": "7"
+  }
+ },
+ {
+  "id": "vnm_09_20",
+  "subject": "math",
+  "name": "Giải bài toán bằng cách lập phương trình bậc hai",
+  "grade": 9,
+  "stage": "thcs",
+  "domain": "Số và Đại số",
+  "chapter": "Chương VI. Hàm số y = ax² (a ≠ 0). Phương trình bậc hai một ẩn",
+  "type": "procedural",
+  "description": "Lập phương trình bậc hai từ bài toán thực tế; đối chiếu điều kiện của ẩn.",
+  "diagnostic_question": {
+   "question": "Tìm số dương x biết x² = 2x + 15.",
+   "answer": "5"
+  }
+ },
+ {
+  "id": "vnm_09_21",
+  "subject": "math",
+  "name": "Bảng tần số, tần số tương đối; mẫu số liệu ghép nhóm",
+  "grade": 9,
+  "stage": "thcs",
+  "domain": "Thống kê và Xác suất",
+  "chapter": "Chương VII. Tần số và tần số tương đối",
+  "type": "procedural",
+  "description": "Lập bảng tần số, tần số tương đối; biểu đồ tần số tương đối; bảng tần số ghép nhóm.",
+  "diagnostic_question": {
+   "question": "Điểm kiểm tra của 10 bạn: 7; 8; 7; 9; 6; 7; 8; 10; 7; 9. Tần số của điểm 7 là bao nhiêu?",
+   "answer": "4"
+  }
+ },
+ {
+  "id": "vnm_09_22",
+  "subject": "math",
+  "name": "Phép thử ngẫu nhiên, không gian mẫu; xác suất của biến cố",
+  "grade": 9,
+  "stage": "thcs",
+  "domain": "Thống kê và Xác suất",
+  "chapter": "Chương VIII. Xác suất của biến cố trong một số mô hình xác suất đơn giản",
+  "type": "procedural",
+  "description": "Mô tả không gian mẫu (liệt kê, bảng, sơ đồ cây); tính xác suất trong mô hình đồng khả năng.",
+  "diagnostic_question": {
+   "question": "Tung hai đồng xu. Không gian mẫu có bao nhiêu phần tử?",
+   "answer": "4"
+  }
+ },
+ {
+  "id": "vnm_09_23",
+  "subject": "math",
+  "name": "Góc nội tiếp",
+  "grade": 9,
+  "stage": "thcs",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chương IX. Đường tròn ngoại tiếp và đường tròn nội tiếp",
+  "type": "procedural",
+  "description": "Góc nội tiếp bằng nửa số đo cung bị chắn; góc nội tiếp chắn nửa đường tròn là góc vuông.",
+  "diagnostic_question": {
+   "question": "Góc nội tiếp chắn cung 100°. Số đo góc đó là bao nhiêu độ?",
+   "answer": "50"
+  }
+ },
+ {
+  "id": "vnm_09_24",
+  "subject": "math",
+  "name": "Đường tròn ngoại tiếp và đường tròn nội tiếp của một tam giác",
+  "grade": 9,
+  "stage": "thcs",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chương IX. Đường tròn ngoại tiếp và đường tròn nội tiếp",
+  "type": "procedural",
+  "description": "Tâm ngoại tiếp là giao ba trung trực; tâm nội tiếp là giao ba phân giác; tam giác vuông, tam giác đều.",
+  "diagnostic_question": {
+   "question": "Tam giác vuông có cạnh huyền 10 cm. Bán kính đường tròn ngoại tiếp bằng bao nhiêu cm?",
+   "answer": "5"
+  }
+ },
+ {
+  "id": "vnm_09_25",
+  "subject": "math",
+  "name": "Tứ giác nội tiếp",
+  "grade": 9,
+  "stage": "thcs",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chương IX. Đường tròn ngoại tiếp và đường tròn nội tiếp",
+  "type": "procedural",
+  "description": "Tứ giác nội tiếp có tổng hai góc đối bằng 180°; hình chữ nhật, hình vuông nội tiếp.",
+  "diagnostic_question": {
+   "question": "Tứ giác ABCD nội tiếp, góc A = 75°. Góc C bằng bao nhiêu độ?",
+   "answer": "105"
+  }
+ },
+ {
+  "id": "vnm_09_26",
+  "subject": "math",
+  "name": "Đa giác đều; phép quay",
+  "grade": 9,
+  "stage": "thcs",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chương IX. Đường tròn ngoại tiếp và đường tròn nội tiếp",
+  "type": "procedural",
+  "description": "Đa giác đều; phép quay giữ nguyên đa giác đều.",
+  "diagnostic_question": {
+   "question": "Mỗi góc của ngũ giác đều bằng bao nhiêu độ?",
+   "answer": "108"
+  }
+ },
+ {
+  "id": "vnm_09_27",
+  "subject": "math",
+  "name": "Hình trụ, hình nón, hình cầu",
+  "grade": 9,
+  "stage": "thcs",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chương X. Một số hình khối trong thực tiễn",
+  "type": "procedural",
+  "description": "Trụ: Sxq = 2πrh, V = πr²h; nón: Sxq = πrl, V = πr²h/3; cầu: S = 4πR², V = 4πR³/3.",
+  "diagnostic_question": {
+   "question": "Hình trụ bán kính đáy 3 cm, chiều cao 5 cm. Thể tích (theo π, đơn vị cm³)?",
+   "answer": "45π"
+  }
+ },
+ {
+  "id": "vnm_10_01",
+  "subject": "math",
+  "name": "Mệnh đề; mệnh đề phủ định, kéo theo, tương đương",
+  "grade": 10,
+  "stage": "thpt",
+  "domain": "Đại số và Một số yếu tố Giải tích",
+  "chapter": "Chương I. Mệnh đề và tập hợp",
+  "type": "conceptual",
+  "description": "Nhận biết mệnh đề, phủ định, kéo theo, đảo, tương đương; kí hiệu ∀, ∃.",
+  "diagnostic_question": {
+   "question": "Câu nào là mệnh đề?",
+   "answer": "B"
+  }
+ },
+ {
+  "id": "vnm_10_02",
+  "subject": "math",
+  "name": "Tập hợp và các phép toán trên tập hợp",
+  "grade": 10,
+  "stage": "thpt",
+  "domain": "Đại số và Một số yếu tố Giải tích",
+  "chapter": "Chương I. Mệnh đề và tập hợp",
+  "type": "conceptual",
+  "description": "Tập con, giao, hợp, hiệu, phần bù; các tập con của ℝ (khoảng, đoạn, nửa khoảng).",
+  "diagnostic_question": {
+   "question": "Cho A = {1; 2; 3; 4}, B = {3; 4; 5}. Tìm A ∩ B.",
+   "answer": "{3;4}"
+  }
+ },
+ {
+  "id": "vnm_10_03",
+  "subject": "math",
+  "name": "Bất phương trình bậc nhất hai ẩn",
+  "grade": 10,
+  "stage": "thpt",
+  "domain": "Đại số và Một số yếu tố Giải tích",
+  "chapter": "Chương II. Bất phương trình và hệ bất phương trình bậc nhất hai ẩn",
+  "type": "procedural",
+  "description": "Nghiệm và miền nghiệm của ax + by < c; biểu diễn miền nghiệm.",
+  "diagnostic_question": {
+   "question": "Cặp số nào là nghiệm của 2x + y < 3?",
+   "answer": "C"
+  }
+ },
+ {
+  "id": "vnm_10_04",
+  "subject": "math",
+  "name": "Hệ bất phương trình bậc nhất hai ẩn và ứng dụng",
+  "grade": 10,
+  "stage": "thpt",
+  "domain": "Đại số và Một số yếu tố Giải tích",
+  "chapter": "Chương II. Bất phương trình và hệ bất phương trình bậc nhất hai ẩn",
+  "type": "procedural",
+  "description": "Miền nghiệm của hệ; tìm giá trị lớn nhất, nhỏ nhất của F = ax + by trên miền đa giác (bài toán kinh tế).",
+  "diagnostic_question": {
+   "question": "Cặp số nào là nghiệm của hệ x ≥ 0; y ≥ 0; x + y ≤ 4?",
+   "answer": "A"
+  }
+ },
+ {
+  "id": "vnm_10_05",
+  "subject": "math",
+  "name": "Giá trị lượng giác của một góc từ 0° đến 180°",
+  "grade": 10,
+  "stage": "thpt",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chương III. Hệ thức lượng trong tam giác",
+  "type": "procedural",
+  "description": "Định nghĩa qua nửa đường tròn đơn vị; sin(180° − α) = sin α, cos(180° − α) = −cos α.",
+  "diagnostic_question": {
+   "question": "Tính cos 180°.",
+   "answer": "-1"
+  }
+ },
+ {
+  "id": "vnm_10_06",
+  "subject": "math",
+  "name": "Định lí côsin, định lí sin",
+  "grade": 10,
+  "stage": "thpt",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chương III. Hệ thức lượng trong tam giác",
+  "type": "procedural",
+  "description": "a² = b² + c² − 2bc cos A; a/sin A = 2R.",
+  "diagnostic_question": {
+   "question": "Tam giác có b = 3, c = 5, góc A = 60°. Tính a².",
+   "answer": "19"
+  }
+ },
+ {
+  "id": "vnm_10_07",
+  "subject": "math",
+  "name": "Giải tam giác; diện tích tam giác",
+  "grade": 10,
+  "stage": "thpt",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chương III. Hệ thức lượng trong tam giác",
+  "type": "procedural",
+  "description": "S = ½ab sin C; công thức Heron; S = abc/(4R); S = pr; ứng dụng đo đạc.",
+  "diagnostic_question": {
+   "question": "Tam giác có a = 4, b = 6, góc C = 30°. Tính diện tích.",
+   "answer": "6"
+  }
+ },
+ {
+  "id": "vnm_10_08",
+  "subject": "math",
+  "name": "Các khái niệm mở đầu về vectơ",
+  "grade": 10,
+  "stage": "thpt",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chương IV. Vectơ",
+  "type": "conceptual",
+  "description": "Vectơ, độ dài, cùng phương, cùng hướng, hai vectơ bằng nhau, vectơ-không.",
+  "diagnostic_question": {
+   "question": "Cho ba điểm phân biệt A, B, C. Có bao nhiêu vectơ khác vectơ-không có điểm đầu, điểm cuối lấy trong ba điểm đó?",
+   "answer": "6"
+  }
+ },
+ {
+  "id": "vnm_10_09",
+  "subject": "math",
+  "name": "Tổng và hiệu của hai vectơ",
+  "grade": 10,
+  "stage": "thpt",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chương IV. Vectơ",
+  "type": "procedural",
+  "description": "Quy tắc ba điểm, quy tắc hình bình hành, quy tắc hiệu; trung điểm, trọng tâm.",
+  "diagnostic_question": {
+   "question": "Theo quy tắc ba điểm, vectơ AB + vectơ BC bằng vectơ nào?",
+   "answer": "AC"
+  }
+ },
+ {
+  "id": "vnm_10_10",
+  "subject": "math",
+  "name": "Tích của một vectơ với một số",
+  "grade": 10,
+  "stage": "thpt",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chương IV. Vectơ",
+  "type": "procedural",
+  "description": "Vectơ k·a; điều kiện cùng phương; ba điểm thẳng hàng; biểu thị một vectơ qua hai vectơ không cùng phương.",
+  "diagnostic_question": {
+   "question": "Vectơ a có độ dài 3. Độ dài của vectơ −2a là bao nhiêu?",
+   "answer": "6"
+  }
+ },
+ {
+  "id": "vnm_10_11",
+  "subject": "math",
+  "name": "Vectơ trong mặt phẳng tọa độ",
+  "grade": 10,
+  "stage": "thpt",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chương IV. Vectơ",
+  "type": "procedural",
+  "description": "Tọa độ vectơ, tọa độ điểm; biểu thức tọa độ các phép toán; trung điểm, trọng tâm.",
+  "diagnostic_question": {
+   "question": "Cho A(1; 2), B(4; 6). Tìm tọa độ vectơ AB.",
+   "answer": "(3;4)"
+  }
+ },
+ {
+  "id": "vnm_10_12",
+  "subject": "math",
+  "name": "Tích vô hướng của hai vectơ",
+  "grade": 10,
+  "stage": "thpt",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chương IV. Vectơ",
+  "type": "procedural",
+  "description": "a·b = |a||b|cos(a, b) = x₁x₂ + y₁y₂; góc giữa hai vectơ; a ⊥ b ⇔ a·b = 0.",
+  "diagnostic_question": {
+   "question": "Cho a = (2; 3), b = (4; −1). Tính a·b.",
+   "answer": "5"
+  }
+ },
+ {
+  "id": "vnm_10_13",
+  "subject": "math",
+  "name": "Số gần đúng và sai số",
+  "grade": 10,
+  "stage": "thpt",
+  "domain": "Thống kê và Xác suất",
+  "chapter": "Chương V. Các số đặc trưng của mẫu số liệu không ghép nhóm",
+  "type": "procedural",
+  "description": "Số gần đúng, sai số tuyệt đối, độ chính xác, sai số tương đối; quy tròn số.",
+  "diagnostic_question": {
+   "question": "Quy tròn số 3,14159 đến hàng phần nghìn.",
+   "answer": "3,142"
+  }
+ },
+ {
+  "id": "vnm_10_14",
+  "subject": "math",
+  "name": "Các số đặc trưng đo xu thế trung tâm",
+  "grade": 10,
+  "stage": "thpt",
+  "domain": "Thống kê và Xác suất",
+  "chapter": "Chương V. Các số đặc trưng của mẫu số liệu không ghép nhóm",
+  "type": "procedural",
+  "description": "Số trung bình, trung vị, mốt, tứ phân vị của mẫu số liệu không ghép nhóm.",
+  "diagnostic_question": {
+   "question": "Tính số trung bình của mẫu: 4; 6; 8; 10; 12.",
+   "answer": "8"
+  }
+ },
+ {
+  "id": "vnm_10_15",
+  "subject": "math",
+  "name": "Các số đặc trưng đo độ phân tán",
+  "grade": 10,
+  "stage": "thpt",
+  "domain": "Thống kê và Xác suất",
+  "chapter": "Chương V. Các số đặc trưng của mẫu số liệu không ghép nhóm",
+  "type": "procedural",
+  "description": "Khoảng biến thiên, khoảng tứ phân vị, phương sai, độ lệch chuẩn; giá trị bất thường.",
+  "diagnostic_question": {
+   "question": "Tính khoảng biến thiên của mẫu: 5; 12; 8; 20; 3.",
+   "answer": "17"
+  }
+ },
+ {
+  "id": "vnm_10_16",
+  "subject": "math",
+  "name": "Hàm số; tập xác định; đồng biến, nghịch biến",
+  "grade": 10,
+  "stage": "thpt",
+  "domain": "Đại số và Một số yếu tố Giải tích",
+  "chapter": "Chương VI. Hàm số, đồ thị và ứng dụng",
+  "type": "conceptual",
+  "description": "Tập xác định, tập giá trị; đồ thị; hàm số đồng biến, nghịch biến trên khoảng.",
+  "diagnostic_question": {
+   "question": "Tìm tập xác định của y = 1/(x − 3).",
+   "answer": "ℝ\\{3}"
+  }
+ },
+ {
+  "id": "vnm_10_17",
+  "subject": "math",
+  "name": "Hàm số bậc hai",
+  "grade": 10,
+  "stage": "thpt",
+  "domain": "Đại số và Một số yếu tố Giải tích",
+  "chapter": "Chương VI. Hàm số, đồ thị và ứng dụng",
+  "type": "procedural",
+  "description": "y = ax² + bx + c; đỉnh (−b/2a; −Δ/4a); trục đối xứng; khoảng đồng biến, nghịch biến; vẽ parabol.",
+  "diagnostic_question": {
+   "question": "Parabol y = x² − 4x + 3 có trục đối xứng x = ?",
+   "answer": "2"
+  }
+ },
+ {
+  "id": "vnm_10_18",
+  "subject": "math",
+  "name": "Dấu của tam thức bậc hai; bất phương trình bậc hai",
+  "grade": 10,
+  "stage": "thpt",
+  "domain": "Đại số và Một số yếu tố Giải tích",
+  "chapter": "Chương VI. Hàm số, đồ thị và ứng dụng",
+  "type": "procedural",
+  "description": "Định lí về dấu của tam thức bậc hai; giải bất phương trình bậc hai một ẩn.",
+  "diagnostic_question": {
+   "question": "Giải bất phương trình x² − 4 < 0.",
+   "answer": "(-2;2)"
+  }
+ },
+ {
+  "id": "vnm_10_19",
+  "subject": "math",
+  "name": "Phương trình quy về phương trình bậc hai",
+  "grade": 10,
+  "stage": "thpt",
+  "domain": "Đại số và Một số yếu tố Giải tích",
+  "chapter": "Chương VI. Hàm số, đồ thị và ứng dụng",
+  "type": "procedural",
+  "description": "Phương trình dạng √(ax² + bx + c) = √(dx² + ex + f) và √(ax² + bx + c) = dx + e.",
+  "diagnostic_question": {
+   "question": "Giải phương trình √(x + 3) = 3.",
+   "answer": "6"
+  }
+ },
+ {
+  "id": "vnm_10_20",
+  "subject": "math",
+  "name": "Phương trình đường thẳng",
+  "grade": 10,
+  "stage": "thpt",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chương VII. Phương pháp tọa độ trong mặt phẳng",
+  "type": "procedural",
+  "description": "Vectơ pháp tuyến, chỉ phương; phương trình tổng quát, tham số.",
+  "diagnostic_question": {
+   "question": "Đường thẳng 2x − 3y + 1 = 0 có một vectơ pháp tuyến là:",
+   "answer": "A"
+  }
+ },
+ {
+  "id": "vnm_10_21",
+  "subject": "math",
+  "name": "Vị trí tương đối, góc và khoảng cách",
+  "grade": 10,
+  "stage": "thpt",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chương VII. Phương pháp tọa độ trong mặt phẳng",
+  "type": "procedural",
+  "description": "Vị trí tương đối hai đường thẳng; góc giữa hai đường thẳng; khoảng cách từ điểm đến đường thẳng.",
+  "diagnostic_question": {
+   "question": "Hai đường thẳng x + 2y − 1 = 0 và 2x + 4y + 3 = 0:",
+   "answer": "B"
+  }
+ },
+ {
+  "id": "vnm_10_22",
+  "subject": "math",
+  "name": "Đường tròn trong mặt phẳng tọa độ",
+  "grade": 10,
+  "stage": "thpt",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chương VII. Phương pháp tọa độ trong mặt phẳng",
+  "type": "procedural",
+  "description": "(x − a)² + (y − b)² = R²; nhận dạng x² + y² − 2ax − 2by + c = 0; tiếp tuyến.",
+  "diagnostic_question": {
+   "question": "Đường tròn (x − 1)² + (y + 2)² = 9 có bán kính bằng bao nhiêu?",
+   "answer": "3"
+  }
+ },
+ {
+  "id": "vnm_10_23",
+  "subject": "math",
+  "name": "Ba đường conic",
+  "grade": 10,
+  "stage": "thpt",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chương VII. Phương pháp tọa độ trong mặt phẳng",
+  "type": "procedural",
+  "description": "Phương trình chính tắc của elip, hypebol, parabol; các yếu tố cơ bản.",
+  "diagnostic_question": {
+   "question": "Elip x²/25 + y²/9 = 1 có độ dài trục lớn bằng bao nhiêu?",
+   "answer": "10"
+  }
+ },
+ {
+  "id": "vnm_10_24",
+  "subject": "math",
+  "name": "Quy tắc cộng, quy tắc nhân; sơ đồ hình cây",
+  "grade": 10,
+  "stage": "thpt",
+  "domain": "Thống kê và Xác suất",
+  "chapter": "Chương VIII. Đại số tổ hợp",
+  "type": "procedural",
+  "description": "Đếm bằng quy tắc cộng, quy tắc nhân, sơ đồ hình cây.",
+  "diagnostic_question": {
+   "question": "Có 3 áo và 4 quần. Có bao nhiêu cách chọn một bộ quần áo?",
+   "answer": "12"
+  }
+ },
+ {
+  "id": "vnm_10_25",
+  "subject": "math",
+  "name": "Hoán vị, chỉnh hợp, tổ hợp",
+  "grade": 10,
+  "stage": "thpt",
+  "domain": "Thống kê và Xác suất",
+  "chapter": "Chương VIII. Đại số tổ hợp",
+  "type": "procedural",
+  "description": "Pₙ = n!; Aₙᵏ = n!/(n − k)!; Cₙᵏ = n!/(k!(n − k)!).",
+  "diagnostic_question": {
+   "question": "Có bao nhiêu cách xếp 4 bạn ngồi vào một hàng 4 ghế?",
+   "answer": "24"
+  }
+ },
+ {
+  "id": "vnm_10_26",
+  "subject": "math",
+  "name": "Nhị thức Newton",
+  "grade": 10,
+  "stage": "thpt",
+  "domain": "Thống kê và Xác suất",
+  "chapter": "Chương VIII. Đại số tổ hợp",
+  "type": "procedural",
+  "description": "Khai triển (a + b)ⁿ với n ≤ 5; hệ số trong khai triển.",
+  "diagnostic_question": {
+   "question": "Khai triển (a + b)⁴ có bao nhiêu số hạng?",
+   "answer": "5"
+  }
+ },
+ {
+  "id": "vnm_10_27",
+  "subject": "math",
+  "name": "Biến cố và định nghĩa cổ điển của xác suất",
+  "grade": 10,
+  "stage": "thpt",
+  "domain": "Thống kê và Xác suất",
+  "chapter": "Chương IX. Tính xác suất theo định nghĩa cổ điển",
+  "type": "procedural",
+  "description": "Không gian mẫu, biến cố; P(A) = n(A)/n(Ω); biến cố đối; dùng tổ hợp để đếm.",
+  "diagnostic_question": {
+   "question": "Gieo hai xúc xắc. Xác suất để hai mặt có số chấm bằng nhau là bao nhiêu?",
+   "answer": "1/6"
+  }
+ },
+ {
+  "id": "vnm_11_01",
+  "subject": "math",
+  "name": "Góc lượng giác; đơn vị radian",
+  "grade": 11,
+  "stage": "thpt",
+  "domain": "Đại số và Một số yếu tố Giải tích",
+  "chapter": "Chương I. Hàm số lượng giác và phương trình lượng giác",
+  "type": "conceptual",
+  "description": "Góc lượng giác, số đo radian; đổi độ ↔ radian; độ dài cung tròn l = Rα.",
+  "diagnostic_question": {
+   "question": "Đổi 60° sang radian.",
+   "answer": "π/3"
+  }
+ },
+ {
+  "id": "vnm_11_02",
+  "subject": "math",
+  "name": "Giá trị lượng giác của góc lượng giác",
+  "grade": 11,
+  "stage": "thpt",
+  "domain": "Đại số và Một số yếu tố Giải tích",
+  "chapter": "Chương I. Hàm số lượng giác và phương trình lượng giác",
+  "type": "procedural",
+  "description": "Đường tròn lượng giác; sin, cos, tan, cot; hệ thức cơ bản; giá trị góc liên quan đặc biệt.",
+  "diagnostic_question": {
+   "question": "Tính sin(π/2).",
+   "answer": "1"
+  }
+ },
+ {
+  "id": "vnm_11_03",
+  "subject": "math",
+  "name": "Các phép biến đổi lượng giác",
+  "grade": 11,
+  "stage": "thpt",
+  "domain": "Đại số và Một số yếu tố Giải tích",
+  "chapter": "Chương I. Hàm số lượng giác và phương trình lượng giác",
+  "type": "procedural",
+  "description": "Công thức cộng, nhân đôi, biến đổi tích thành tổng và tổng thành tích.",
+  "diagnostic_question": {
+   "question": "Biết sin α = 3/5, cos α = 4/5. Tính sin 2α.",
+   "answer": "24/25"
+  }
+ },
+ {
+  "id": "vnm_11_04",
+  "subject": "math",
+  "name": "Hàm số lượng giác",
+  "grade": 11,
+  "stage": "thpt",
+  "domain": "Đại số và Một số yếu tố Giải tích",
+  "chapter": "Chương I. Hàm số lượng giác và phương trình lượng giác",
+  "type": "procedural",
+  "description": "Tập xác định, tính chẵn lẻ, tính tuần hoàn, đồ thị của y = sin x, cos x, tan x, cot x.",
+  "diagnostic_question": {
+   "question": "Chu kì tuần hoàn của hàm số y = sin x là bao nhiêu?",
+   "answer": "2π"
+  }
+ },
+ {
+  "id": "vnm_11_05",
+  "subject": "math",
+  "name": "Phương trình lượng giác cơ bản",
+  "grade": 11,
+  "stage": "thpt",
+  "domain": "Đại số và Một số yếu tố Giải tích",
+  "chapter": "Chương I. Hàm số lượng giác và phương trình lượng giác",
+  "type": "procedural",
+  "description": "Giải sin x = m, cos x = m, tan x = m, cot x = m.",
+  "diagnostic_question": {
+   "question": "Phương trình sin x = 2:",
+   "answer": "A"
+  }
+ },
+ {
+  "id": "vnm_11_06",
+  "subject": "math",
+  "name": "Dãy số",
+  "grade": 11,
+  "stage": "thpt",
+  "domain": "Đại số và Một số yếu tố Giải tích",
+  "chapter": "Chương II. Dãy số. Cấp số cộng và cấp số nhân",
+  "type": "conceptual",
+  "description": "Dãy số hữu hạn, vô hạn; cho bằng công thức số hạng tổng quát, truy hồi; dãy tăng, giảm, bị chặn.",
+  "diagnostic_question": {
+   "question": "Dãy uₙ = 2n + 1. Tính u₅.",
+   "answer": "11"
+  }
+ },
+ {
+  "id": "vnm_11_07",
+  "subject": "math",
+  "name": "Cấp số cộng",
+  "grade": 11,
+  "stage": "thpt",
+  "domain": "Đại số và Một số yếu tố Giải tích",
+  "chapter": "Chương II. Dãy số. Cấp số cộng và cấp số nhân",
+  "type": "procedural",
+  "description": "uₙ = u₁ + (n − 1)d; Sₙ = n(u₁ + uₙ)/2.",
+  "diagnostic_question": {
+   "question": "Cấp số cộng có u₁ = 3, d = 4. Tính u₁₀.",
+   "answer": "39"
+  }
+ },
+ {
+  "id": "vnm_11_08",
+  "subject": "math",
+  "name": "Cấp số nhân",
+  "grade": 11,
+  "stage": "thpt",
+  "domain": "Đại số và Một số yếu tố Giải tích",
+  "chapter": "Chương II. Dãy số. Cấp số cộng và cấp số nhân",
+  "type": "procedural",
+  "description": "uₙ = u₁qⁿ⁻¹; Sₙ = u₁(1 − qⁿ)/(1 − q) (q ≠ 1).",
+  "diagnostic_question": {
+   "question": "Cấp số nhân có u₁ = 2, q = 3. Tính u₄.",
+   "answer": "54"
+  }
+ },
+ {
+  "id": "vnm_11_09",
+  "subject": "math",
+  "name": "Mẫu số liệu ghép nhóm; số đặc trưng đo xu thế trung tâm",
+  "grade": 11,
+  "stage": "thpt",
+  "domain": "Thống kê và Xác suất",
+  "chapter": "Chương III. Các số đặc trưng đo xu thế trung tâm của mẫu số liệu ghép nhóm",
+  "type": "procedural",
+  "description": "Bảng tần số ghép nhóm; số trung bình (giá trị đại diện), trung vị, tứ phân vị, mốt.",
+  "diagnostic_question": {
+   "question": "Nhóm [10; 20) có giá trị đại diện là bao nhiêu?",
+   "answer": "15"
+  }
+ },
+ {
+  "id": "vnm_11_10",
+  "subject": "math",
+  "name": "Đường thẳng và mặt phẳng trong không gian",
+  "grade": 11,
+  "stage": "thpt",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chương IV. Quan hệ song song trong không gian",
+  "type": "conceptual",
+  "description": "Các tính chất thừa nhận; cách xác định mặt phẳng; hình chóp, hình tứ diện; giao tuyến.",
+  "diagnostic_question": {
+   "question": "Một mặt phẳng được xác định duy nhất khi biết:",
+   "answer": "B"
+  }
+ },
+ {
+  "id": "vnm_11_11",
+  "subject": "math",
+  "name": "Hai đường thẳng song song; đường thẳng song song với mặt phẳng",
+  "grade": 11,
+  "stage": "thpt",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chương IV. Quan hệ song song trong không gian",
+  "type": "procedural",
+  "description": "Vị trí tương đối hai đường thẳng (kể cả chéo nhau); điều kiện đường thẳng song song mặt phẳng.",
+  "diagnostic_question": {
+   "question": "Hai đường thẳng không cùng nằm trong một mặt phẳng gọi là:",
+   "answer": "B"
+  }
+ },
+ {
+  "id": "vnm_11_12",
+  "subject": "math",
+  "name": "Hai mặt phẳng song song; phép chiếu song song",
+  "grade": 11,
+  "stage": "thpt",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chương IV. Quan hệ song song trong không gian",
+  "type": "conceptual",
+  "description": "Điều kiện và tính chất hai mặt phẳng song song; hình lăng trụ, hình hộp; phép chiếu song song.",
+  "diagnostic_question": {
+   "question": "Mặt phẳng (P) chứa hai đường thẳng cắt nhau cùng song song với (Q). Khi đó:",
+   "answer": "B"
+  }
+ },
+ {
+  "id": "vnm_11_13",
+  "subject": "math",
+  "name": "Giới hạn của dãy số",
+  "grade": 11,
+  "stage": "thpt",
+  "domain": "Đại số và Một số yếu tố Giải tích",
+  "chapter": "Chương V. Giới hạn. Hàm số liên tục",
+  "type": "procedural",
+  "description": "lim 1/n = 0; lim qⁿ = 0 (|q| < 1); các phép toán; tổng cấp số nhân lùi vô hạn S = u₁/(1 − q).",
+  "diagnostic_question": {
+   "question": "Tính lim (2n + 1)/n.",
+   "answer": "2"
+  }
+ },
+ {
+  "id": "vnm_11_14",
+  "subject": "math",
+  "name": "Giới hạn của hàm số",
+  "grade": 11,
+  "stage": "thpt",
+  "domain": "Đại số và Một số yếu tố Giải tích",
+  "chapter": "Chương V. Giới hạn. Hàm số liên tục",
+  "type": "procedural",
+  "description": "Giới hạn hữu hạn tại một điểm, tại vô cực; giới hạn một bên; giới hạn vô cực; dạng 0/0.",
+  "diagnostic_question": {
+   "question": "Tính lim (x→2) (x² + 1).",
+   "answer": "5"
+  }
+ },
+ {
+  "id": "vnm_11_15",
+  "subject": "math",
+  "name": "Hàm số liên tục",
+  "grade": 11,
+  "stage": "thpt",
+  "domain": "Đại số và Một số yếu tố Giải tích",
+  "chapter": "Chương V. Giới hạn. Hàm số liên tục",
+  "type": "procedural",
+  "description": "Liên tục tại một điểm, trên khoảng; tính liên tục của hàm sơ cấp.",
+  "diagnostic_question": {
+   "question": "Hàm số y = 1/x liên tục trên:",
+   "answer": "B"
+  }
+ },
+ {
+  "id": "vnm_11_16",
+  "subject": "math",
+  "name": "Luỹ thừa với số mũ thực",
+  "grade": 11,
+  "stage": "thpt",
+  "domain": "Đại số và Một số yếu tố Giải tích",
+  "chapter": "Chương VI. Hàm số mũ và hàm số lôgarit",
+  "type": "procedural",
+  "description": "Luỹ thừa với số mũ nguyên, hữu tỉ, thực; căn bậc n; tính chất.",
+  "diagnostic_question": {
+   "question": "Tính 8^(1/3).",
+   "answer": "2"
+  }
+ },
+ {
+  "id": "vnm_11_17",
+  "subject": "math",
+  "name": "Lôgarit",
+  "grade": 11,
+  "stage": "thpt",
+  "domain": "Đại số và Một số yếu tố Giải tích",
+  "chapter": "Chương VI. Hàm số mũ và hàm số lôgarit",
+  "type": "procedural",
+  "description": "logₐb = α ⇔ aᵅ = b; tính chất, quy tắc tính; lôgarit thập phân, tự nhiên; đổi cơ số.",
+  "diagnostic_question": {
+   "question": "Tính log₂8.",
+   "answer": "3"
+  }
+ },
+ {
+  "id": "vnm_11_18",
+  "subject": "math",
+  "name": "Hàm số mũ, hàm số lôgarit",
+  "grade": 11,
+  "stage": "thpt",
+  "domain": "Đại số và Một số yếu tố Giải tích",
+  "chapter": "Chương VI. Hàm số mũ và hàm số lôgarit",
+  "type": "conceptual",
+  "description": "Tập xác định, tính đơn điệu, đồ thị của y = aˣ, y = logₐx.",
+  "diagnostic_question": {
+   "question": "Tìm tập xác định của y = log₂(x − 1).",
+   "answer": "(1;+∞)"
+  }
+ },
+ {
+  "id": "vnm_11_19",
+  "subject": "math",
+  "name": "Phương trình, bất phương trình mũ và lôgarit",
+  "grade": 11,
+  "stage": "thpt",
+  "domain": "Đại số và Một số yếu tố Giải tích",
+  "chapter": "Chương VI. Hàm số mũ và hàm số lôgarit",
+  "type": "procedural",
+  "description": "Giải aˣ = b, logₐx = b và các bất phương trình mũ, lôgarit cơ bản.",
+  "diagnostic_question": {
+   "question": "Giải phương trình 2ˣ = 16.",
+   "answer": "4"
+  }
+ },
+ {
+  "id": "vnm_11_20",
+  "subject": "math",
+  "name": "Hai đường thẳng vuông góc",
+  "grade": 11,
+  "stage": "thpt",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chương VII. Quan hệ vuông góc trong không gian",
+  "type": "procedural",
+  "description": "Góc giữa hai đường thẳng trong không gian; hai đường thẳng vuông góc.",
+  "diagnostic_question": {
+   "question": "Góc giữa hai đường thẳng song song bằng bao nhiêu độ?",
+   "answer": "0"
+  }
+ },
+ {
+  "id": "vnm_11_21",
+  "subject": "math",
+  "name": "Đường thẳng vuông góc với mặt phẳng",
+  "grade": 11,
+  "stage": "thpt",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chương VII. Quan hệ vuông góc trong không gian",
+  "type": "procedural",
+  "description": "Điều kiện: vuông góc với hai đường thẳng cắt nhau trong mặt phẳng; tính chất; định lí ba đường vuông góc.",
+  "diagnostic_question": {
+   "question": "Đường thẳng d vuông góc với mặt phẳng (P) khi d vuông góc với:",
+   "answer": "B"
+  }
+ },
+ {
+  "id": "vnm_11_22",
+  "subject": "math",
+  "name": "Phép chiếu vuông góc; góc giữa đường thẳng và mặt phẳng",
+  "grade": 11,
+  "stage": "thpt",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chương VII. Quan hệ vuông góc trong không gian",
+  "type": "procedural",
+  "description": "Hình chiếu vuông góc; góc giữa đường thẳng và hình chiếu của nó trên mặt phẳng.",
+  "diagnostic_question": {
+   "question": "Đường thẳng vuông góc với mặt phẳng thì góc giữa chúng bằng bao nhiêu độ?",
+   "answer": "90"
+  }
+ },
+ {
+  "id": "vnm_11_23",
+  "subject": "math",
+  "name": "Hai mặt phẳng vuông góc; góc nhị diện",
+  "grade": 11,
+  "stage": "thpt",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chương VII. Quan hệ vuông góc trong không gian",
+  "type": "procedural",
+  "description": "Góc giữa hai mặt phẳng; góc nhị diện; điều kiện hai mặt phẳng vuông góc; hình lăng trụ đứng, hình chóp đều.",
+  "diagnostic_question": {
+   "question": "Mặt phẳng (P) chứa một đường thẳng vuông góc với (Q) thì:",
+   "answer": "B"
+  }
+ },
+ {
+  "id": "vnm_11_24",
+  "subject": "math",
+  "name": "Khoảng cách trong không gian",
+  "grade": 11,
+  "stage": "thpt",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chương VII. Quan hệ vuông góc trong không gian",
+  "type": "procedural",
+  "description": "Khoảng cách từ điểm đến mặt phẳng, giữa đường và mặt song song, giữa hai đường thẳng chéo nhau (đơn giản).",
+  "diagnostic_question": {
+   "question": "Hình lập phương cạnh 2. Khoảng cách giữa hai mặt đối diện bằng bao nhiêu?",
+   "answer": "2"
+  }
+ },
+ {
+  "id": "vnm_11_25",
+  "subject": "math",
+  "name": "Thể tích khối lăng trụ, khối chóp, khối chóp cụt đều",
+  "grade": 11,
+  "stage": "thpt",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chương VII. Quan hệ vuông góc trong không gian",
+  "type": "procedural",
+  "description": "V lăng trụ = B·h; V chóp = B·h/3; V chóp cụt = h(B + B' + √(BB'))/3.",
+  "diagnostic_question": {
+   "question": "Khối chóp có diện tích đáy 9, chiều cao 4. Thể tích bằng bao nhiêu?",
+   "answer": "12"
+  }
+ },
+ {
+  "id": "vnm_11_26",
+  "subject": "math",
+  "name": "Biến cố hợp, biến cố giao; biến cố độc lập",
+  "grade": 11,
+  "stage": "thpt",
+  "domain": "Thống kê và Xác suất",
+  "chapter": "Chương VIII. Các quy tắc tính xác suất",
+  "type": "conceptual",
+  "description": "A ∪ B, A ∩ B; biến cố xung khắc; hai biến cố độc lập.",
+  "diagnostic_question": {
+   "question": "Gieo xúc xắc. A: \"ra mặt chẵn\", B: \"ra mặt lẻ\". A và B là hai biến cố:",
+   "answer": "B"
+  }
+ },
+ {
+  "id": "vnm_11_27",
+  "subject": "math",
+  "name": "Công thức cộng xác suất; công thức nhân xác suất cho hai biến cố độc lập",
+  "grade": 11,
+  "stage": "thpt",
+  "domain": "Thống kê và Xác suất",
+  "chapter": "Chương VIII. Các quy tắc tính xác suất",
+  "type": "procedural",
+  "description": "P(A ∪ B) = P(A) + P(B) − P(AB); P(AB) = P(A)P(B) nếu A, B độc lập.",
+  "diagnostic_question": {
+   "question": "A, B độc lập, P(A) = 0,5, P(B) = 0,4. Tính P(AB).",
+   "answer": "0,2"
+  }
+ },
+ {
+  "id": "vnm_11_28",
+  "subject": "math",
+  "name": "Định nghĩa và ý nghĩa của đạo hàm",
+  "grade": 11,
+  "stage": "thpt",
+  "domain": "Đại số và Một số yếu tố Giải tích",
+  "chapter": "Chương IX. Đạo hàm",
+  "type": "procedural",
+  "description": "Đạo hàm tại một điểm; ý nghĩa hình học (hệ số góc tiếp tuyến), ý nghĩa vật lí (vận tốc tức thời).",
+  "diagnostic_question": {
+   "question": "Cho f(x) = x². Theo định nghĩa, f'(3) bằng bao nhiêu?",
+   "answer": "6"
+  }
+ },
+ {
+  "id": "vnm_11_29",
+  "subject": "math",
+  "name": "Các quy tắc tính đạo hàm",
+  "grade": 11,
+  "stage": "thpt",
+  "domain": "Đại số và Một số yếu tố Giải tích",
+  "chapter": "Chương IX. Đạo hàm",
+  "type": "procedural",
+  "description": "Đạo hàm của xⁿ, √x, sin, cos, tan, aˣ, logₐx; đạo hàm tổng, tích, thương, hàm hợp.",
+  "diagnostic_question": {
+   "question": "Tính đạo hàm của y = x³ + 2x.",
+   "answer": "3x^2+2"
+  }
+ },
+ {
+  "id": "vnm_11_30",
+  "subject": "math",
+  "name": "Đạo hàm cấp hai",
+  "grade": 11,
+  "stage": "thpt",
+  "domain": "Đại số và Một số yếu tố Giải tích",
+  "chapter": "Chương IX. Đạo hàm",
+  "type": "procedural",
+  "description": "f''(x) = (f'(x))'; ý nghĩa: gia tốc tức thời.",
+  "diagnostic_question": {
+   "question": "Tính đạo hàm cấp hai của y = x³.",
+   "answer": "6x"
+  }
+ },
+ {
+  "id": "vnm_12_01",
+  "subject": "math",
+  "name": "Tính đơn điệu và cực trị của hàm số",
+  "grade": 12,
+  "stage": "thpt",
+  "domain": "Đại số và Một số yếu tố Giải tích",
+  "chapter": "Chương I. Ứng dụng đạo hàm để khảo sát và vẽ đồ thị của hàm số",
+  "type": "procedural",
+  "description": "Xét dấu đạo hàm để tìm khoảng đồng biến, nghịch biến; điểm cực đại, cực tiểu.",
+  "diagnostic_question": {
+   "question": "Hàm số y = x² − 4x đồng biến trên khoảng nào?",
+   "answer": "(2;+∞)"
+  }
+ },
+ {
+  "id": "vnm_12_02",
+  "subject": "math",
+  "name": "Giá trị lớn nhất, giá trị nhỏ nhất của hàm số",
+  "grade": 12,
+  "stage": "thpt",
+  "domain": "Đại số và Một số yếu tố Giải tích",
+  "chapter": "Chương I. Ứng dụng đạo hàm để khảo sát và vẽ đồ thị của hàm số",
+  "type": "procedural",
+  "description": "Tìm GTLN, GTNN trên đoạn bằng cách so sánh giá trị tại điểm tới hạn và hai đầu mút.",
+  "diagnostic_question": {
+   "question": "Giá trị lớn nhất của y = −x² + 4x trên ℝ là bao nhiêu?",
+   "answer": "4"
+  }
+ },
+ {
+  "id": "vnm_12_03",
+  "subject": "math",
+  "name": "Đường tiệm cận của đồ thị hàm số",
+  "grade": 12,
+  "stage": "thpt",
+  "domain": "Đại số và Một số yếu tố Giải tích",
+  "chapter": "Chương I. Ứng dụng đạo hàm để khảo sát và vẽ đồ thị của hàm số",
+  "type": "procedural",
+  "description": "Tiệm cận đứng, tiệm cận ngang, tiệm cận xiên.",
+  "diagnostic_question": {
+   "question": "Đồ thị y = (2x + 1)/(x − 3) có tiệm cận đứng x = ?",
+   "answer": "3"
+  }
+ },
+ {
+  "id": "vnm_12_04",
+  "subject": "math",
+  "name": "Khảo sát sự biến thiên và vẽ đồ thị hàm số",
+  "grade": 12,
+  "stage": "thpt",
+  "domain": "Đại số và Một số yếu tố Giải tích",
+  "chapter": "Chương I. Ứng dụng đạo hàm để khảo sát và vẽ đồ thị của hàm số",
+  "type": "procedural",
+  "description": "Khảo sát hàm bậc ba, y = (ax + b)/(cx + d), y = (ax² + bx + c)/(mx + n); đọc đồ thị.",
+  "diagnostic_question": {
+   "question": "Đồ thị hàm số bậc ba y = ax³ + … với a > 0 có dạng: khi x → +∞ thì y →",
+   "answer": "A"
+  }
+ },
+ {
+  "id": "vnm_12_05",
+  "subject": "math",
+  "name": "Ứng dụng đạo hàm giải bài toán thực tiễn",
+  "grade": 12,
+  "stage": "thpt",
+  "domain": "Đại số và Một số yếu tố Giải tích",
+  "chapter": "Chương I. Ứng dụng đạo hàm để khảo sát và vẽ đồ thị của hàm số",
+  "type": "procedural",
+  "description": "Tối ưu hóa: diện tích, thể tích, chi phí, lợi nhuận lớn nhất / nhỏ nhất.",
+  "diagnostic_question": {
+   "question": "Hình chữ nhật có chu vi 20 m. Diện tích lớn nhất là bao nhiêu m²?",
+   "answer": "25"
+  }
+ },
+ {
+  "id": "vnm_12_06",
+  "subject": "math",
+  "name": "Vectơ trong không gian",
+  "grade": 12,
+  "stage": "thpt",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chương II. Vectơ và hệ trục tọa độ trong không gian",
+  "type": "procedural",
+  "description": "Các khái niệm, phép cộng, trừ, nhân với số, tích vô hướng của vectơ trong không gian.",
+  "diagnostic_question": {
+   "question": "Hình hộp ABCD.A'B'C'D'. Theo quy tắc hình hộp, AB + AD + AA' (vectơ) bằng vectơ nào?",
+   "answer": "AC'"
+  }
+ },
+ {
+  "id": "vnm_12_07",
+  "subject": "math",
+  "name": "Hệ trục tọa độ trong không gian",
+  "grade": 12,
+  "stage": "thpt",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chương II. Vectơ và hệ trục tọa độ trong không gian",
+  "type": "procedural",
+  "description": "Hệ trục Oxyz; tọa độ điểm, tọa độ vectơ.",
+  "diagnostic_question": {
+   "question": "Hình chiếu vuông góc của M(2; −1; 3) lên mặt phẳng (Oxy) là điểm nào?",
+   "answer": "(2;-1;0)"
+  }
+ },
+ {
+  "id": "vnm_12_08",
+  "subject": "math",
+  "name": "Biểu thức tọa độ của các phép toán vectơ",
+  "grade": 12,
+  "stage": "thpt",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chương II. Vectơ và hệ trục tọa độ trong không gian",
+  "type": "procedural",
+  "description": "Tổng, hiệu, tích với số, tích vô hướng, độ dài, góc theo tọa độ.",
+  "diagnostic_question": {
+   "question": "Cho a = (1; 2; 2). Tính |a|.",
+   "answer": "3"
+  }
+ },
+ {
+  "id": "vnm_12_09",
+  "subject": "math",
+  "name": "Số đặc trưng đo mức độ phân tán của mẫu số liệu ghép nhóm",
+  "grade": 12,
+  "stage": "thpt",
+  "domain": "Thống kê và Xác suất",
+  "chapter": "Chương III. Các số đặc trưng đo mức độ phân tán cho mẫu số liệu ghép nhóm",
+  "type": "procedural",
+  "description": "Khoảng biến thiên, khoảng tứ phân vị, phương sai, độ lệch chuẩn của mẫu ghép nhóm.",
+  "diagnostic_question": {
+   "question": "Mẫu ghép nhóm có các nhóm [10; 15), [15; 20), [20; 25). Khoảng biến thiên là bao nhiêu?",
+   "answer": "15"
+  }
+ },
+ {
+  "id": "vnm_12_10",
+  "subject": "math",
+  "name": "Nguyên hàm",
+  "grade": 12,
+  "stage": "thpt",
+  "domain": "Đại số và Một số yếu tố Giải tích",
+  "chapter": "Chương IV. Nguyên hàm và tích phân",
+  "type": "procedural",
+  "description": "F'(x) = f(x); nguyên hàm của các hàm số sơ cấp cơ bản; tính chất.",
+  "diagnostic_question": {
+   "question": "Tìm một nguyên hàm của f(x) = 2x.",
+   "answer": "x^2"
+  }
+ },
+ {
+  "id": "vnm_12_11",
+  "subject": "math",
+  "name": "Tích phân",
+  "grade": 12,
+  "stage": "thpt",
+  "domain": "Đại số và Một số yếu tố Giải tích",
+  "chapter": "Chương IV. Nguyên hàm và tích phân",
+  "type": "procedural",
+  "description": "∫ₐᵇ f(x)dx = F(b) − F(a); tính chất của tích phân.",
+  "diagnostic_question": {
+   "question": "Tính ∫₀¹ 2x dx.",
+   "answer": "1"
+  }
+ },
+ {
+  "id": "vnm_12_12",
+  "subject": "math",
+  "name": "Ứng dụng hình học của tích phân",
+  "grade": 12,
+  "stage": "thpt",
+  "domain": "Đại số và Một số yếu tố Giải tích",
+  "chapter": "Chương IV. Nguyên hàm và tích phân",
+  "type": "procedural",
+  "description": "Diện tích hình phẳng; thể tích vật thể, khối tròn xoay.",
+  "diagnostic_question": {
+   "question": "Tính diện tích hình phẳng giới hạn bởi y = x², trục Ox, x = 0, x = 3.",
+   "answer": "9"
+  }
+ },
+ {
+  "id": "vnm_12_13",
+  "subject": "math",
+  "name": "Phương trình mặt phẳng",
+  "grade": 12,
+  "stage": "thpt",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chương V. Phương pháp tọa độ trong không gian",
+  "type": "procedural",
+  "description": "Vectơ pháp tuyến; phương trình tổng quát Ax + By + Cz + D = 0; khoảng cách từ điểm đến mặt phẳng.",
+  "diagnostic_question": {
+   "question": "Mặt phẳng 2x − y + 3z − 1 = 0 có một vectơ pháp tuyến là:",
+   "answer": "(2;-1;3)"
+  }
+ },
+ {
+  "id": "vnm_12_14",
+  "subject": "math",
+  "name": "Phương trình đường thẳng trong không gian",
+  "grade": 12,
+  "stage": "thpt",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chương V. Phương pháp tọa độ trong không gian",
+  "type": "procedural",
+  "description": "Phương trình tham số, chính tắc; vị trí tương đối; góc giữa đường thẳng và mặt phẳng.",
+  "diagnostic_question": {
+   "question": "Đường thẳng x = 1 + 2t, y = −t, z = 3 + t có một vectơ chỉ phương là:",
+   "answer": "(2;-1;1)"
+  }
+ },
+ {
+  "id": "vnm_12_15",
+  "subject": "math",
+  "name": "Phương trình mặt cầu",
+  "grade": 12,
+  "stage": "thpt",
+  "domain": "Hình học và Đo lường",
+  "chapter": "Chương V. Phương pháp tọa độ trong không gian",
+  "type": "procedural",
+  "description": "(x − a)² + (y − b)² + (z − c)² = R²; nhận dạng phương trình mặt cầu.",
+  "diagnostic_question": {
+   "question": "Mặt cầu (x − 1)² + y² + (z + 2)² = 16 có bán kính bằng bao nhiêu?",
+   "answer": "4"
+  }
+ },
+ {
+  "id": "vnm_12_16",
+  "subject": "math",
+  "name": "Xác suất có điều kiện",
+  "grade": 12,
+  "stage": "thpt",
+  "domain": "Thống kê và Xác suất",
+  "chapter": "Chương VI. Xác suất có điều kiện",
+  "type": "procedural",
+  "description": "P(A|B) = P(AB)/P(B); công thức nhân xác suất.",
+  "diagnostic_question": {
+   "question": "P(AB) = 0,2, P(B) = 0,5. Tính P(A|B).",
+   "answer": "0,4"
+  }
+ },
+ {
+  "id": "vnm_12_17",
+  "subject": "math",
+  "name": "Công thức xác suất toàn phần; công thức Bayes",
+  "grade": 12,
+  "stage": "thpt",
+  "domain": "Thống kê và Xác suất",
+  "chapter": "Chương VI. Xác suất có điều kiện",
+  "type": "procedural",
+  "description": "P(A) = P(B)P(A|B) + P(B̄)P(A|B̄); P(B|A) = P(B)P(A|B)/P(A).",
+  "diagnostic_question": {
+   "question": "P(B) = 0,6, P(A|B) = 0,5, P(A|B̄) = 0,25. Tính P(A).",
+   "answer": "0,4"
+  }
+ }
+]
